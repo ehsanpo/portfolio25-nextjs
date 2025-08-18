@@ -4,6 +4,7 @@ import { allBlogs } from "contentlayer/generated";
 import { findContentWithFallback } from "@/lib/i18n";
 import { useLanguage } from "@/lib/LanguageContext";
 import { notFound, useParams } from "next/navigation";
+import { ArticleLayout } from "@/components/layouts/ArticleLayout";
 
 export default function BlogPostPage() {
   const { currentLanguage } = useLanguage();
@@ -16,29 +17,33 @@ export default function BlogPostPage() {
     notFound();
   }
 
-  return (
-    <article className="max-w-4xl mx-auto prose">
-      <header className="mb-8">
-        <h1 className="text-4xl font-bold mb-4">{post.title}</h1>
-        <div className="flex justify-between items-center text-gray-600 mb-4">
-          <time>{new Date(post.date).toLocaleDateString()}</time>
-          {post.tags && (
-            <div className="flex gap-2">
-              {post.tags.map((tag: string) => (
-                <span
-                  key={tag}
-                  className="bg-gray-200 px-2 py-1 rounded text-sm"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
-          )}
-        </div>
-        <p className="text-xl text-gray-600">{post.summary}</p>
-      </header>
+  // Convert contentlayer data to ArticleLayout props
+  const articleData = {
+    title: post.title,
+    excerpt: post.summary,
+    content: [
+      {
+        id: "main-content",
+        title: "",
+        content: post.body.html,
+        type: "text" as const,
+      },
+    ],
+    publishDate: post.date,
+    readTime: `${Math.ceil(post.body.html.split(" ").length / 200)} min read`,
+    tags: post.tags || [],
+    author: {
+      name: "Ehsan Pourhadi",
+      bio: "Full Stack Developer & Designer",
+      avatar: "/images/avatar.jpg",
+      social: {
+        twitter: "https://twitter.com/ehsanpourhadi",
+        linkedin: "https://linkedin.com/in/ehsanpourhadi",
+        github: "https://github.com/ehsanpourhadi",
+      },
+    },
+    relatedArticles: [], // You can implement related articles logic here
+  };
 
-      <div dangerouslySetInnerHTML={{ __html: post.body.html }} />
-    </article>
-  );
+  return <ArticleLayout {...articleData} />;
 }

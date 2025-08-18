@@ -5,7 +5,8 @@ import React, {
   useRef,
   useEffect,
   createContext,
-  useContext} from "react";
+  useContext,
+} from "react";
 import dynamic from "next/dynamic";
 import { Button } from "./Button";
 import { Badge } from "./Badge";
@@ -16,8 +17,9 @@ import {
   SkipForward,
   Volume2,
   VolumeX,
-  Minimize2} from "lucide-react";
-import { cn } from "../../utils/cn";
+  Minimize2,
+} from "lucide-react";
+import { cn } from "../../lib/cn";
 
 interface Track {
   id: string;

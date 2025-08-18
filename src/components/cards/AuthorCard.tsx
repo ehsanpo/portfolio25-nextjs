@@ -2,22 +2,24 @@
 
 import React, { useState } from "react";
 import { Card } from "./Card";
-import { Button } from "./Button";
-import { Badge } from "./Badge";
-import { MapPin,
-  Calendar, 
+import { Button } from "../ui//Button";
+import { Badge } from "../ui/Badge";
+import {
+  MapPin,
+  Calendar,
   Mail,
   Twitter,
   Linkedin,
   Github,
-  Globe, 
+  Globe,
   Award,
   Heart,
   MessageCircle,
   FolderDown as Follow,
   UserPlus,
-  UserCheck} from "lucide-react";
-import { cn } from "../../utils/cn";
+  UserCheck,
+} from "lucide-react";
+import { cn } from "../../lib/cn";
 
 interface AuthorCardProps {
   name: string;

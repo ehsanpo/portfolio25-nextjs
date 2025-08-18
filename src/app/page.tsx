@@ -29,7 +29,7 @@ export default function Home() {
               </h3>
               <p className="text-gray-600 mb-2">{post.summary}</p>
               <time className="text-sm text-gray-500">
-                {new Date(post.date).toLocaleDateString()}
+                {/* {new Date(post.date).toLocaleDateString()} */}
               </time>
             </article>
           ))}

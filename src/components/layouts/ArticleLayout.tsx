@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
-import { Card, CardTitle } from "./Card";
-import { Button } from "./Button";
-import { Badge } from "./Badge";
-import { AuthorCard } from "./AuthorCard";
-import { ShareButtons } from "./ShareButtons";
+import { Card, CardTitle } from "../cards/Card";
+import { Button } from "../ui/Button";
+import { Badge } from "../ui/Badge";
+import { AuthorCard } from "../cards/AuthorCard";
+import { ShareButtons } from "../ui/ShareButtons";
 import {
   Calendar,
   Clock,
@@ -16,7 +16,7 @@ import {
   Tag,
   ChevronUp,
 } from "lucide-react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../lib/cn";
 
 interface ArticleSection {
   id: string;
@@ -182,7 +182,7 @@ export function ArticleLayout({
           <div className="my-8">
             <blockquote className="border-l-4 border-primary-500 pl-6 py-4 bg-primary-500/5 rounded-r-lg">
               <p className="text-lg font-kabel italic text-foreground leading-relaxed">
-                "{section.quote?.text}"
+                {section.quote?.text}
               </p>
               {section.quote?.author && (
                 <cite className="text-sm text-muted-foreground font-basement mt-2 block">

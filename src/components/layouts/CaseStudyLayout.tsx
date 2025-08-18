@@ -1,11 +1,11 @@
 "use client";
 
 import React, { useState } from "react";
-import { Card, CardContent, CardTitle } from "./Card";
-import { Button } from "./Button";
-import { Badge } from "./Badge";
-import { ShareButtons } from "./ShareButtons";
-import { ImageGallery } from "./ImageGallery";
+import { Card, CardTitle, CardContent } from "../cards/Card";
+import { Button } from "../ui/Button";
+import { Badge } from "../ui/Badge";
+import { ShareButtons } from "../ui/ShareButtons";
+import { ImageGallery } from "../ImageGallery";
 import {
   ExternalLink,
   Github,
@@ -23,7 +23,7 @@ import {
   ChevronDown,
   ChevronUp,
 } from "lucide-react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../lib/cn";
 
 interface CaseStudySection {
   id: string;
