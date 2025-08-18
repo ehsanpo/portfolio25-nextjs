@@ -1,37 +1,36 @@
+"use client";
+
 import { allPortfolios } from "contentlayer/generated";
 import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { useParams } from "next/navigation";
 import Link from "next/link";
-import { Metadata } from "next";
 
-interface CategoryPageProps {
-  params: { slug: string };
-}
+export default function PortfolioCategoryPage() {
+  const params = useParams();
+  const slug = params.slug as string;
 
-export async function generateMetadata({
-  params,
-}: CategoryPageProps): Promise<Metadata> {
-  const { slug } = await params;
-  const categoryName = slug.replace(/-/g, " ");
-
-  return {
-    title: `${categoryName} Projects`,
-    description: `Portfolio projects in the ${categoryName} category`,
-  };
-}
-
-export default async function PortfolioCategoryPage({
-  params,
-}: CategoryPageProps) {
-  const { slug } = await params;
   const categoryName = slug.replace(/-/g, " ");
   const allProjects = filterContentByLanguage(allPortfolios, defaultLanguage);
 
+  // Debug logging
+  console.log("Category slug:", slug);
+  console.log("Category name:", categoryName);
+  console.log("All projects count:", allProjects.length);
+  console.log("Sample project categories:", allProjects[0]?.category);
+
   // Filter projects that have the category (case insensitive)
-  const projects = allProjects.filter((project) =>
-    project.category?.some(
-      (cat) => cat.toLowerCase().replace(/\s+/g, "-") === slug
-    )
-  );
+  const projects = allProjects.filter((project) => {
+    const hasCategory = project.category?.some(
+      (cat) => cat.toLowerCase().replace(/\s+/g, "-") === slug.toLowerCase()
+    );
+    console.log(
+      `Project ${project.title} categories:`,
+      project.category,
+      "matches:",
+      hasCategory
+    );
+    return hasCategory;
+  });
 
   return (
     <div className="max-w-4xl mx-auto">

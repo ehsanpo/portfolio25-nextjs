@@ -1,28 +1,18 @@
+"use client";
+
 import { allPortfolios } from "contentlayer/generated";
-import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { filterContentByLanguage } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
+import { useParams } from "next/navigation";
 import Link from "next/link";
-import { Metadata } from "next";
 
-interface TagPageProps {
-  params: { slug: string };
-}
+export default function PortfolioTagPage() {
+  const { currentLanguage } = useLanguage();
+  const params = useParams();
+  const slug = params.slug as string;
 
-export async function generateMetadata({
-  params,
-}: TagPageProps): Promise<Metadata> {
-  const { slug } = await params;
   const tagName = slug.replace(/-/g, " ");
-
-  return {
-    title: `Projects tagged with ${tagName}`,
-    description: `Portfolio projects tagged with ${tagName}`,
-  };
-}
-
-export default async function PortfolioTagPage({ params }: TagPageProps) {
-  const { slug } = await params;
-  const tagName = slug.replace(/-/g, " ");
-  const allProjects = filterContentByLanguage(allPortfolios, defaultLanguage);
+  const allProjects = filterContentByLanguage(allPortfolios, currentLanguage);
 
   // Filter projects that have the tag (case insensitive)
   const projects = allProjects.filter((project) =>
