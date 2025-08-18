@@ -1,36 +1,25 @@
 "use client";
 
 import { allPortfolios } from "contentlayer/generated";
-import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { filterContentByLanguage } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 
 export default function PortfolioCategoryPage() {
+  const { currentLanguage } = useLanguage();
   const params = useParams();
   const slug = params.slug as string;
 
   const categoryName = slug.replace(/-/g, " ");
-  const allProjects = filterContentByLanguage(allPortfolios, defaultLanguage);
-
-  // Debug logging
-  console.log("Category slug:", slug);
-  console.log("Category name:", categoryName);
-  console.log("All projects count:", allProjects.length);
-  console.log("Sample project categories:", allProjects[0]?.category);
+  const allProjects = filterContentByLanguage(allPortfolios, currentLanguage);
 
   // Filter projects that have the category (case insensitive)
-  const projects = allProjects.filter((project) => {
-    const hasCategory = project.category?.some(
+  const projects = allProjects.filter((project) =>
+    project.category?.some(
       (cat) => cat.toLowerCase().replace(/\s+/g, "-") === slug.toLowerCase()
-    );
-    console.log(
-      `Project ${project.title} categories:`,
-      project.category,
-      "matches:",
-      hasCategory
-    );
-    return hasCategory;
-  });
+    )
+  );
 
   return (
     <div className="max-w-4xl mx-auto">

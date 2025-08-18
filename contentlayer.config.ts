@@ -48,6 +48,13 @@ export const Portfolio = defineDocumentType(() => ({
     logo: { type: "string" },
     images: { type: "list", of: { type: "string" } },
     port_date: { type: "list", of: { type: "string" } },
+    // Additional fields found in content
+    video: { type: "string" },
+    onHome: { type: "boolean" },
+    title2: { type: "string" },
+    description: { type: "string" },
+    cover: { type: "string" },
+    logo2: { type: "string" },
   },
   computedFields: {
     slug: {
