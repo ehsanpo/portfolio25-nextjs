@@ -1,0 +1,1265 @@
+[
+  {
+    "title": "040.fm",
+    "date": "2019-03-28T12:40:59.000Z",
+    "status": "publish",
+    "permalink": "040-fm",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 314,
+    "agency": "Freelance",
+    "category": [
+      "Design",
+      "Lab",
+      "Sysadmin"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP",
+      "SHOUTcast",
+      "Youtube API"
+    ],
+    "case_link_url": "",
+    "client": "040.fm",
+    "tagline": "ما 040 را اجرا می کنیم",
+    "background_image": "040-bg.png",
+    "logo": "040-logo.jpg",
+    "images": [
+      "040-4.jpg",
+      "040-3.png",
+      "040-1.jpg",
+      "040-2.jpg",
+      "040-5.jpg",
+      "040-6.jpg"
+    ],
+    "port_date": [
+      "2009"
+    ],
+    "body": {
+      "raw": "<h2>پیشینه:</h2>\n040.fm یک گروه موسیقی و فرهنگی است که در سال 2009 با ماموریت حمایت از حقوق موسیقیدانان و هنرمندان تشکیل شد. آنها قصد داشتند موسیقی و فرهنگ خیابان‌ها را مستقیماً به خیابان‌ها بیاورند و یک جامعه پر جنب و جوش و شامل همه را رشد دهند.\n\n<h2>هدف:</h2>\nدر مارس 2019، احسان، یک طراح و توسعه‌دهنده فریلنسر، با طراحی مجدد وب‌سایت 040.fm برای بهبود تجربه کاربر، دسترسی و عملکرد آن مامور شد. تمرکز اصلی بر روی بازسازی وب‌سایت با استفاده از CSS، HTML، Javascript، PHP، SHOUTcast و API یوتیوب بود، بهینه‌سازی آن برای همخوانی با فرهنگ خیابان و انتقال موثر ماموریت گروه.\n\n<h2>رویکرد:</h2>\n\n    <ul>\n\n    <li>\n    <h3> تحقیق و تجزیه و تحلیل: </h3>\n    احسان با انجام تحقیقات جامع در مورد فرهنگ خیابان، مخاطبان هدف و ماموریت و ارزش‌های سازمان پروژه را آغاز کرد. این تحقیقات در درک نیازها و ترجیحات خاص جامعه کمک کرد.\n    </li>\n    <li>\n    <h3>طراحی و برندسازی: </h3>\n    احسان با مشتری همکاری کرد تا جهت طراحی را ایجاد کند که جوهر فرهنگ خیابان را منعکس می‌کند. این شامل ایجاد یک لوگوی جذاب بصری، انتخاب تصاویر پس‌زمینه مناسب (مانند '040-bg.png') و دیگر تصاویر ('040-4.jpg'، '040-3.png'، و غیره) بود که روح حرکت 040.fm را تداعی می‌کرد.\n\n    </li>\n    <li>\n\n    <h3>پیاده‌سازی فنی: </h3>\n    با استفاده از CSS، HTML، Javascript، PHP، SHOUTcast و API یوتیوب، احسان روی طراحی مجدد وب‌سایت کار کرد تا عملکرد و تعامل کاربر آن را بهبود ببخشد. پیاده‌سازی فنی با هدف بهینه‌سازی سایت برای پخش موسیقی (SHOUTcast) و ادغام بی‌درز محتوای یوتیوب انجام شد.\n\n    </li>\n    <li>\n\n    <h3>بهینه‌سازی تجربه کاربر: </h3>\n    احسان تاکید بر ایجاد یک رابط کاربری شهودی و جذاب داشت تا تجربه کلی کاربر را بهبود ببخشد. این شامل بهبود ناوبری، اطمینان از پاسخگویی موبایل و بهینه‌سازی زمان بارگذاری برای تجربه مرور کارآمد و رضایت‌بخش بود.\n\n    </li>\n    <li>\n    <h3>تست و تکرار: </h3>\n    تست‌های دقیقی انجام شد تا هرگونه باگ، خطا یا ناهماهنگی در طراحی و عملکرد وب‌سایت شناسایی شود. بازخورد از کاربران و مشتری برای انجام تصحیحات لازم و اطمینان از اینکه وب‌سایت به طور موثری اهداف خود را برآورده می‌کند، در نظر گرفته شد.\n\n    </li>\n\n    </ul>\n\n<h2>نتیجه:</h2>\nوب‌سایت طراحی مجدد 040.fm با موفقیت جوهر فرهنگ خیابان را به تصویر کشید و ماموریت سازمان را به مخاطبان هدف خود بطور موثر ارتباط داد. وب‌سایت یک پلتفرم برای علاقه‌مندان به موسیقی فراهم کرد تا با جامعه در تماس باشند و به محتوای مرتبط بدون مشکل دسترسی داشته باشند، که در نهایت به حمایت گروه از حقوق موسیقی و فرهنگ کمک کرد.\n",
+      "html": "<pre><code>&#x3C;ul>\n\n&#x3C;li>\n&#x3C;h3> تحقیق و تجزیه و تحلیل: &#x3C;/h3>\nاحسان با انجام تحقیقات جامع در مورد فرهنگ خیابان، مخاطبان هدف و ماموریت و ارزش‌های سازمان پروژه را آغاز کرد. این تحقیقات در درک نیازها و ترجیحات خاص جامعه کمک کرد.\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>طراحی و برندسازی: &#x3C;/h3>\nاحسان با مشتری همکاری کرد تا جهت طراحی را ایجاد کند که جوهر فرهنگ خیابان را منعکس می‌کند. این شامل ایجاد یک لوگوی جذاب بصری، انتخاب تصاویر پس‌زمینه مناسب (مانند '040-bg.png') و دیگر تصاویر ('040-4.jpg'، '040-3.png'، و غیره) بود که روح حرکت 040.fm را تداعی می‌کرد.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>پیاده‌سازی فنی: &#x3C;/h3>\nبا استفاده از CSS، HTML، Javascript، PHP، SHOUTcast و API یوتیوب، احسان روی طراحی مجدد وب‌سایت کار کرد تا عملکرد و تعامل کاربر آن را بهبود ببخشد. پیاده‌سازی فنی با هدف بهینه‌سازی سایت برای پخش موسیقی (SHOUTcast) و ادغام بی‌درز محتوای یوتیوب انجام شد.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>بهینه‌سازی تجربه کاربر: &#x3C;/h3>\nاحسان تاکید بر ایجاد یک رابط کاربری شهودی و جذاب داشت تا تجربه کلی کاربر را بهبود ببخشد. این شامل بهبود ناوبری، اطمینان از پاسخگویی موبایل و بهینه‌سازی زمان بارگذاری برای تجربه مرور کارآمد و رضایت‌بخش بود.\n\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>تست و تکرار: &#x3C;/h3>\nتست‌های دقیقی انجام شد تا هرگونه باگ، خطا یا ناهماهنگی در طراحی و عملکرد وب‌سایت شناسایی شود. بازخورد از کاربران و مشتری برای انجام تصحیحات لازم و اطمینان از اینکه وب‌سایت به طور موثری اهداف خود را برآورده می‌کند، در نظر گرفته شد.\n\n&#x3C;/li>\n\n&#x3C;/ul>\n</code></pre>"
+    },
+    "_id": "portfolio/040-fm/040-fm.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/040-fm/040-fm.fa.md",
+      "sourceFileName": "040-fm.fa.md",
+      "sourceFileDir": "portfolio/040-fm",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/040-fm/040-fm.fa"
+    },
+    "slug": "040-fm",
+    "lang": "fa"
+  },
+  {
+    "title": "040.fm",
+    "date": "2019-03-28T12:40:59.000Z",
+    "status": "publish",
+    "permalink": "040-fm",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 314,
+    "agency": "Freelance",
+    "category": [
+      "Design",
+      "Lab",
+      "Sysadmin"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP",
+      "SHOUTcast",
+      "Youtube API"
+    ],
+    "case_link_url": "",
+    "client": "040.fm",
+    "tagline": "We run 040",
+    "background_image": "040-bg.png",
+    "logo": "040-logo.jpg",
+    "images": [
+      "040-4.jpg",
+      "040-3.png",
+      "040-1.jpg",
+      "040-2.jpg",
+      "040-5.jpg",
+      "040-6.jpg"
+    ],
+    "port_date": [
+      "2009"
+    ],
+    "body": {
+      "raw": "\n<h2>Background:</h2>\n040.fm is a music and culture group formed in 2009 with a mission to advocate for the rights of musicians and artists. They aimed to bring the music and culture of the streets directly to the streets, fostering a vibrant and inclusive community.\n\n<h2>Objective:</h2>\nIn March 2019, Ehsan, a freelance designer and developer, was tasked with redesigning the 040.fm website to enhance its user experience, accessibility, and functionality. The primary focus was to revamp the website using CSS, HTML, Javascript, PHP, SHOUTcast, and the YouTube API, optimizing it to resonate with the street culture and effectively convey the group's mission.\n\n<h2>Approach:</h2>\n\n    <ul>\n\n    <li>\n    <h3> Research and Analysis: </h3>\n    Ehsan initiated the project by conducting thorough research on street culture, the target audience, and the organization's mission and values. This research helped in understanding the specific needs and preferences of the community.\n    </li>\n    <li>\n    <h3>Design and Branding: </h3>\n    Ehsan collaborated with the client to establish a design direction that reflected the essence of street culture. This involved creating a visually appealing logo, selecting suitable background images (like '040-bg.png') and other visuals ('040-4.jpg', '040-3.png', etc.) that embodied the spirit of the 040.fm movement.\n\n    </li>\n    <li>\n\n    <h3>Technical Implementation: </h3>\n    Leveraging CSS, HTML, Javascript, PHP, SHOUTcast, and the YouTube API, Ehsan worked on redesigning the website to improve its functionality and user interactivity. The technical implementation aimed to optimize the site for music streaming (SHOUTcast) and seamless integration of YouTube content.\n\n    </li>\n    <li>\n\n    <h3>User Experience Optimization: </h3>\n    Ehsan emphasized creating an intuitive and engaging user interface to enhance the overall user experience. This included improving navigation, ensuring mobile responsiveness, and optimizing load times for an efficient and satisfying browsing experience.\n\n    </li>\n    <li>\n    <h3>Testing and Iteration: </h3>\n    Rigorous testing was carried out to identify any bugs, errors, or inconsistencies in the website's design and functionality. Feedback from users and the client was incorporated to make necessary refinements and ensure the website met its objectives effectively.\n\n    </li>\n\n    </ul>\n\n<h2>Outcome:</h2>\nThe redesigned 040.fm website successfully captured the essence of street culture and effectively communicated the organization's mission to its target audience. The website provided a platform for music enthusiasts to engage with the community and access relevant content seamlessly, ultimately contributing to the group's advocacy for music and culture rights.\n",
+      "html": "<pre><code>&#x3C;ul>\n\n&#x3C;li>\n&#x3C;h3> Research and Analysis: &#x3C;/h3>\nEhsan initiated the project by conducting thorough research on street culture, the target audience, and the organization's mission and values. This research helped in understanding the specific needs and preferences of the community.\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>Design and Branding: &#x3C;/h3>\nEhsan collaborated with the client to establish a design direction that reflected the essence of street culture. This involved creating a visually appealing logo, selecting suitable background images (like '040-bg.png') and other visuals ('040-4.jpg', '040-3.png', etc.) that embodied the spirit of the 040.fm movement.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>Technical Implementation: &#x3C;/h3>\nLeveraging CSS, HTML, Javascript, PHP, SHOUTcast, and the YouTube API, Ehsan worked on redesigning the website to improve its functionality and user interactivity. The technical implementation aimed to optimize the site for music streaming (SHOUTcast) and seamless integration of YouTube content.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>User Experience Optimization: &#x3C;/h3>\nEhsan emphasized creating an intuitive and engaging user interface to enhance the overall user experience. This included improving navigation, ensuring mobile responsiveness, and optimizing load times for an efficient and satisfying browsing experience.\n\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>Testing and Iteration: &#x3C;/h3>\nRigorous testing was carried out to identify any bugs, errors, or inconsistencies in the website's design and functionality. Feedback from users and the client was incorporated to make necessary refinements and ensure the website met its objectives effectively.\n\n&#x3C;/li>\n\n&#x3C;/ul>\n</code></pre>"
+    },
+    "_id": "portfolio/040-fm/040-fm.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/040-fm/040-fm.md",
+      "sourceFileName": "040-fm.md",
+      "sourceFileDir": "portfolio/040-fm",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/040-fm/040-fm"
+    },
+    "slug": "040-fm",
+    "lang": "en"
+  },
+  {
+    "title": "040.fm",
+    "date": "2019-03-28T12:40:59.000Z",
+    "status": "publish",
+    "permalink": "040-fm",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 314,
+    "agency": "Freelance",
+    "category": [
+      "Design",
+      "Lab",
+      "Sysadmin"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP",
+      "SHOUTcast",
+      "Youtube API"
+    ],
+    "case_link_url": "",
+    "client": "040.fm",
+    "tagline": "Vi driver 040",
+    "background_image": "040-bg.png",
+    "logo": "040-logo.jpg",
+    "images": [
+      "040-4.jpg",
+      "040-3.png",
+      "040-1.jpg",
+      "040-2.jpg",
+      "040-5.jpg",
+      "040-6.jpg"
+    ],
+    "port_date": [
+      "2009"
+    ],
+    "body": {
+      "raw": "<h2>Bakgrund:</h2>\n040.fm är en musik- och kulturgrupp som bildades 2009 med uppdraget att kämpa för musikers och konstnärers rättigheter. De syftade till att föra musiken och kulturen från gatan direkt till gatan, och främja ett livligt och inkluderande samhälle.\n\n<h2>Mål:</h2>\nI mars 2019 fick Ehsan, en frilansande designer och utvecklare, i uppdrag att omforma 040.fm:s webbplats för att förbättra dess användarupplevelse, tillgänglighet och funktionalitet. Det primära fokuset var att förnya webbplatsen med hjälp av CSS, HTML, Javascript, PHP, SHOUTcast och YouTube API, och optimera den för att resonera med gatukulturen och effektivt förmedla gruppens uppdrag.\n\n<h2>Ansats:</h2>\n\n    <ul>\n\n    <li>\n    <h3> Forskning och analys: </h3>\n    Ehsan inledde projektet med att genomföra en grundlig forskning om gatukulturen, målgruppen och organisationens uppdrag och värderingar. Denna forskning hjälpte till att förstå samhällets specifika behov och preferenser.\n    </li>\n    <li>\n    <h3>Design och varumärkesprofilering: </h3>\n    Ehsan samarbetade med kunden för att fastställa en designriktning som speglade gatukulturens kärna. Detta innebar att skapa en visuellt tilltalande logotyp, välja lämpliga bakgrundsbilder (som '040-bg.png') och andra visuella element ('040-4.jpg', '040-3.png', etc.) som förkroppsligade 040.fm-rörelsens anda.\n\n    </li>\n    <li>\n\n    <h3>Teknisk implementering: </h3>\n    Med hjälp av CSS, HTML, Javascript, PHP, SHOUTcast och YouTube API arbetade Ehsan med att omforma webbplatsen för att förbättra dess funktionalitet och användarinteraktivitet. Den tekniska implementeringen syftade till att optimera webbplatsen för musikströmning (SHOUTcast) och sömlös integration av YouTube-innehåll.\n\n    </li>\n    <li>\n\n    <h3>Optimering av användarupplevelse: </h3>\n    Ehsan betonade skapandet av ett intuitivt och engagerande användargränssnitt för att förbättra den övergripande användarupplevelsen. Detta inkluderade att förbättra navigeringen, säkerställa mobilresponsivitet och optimera laddningstider för en effektiv och tillfredsställande surfupplevelse.\n\n    </li>\n    <li>\n    <h3>Testning och iteration: </h3>\n    Rigorös testning utfördes för att identifiera eventuella buggar, fel eller inkonsekvenser i webbplatsens design och funktionalitet. Feedback från användare och kunden införlivades för att göra nödvändiga förfiningar och säkerställa att webbplatsen effektivt uppfyllde sina mål.\n\n    </li>\n\n    </ul>\n\n<h2>Resultat:</h2>\nDen omformade 040.fm-webbplatsen lyckades fånga gatukulturens kärna och effektivt kommunicera organisationens uppdrag till sin målgrupp. Webbplatsen erbjöd en plattform för musikentusiaster att engagera sig med samhället och få tillgång till relevant innehåll sömlöst, vilket i slutändan bidrog till gruppens förespråkande för musik- och kulturrättigheter.\n",
+      "html": "<pre><code>&#x3C;ul>\n\n&#x3C;li>\n&#x3C;h3> Forskning och analys: &#x3C;/h3>\nEhsan inledde projektet med att genomföra en grundlig forskning om gatukulturen, målgruppen och organisationens uppdrag och värderingar. Denna forskning hjälpte till att förstå samhällets specifika behov och preferenser.\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>Design och varumärkesprofilering: &#x3C;/h3>\nEhsan samarbetade med kunden för att fastställa en designriktning som speglade gatukulturens kärna. Detta innebar att skapa en visuellt tilltalande logotyp, välja lämpliga bakgrundsbilder (som '040-bg.png') och andra visuella element ('040-4.jpg', '040-3.png', etc.) som förkroppsligade 040.fm-rörelsens anda.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>Teknisk implementering: &#x3C;/h3>\nMed hjälp av CSS, HTML, Javascript, PHP, SHOUTcast och YouTube API arbetade Ehsan med att omforma webbplatsen för att förbättra dess funktionalitet och användarinteraktivitet. Den tekniska implementeringen syftade till att optimera webbplatsen för musikströmning (SHOUTcast) och sömlös integration av YouTube-innehåll.\n\n&#x3C;/li>\n&#x3C;li>\n\n&#x3C;h3>Optimering av användarupplevelse: &#x3C;/h3>\nEhsan betonade skapandet av ett intuitivt och engagerande användargränssnitt för att förbättra den övergripande användarupplevelsen. Detta inkluderade att förbättra navigeringen, säkerställa mobilresponsivitet och optimera laddningstider för en effektiv och tillfredsställande surfupplevelse.\n\n&#x3C;/li>\n&#x3C;li>\n&#x3C;h3>Testning och iteration: &#x3C;/h3>\nRigorös testning utfördes för att identifiera eventuella buggar, fel eller inkonsekvenser i webbplatsens design och funktionalitet. Feedback från användare och kunden införlivades för att göra nödvändiga förfiningar och säkerställa att webbplatsen effektivt uppfyllde sina mål.\n\n&#x3C;/li>\n\n&#x3C;/ul>\n</code></pre>"
+    },
+    "_id": "portfolio/040-fm/040-fm.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/040-fm/040-fm.sv.md",
+      "sourceFileName": "040-fm.sv.md",
+      "sourceFileDir": "portfolio/040-fm",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/040-fm/040-fm.sv"
+    },
+    "slug": "040-fm",
+    "lang": "sv"
+  },
+  {
+    "title": "Äppleappen",
+    "date": "2019-03-28T10:31:34.000Z",
+    "status": "publish",
+    "permalink": "appleappen",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 225,
+    "agency": "Whitespace",
+    "category": [
+      "Backend",
+      "Front-end",
+      "Mobile",
+      "UX"
+    ],
+    "tag": [
+      "Angular",
+      "CSS",
+      "HTML",
+      "Phonegap"
+    ],
+    "case_link_url": "http://api.appelappen.nordiskamuseet.se",
+    "client": "موزه نوردیکا",
+    "tagline": "کشف سیب های سوئدی در موبایل",
+    "background_image": "appleappen-top.jpg",
+    "logo": "appleappen-logo.jpg",
+    "images": [
+      "appleappen-1.jpg"
+    ],
+    "port_date": [
+      "2016"
+    ],
+    "body": {
+      "raw": "<h2>برنامه Nordiska Museet Swedish Apples: مطالعه موردی در ساخت یک برنامه جامع برای علاقه‌مندان به سیب‌های سوئدی</h2>\n\n  <h3>مقدمه:</h3>\n  <p>\n    برنامه Nordiska Museet Swedish Apples برای ارائه یک منبع ارزشمند برای کسی که علاقه‌مند به یادگیری بیشتر در مورد انواع سیب سوئدی است، توسعه یافت. این برنامه کمک می‌کند تا انواع سیب را شناسایی کنید، اطلاعاتی در مورد کشت سیب ارائه می‌دهد و تاریخچه سیب‌های مورد علاقه شما را بررسی می‌کند. این برنامه برای دانلود در هر دو پلتفرم iOS و Android موجود است.\n  </p>\n\n  <h3>همکاری تیمی و توسعه:</h3>\n  <p>\n    در یک تیم کار کردیم که شامل یک طراح، دو توسعه‌دهنده full-stack و خود من بود، و ما با موفقیت هر دو نسخه Android و وب از برنامه را ساختیم. تلاش مشترک ما باعث شد که طراحی و عملکرد برنامه با دقت برای برآورده کردن نیازهای علاقه‌مندان به سیب سوئدی طراحی شود. طی فرآیند توسعه، ما از فناوری‌هایی مانند Angular، CSS، HTML و PhoneGap استفاده کردیم تا یک تجربه کاربری بی‌درز در سراسر پلتفرم‌های مختلف ارائه دهیم.\n  </p>\n\n  <h3>ویژگی‌ها و عملکرد برنامه:</h3>\n  <p>\n    برنامه Swedish Apples اطلاعات فراوانی در مورد بیش از 300 نوع سیب سوئدی ارائه می‌دهد. کاربران به راحتی می‌توانند خصوصیات هر نوع را تعیین کنند، از جمله بلوغ، ظاهر و طعم. علاوه بر این، نسخه‌های iPhone و iPad از برنامه امکان مشاهده انواع سیب‌های کشت شده توسط دیگران، به اشتراک گذاشتن عکس‌های سیب‌های خود و نشانه‌گذاری درختان میوه خود روی نقشه را ارائه می‌دهند. کاربران همچنین می‌توانند محبوبیت انواع مختلف سیب را بررسی کنند و یک مجموعه از انواع مورد علاقه خود که در باغ‌های خود کشت شده‌اند را ایجاد کنند.\n  </p>\n\n  <h3>همکاری و پشتیبانی:</h3>\n  <p>\n    توسعه برنامه با همکاری با Mats Brokvist، یک شناسایی کننده فعال انواع در انجمن Pomological سوئد امکان‌پذیر شد. با پشتیبانی از Riksförbundet Svensk Trädgård (انجمن باغبانی سوئد) و دانش باغبانان متخصص در Julita gård، بایگانی قدیمی‌ترین کلون سوئد برای حفظ انواع میوه قدیمی، برنامه اطلاعات گسترده‌ای در مورد کشت، پیوند و موضوعات مرتبط دیگر را در بر می‌گیرد.\n  </p>\n\n  <h3>نتیجه‌گیری:</h3>\n  <p>\n    برنامه Nordiska Museet Swedish Apples به عنوان یک شاهد برای تلاش مشترک ما در توسعه یک منبع جامع و کاربرپسند برای علاقه‌مندان به سیب سوئدی ایستاده است. با یک تیم شامل طراحان، توسعه‌دهندگان full-stack و خود من به عنوان یک توسعه‌دهنده، ما با موفقیت هر دو نسخه Android و وب از برنامه را ساختیم. ویژگی‌های برنامه، از جمله اطلاعات گسترده در مورد انواع سیب سوئدی و توانایی به اشتراک گذاشتن و بررسی مجموعه‌های سیب کاربران دیگر، یک منبع ارزشمند برای علاقه‌مندان به سیب ارائه می‌دهد. همکاری با خبرگان در این زمینه و پشتیبانی از انجمن باغبانی سوئد، اعتبار و محتوای برنامه را بیشتر کرد. برنامه Nordiska Museet Swedish Apples به ترویج دانش و استفاده از انواع سیب سوئدی می‌پردازد و ما افتخار می‌کنیم که به این تلاش کمک کرده‌ایم.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/appleappen/appleappen.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/appleappen/appleappen.fa.md",
+      "sourceFileName": "appleappen.fa.md",
+      "sourceFileDir": "portfolio/appleappen",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/appleappen/appleappen.fa"
+    },
+    "slug": "appleappen",
+    "lang": "fa"
+  },
+  {
+    "title": "Äppleappen",
+    "date": "2019-03-28T10:31:34.000Z",
+    "status": "publish",
+    "permalink": "appleappen",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 225,
+    "agency": "Whitespace",
+    "category": [
+      "Backend",
+      "Front-end",
+      "Mobile",
+      "UX"
+    ],
+    "tag": [
+      "Angular",
+      "CSS",
+      "HTML",
+      "Phonegap"
+    ],
+    "case_link_url": "http://api.appelappen.nordiskamuseet.se",
+    "client": "Nordiska museet",
+    "tagline": "Upptäck svenska äpplen i mobilen",
+    "background_image": "appleappen-top.jpg",
+    "logo": "appleappen-logo.jpg",
+    "images": [
+      "appleappen-1.jpg"
+    ],
+    "port_date": [
+      "2016"
+    ],
+    "body": {
+      "raw": "\n<h2>Nordiska Museet Swedish Apples App: A Case Study in Building a Comprehensive App for Swedish Apple Enthusiasts</h2>\n\n  <h3>Introduction:</h3>\n  <p>\n    The Nordiska Museet Swedish Apples app was developed to provide a valuable resource for anyone interested in learning more about Swedish apple varieties. The app offers assistance in identifying apple varieties, provides information on apple cultivation, and explores the history of your favorite apples. The app is available for download on both iOS and Android platforms.\n  </p>\n\n  <h3>Team Collaboration and Development:</h3>\n  <p>\n    Working in a team comprising a designer, two full-stack developers, and myself, we successfully built both the Android and web versions of the app. Our collaborative effort ensured that the app's design and functionality were carefully crafted to meet the needs of Swedish apple enthusiasts. Throughout the development process, we leveraged technologies such as Angular, CSS, HTML, and PhoneGap to deliver a seamless user experience across multiple platforms.\n  </p>\n\n  <h3>App Features and Functionality:</h3>\n  <p>\n    The Swedish Apples app provides a wealth of information on over 300 Swedish apple varieties. Users can easily determine the characteristics of each variety, including maturity, appearance, and taste. Additionally, the iPhone and iPad versions of the app offer the ability to view the apple varieties grown by others, share photos of your own apples, and mark your fruit trees on a map. Users can also explore the popularity of different apple varieties and create a collection of their favorite varieties cultivated in their own gardens.\n  </p>\n\n  <h3>Collaboration and Support:</h3>\n  <p>\n    The development of the app was made possible through collaboration with pomologist Mats Brokvist, an active variety identifier in the Swedish Pomological Society. With support from the Riksförbundet Svensk Trädgård (Swedish Garden Association) and expertise from the knowledgeable gardeners at Julita gård, Sweden's oldest clone archive for preserving older fruit varieties, the app incorporates extensive information on cultivation, grafting, and other related topics.\n  </p>\n\n  <h3>Conclusion:</h3>\n  <p>\n    The Nordiska Museet Swedish Apples app stands as a testament to our collaborative effort in developing a comprehensive and user-friendly resource for Swedish apple enthusiasts. With a team consisting of designers, full-stack developers, and myself as a developer, we successfully built both the Android and web versions of the app. The app's features, including the extensive information on Swedish apple varieties and the ability to share and explore other users' apple collections, provide a valuable resource for apple lovers. The collaboration with experts in the field and the support from Swedish Garden Association further enhanced the app's credibility and content. The Nordiska Museet Swedish Apples app aims to promote knowledge and utilization of Swedish apple varieties, and we are proud to have contributed to this effort.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/appleappen/appleappen.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/appleappen/appleappen.md",
+      "sourceFileName": "appleappen.md",
+      "sourceFileDir": "portfolio/appleappen",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/appleappen/appleappen"
+    },
+    "slug": "appleappen",
+    "lang": "en"
+  },
+  {
+    "title": "Äppleappen",
+    "date": "2019-03-28T10:31:34.000Z",
+    "status": "publish",
+    "permalink": "appleappen",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 225,
+    "agency": "Whitespace",
+    "category": [
+      "Backend",
+      "Front-end",
+      "Mobile",
+      "UX"
+    ],
+    "tag": [
+      "Angular",
+      "CSS",
+      "HTML",
+      "Phonegap"
+    ],
+    "case_link_url": "http://api.appelappen.nordiskamuseet.se",
+    "client": "Nordiska museet",
+    "tagline": "Upptäck svenska äpplen i mobilen",
+    "background_image": "appleappen-top.jpg",
+    "logo": "appleappen-logo.jpg",
+    "images": [
+      "appleappen-1.jpg"
+    ],
+    "port_date": [
+      "2016"
+    ],
+    "body": {
+      "raw": "<h2>Nordiska Museets Svenska Äpplen App: En fallstudie i att bygga en omfattande app för svenska äppelentusiaster</h2>\n\n  <h3>Introduktion:</h3>\n  <p>\n    Nordiska Museets Svenska Äpplen app utvecklades för att tillhandahålla en värdefull resurs för alla som är intresserade av att lära sig mer om svenska äppelsorter. Appen erbjuder hjälp med att identifiera äppelsorter, ger information om äppelodling och utforskar historien om dina favoritäpplen. Appen finns tillgänglig för nedladdning på både iOS och Android plattformar.\n  </p>\n\n  <h3>Teamarbete och Utveckling:</h3>\n  <p>\n    I ett team bestående av en designer, två full-stack utvecklare och jag själv, lyckades vi framgångsrikt bygga både Android och webbversionerna av appen. Vårt samarbete säkerställde att appens design och funktionalitet noggrant utformades för att möta behoven hos svenska äppelentusiaster. Under utvecklingsprocessen utnyttjade vi teknologier som Angular, CSS, HTML och PhoneGap för att leverera en sömlös användarupplevelse över flera plattformar.\n  </p>\n\n  <h3>Appens Funktioner och Funktionalitet:</h3>\n  <p>\n    Svenska Äpplen appen tillhandahåller en mängd information om över 300 svenska äppelsorter. Användare kan enkelt bestämma egenskaperna hos varje sort, inklusive mognad, utseende och smak. Dessutom erbjuder iPhone och iPad versionerna av appen möjligheten att se de äppelsorter som odlas av andra, dela bilder på dina egna äpplen och markera dina fruktträd på en karta. Användare kan också utforska populariteten hos olika äppelsorter och skapa en samling av sina favoritvarianter odlade i sina egna trädgårdar.\n  </p>\n\n  <h3>Samarbete och Stöd:</h3>\n  <p>\n    Utvecklingen av appen gjordes möjlig genom samarbete med pomologen Mats Brokvist, en aktiv sortidentifierare i Svenska Pomologiska Sällskapet. Med stöd från Riksförbundet Svensk Trädgård och expertis från de kunniga trädgårdsmästarna på Julita gård, Sveriges äldsta klonarkiv för bevarande av äldre fruktvarianter, innehåller appen omfattande information om odling, ympning och andra relaterade ämnen.\n  </p>\n\n  <h3>Slutsats:</h3>\n  <p>\n    Nordiska Museets Svenska Äpplen app står som ett bevis på vårt samarbete i att utveckla en omfattande och användarvänlig resurs för svenska äppelentusiaster. Med ett team bestående av designers, full-stack utvecklare och jag själv som utvecklare, lyckades vi framgångsrikt bygga både Android och webbversionerna av appen. Appens funktioner, inklusive den omfattande informationen om svenska äppelsorter och möjligheten att dela och utforska andra användares äppelsamlingar, tillhandahåller en värdefull resurs för äppelälskare. Samarbetet med experter inom området och stödet från Riksförbundet Svensk Trädgård förbättrade ytterligare appens trovärdighet och innehåll. Nordiska Museets Svenska Äpplen app syftar till att främja kunskap och användning av svenska äppelsorter, och vi är stolta över att ha bidragit till detta arbete.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/appleappen/appleappen.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/appleappen/appleappen.sv.md",
+      "sourceFileName": "appleappen.sv.md",
+      "sourceFileDir": "portfolio/appleappen",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/appleappen/appleappen.sv"
+    },
+    "slug": "appleappen",
+    "lang": "sv"
+  },
+  {
+    "title": "Bättretillvaro.se",
+    "date": "2019-03-28T13:09:28.000Z",
+    "status": "publish",
+    "permalink": "battretillvaro",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 347,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "Nodejs",
+      "PHP",
+      "React"
+    ],
+    "case_link_url": "https://bättretillvaro.se/",
+    "client": "شوق",
+    "tagline": "اینطوری است که پرستاران سوئدی در حال حاضر حال می کنند.",
+    "background_image": "btv-bg.png",
+    "logo": "btv-logo.png",
+    "images": [
+      "btv-1.png"
+    ],
+    "port_date": [
+      "2018"
+    ],
+    "body": {
+      "raw": "\n",
+      "html": ""
+    },
+    "_id": "portfolio/battretillvaro/battretillvaro-se.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/battretillvaro/battretillvaro-se.fa.md",
+      "sourceFileName": "battretillvaro-se.fa.md",
+      "sourceFileDir": "portfolio/battretillvaro",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/battretillvaro/battretillvaro-se.fa"
+    },
+    "slug": "battretillvaro",
+    "lang": "fa"
+  },
+  {
+    "title": "Bättretillvaro.se",
+    "date": "2019-03-28T13:09:28.000Z",
+    "status": "publish",
+    "permalink": "battretillvaro",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 347,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "Nodejs",
+      "PHP",
+      "React"
+    ],
+    "case_link_url": "https://bättretillvaro.se/",
+    "client": "Zest",
+    "tagline": "Så här mår svenska sjuksköterskor just nu.",
+    "background_image": "btv-bg.png",
+    "logo": "btv-logo.png",
+    "images": [
+      "btv-1.png"
+    ],
+    "port_date": [
+      "2018"
+    ],
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "portfolio/battretillvaro/battretillvaro-se.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/battretillvaro/battretillvaro-se.md",
+      "sourceFileName": "battretillvaro-se.md",
+      "sourceFileDir": "portfolio/battretillvaro",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/battretillvaro/battretillvaro-se"
+    },
+    "slug": "battretillvaro",
+    "lang": "en"
+  },
+  {
+    "title": "Bättretillvaro.se",
+    "date": "2019-03-28T13:09:28.000Z",
+    "status": "publish",
+    "permalink": "battretillvaro",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 347,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "Nodejs",
+      "PHP",
+      "React"
+    ],
+    "case_link_url": "https://bättretillvaro.se/",
+    "client": "Entusiasm",
+    "tagline": "Detta är den aktuella hälsostatusen för svenska sjuksköterskor.",
+    "background_image": "btv-bg.png",
+    "logo": "btv-logo.png",
+    "images": [
+      "btv-1.png"
+    ],
+    "port_date": [
+      "2018"
+    ],
+    "body": {
+      "raw": "\n",
+      "html": ""
+    },
+    "_id": "portfolio/battretillvaro/battretillvaro-se.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/battretillvaro/battretillvaro-se.sv.md",
+      "sourceFileName": "battretillvaro-se.sv.md",
+      "sourceFileDir": "portfolio/battretillvaro",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/battretillvaro/battretillvaro-se.sv"
+    },
+    "slug": "battretillvaro",
+    "lang": "sv"
+  },
+  {
+    "title": "Blockpress",
+    "date": "2018-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "blockpress",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 243,
+    "agency": "Guts&Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "Maintenance",
+      "Wordpress",
+      "Javascript"
+    ],
+    "case_link_url": "",
+    "client": "",
+    "tagline": "قالب و ابزار وردپرس",
+    "background_image": "bg.jpg",
+    "logo": "bg.jpg",
+    "images": [
+      "style.png",
+      "blocks1.png",
+      "blocks2.png",
+      "blocks3.png",
+      "blocks4.png",
+      "blocks5.png",
+      "blocks7.png"
+    ],
+    "body": {
+      "raw": "این پروژه مهارت در توسعه وردپرس، ایجاد ابزار خط فرمان و تضمین کیفیت خودکار را نشان می‌دهد. این مجموعه ادغام بی‌نقص طراحی ماژولار، ابزارهای دوستانه توسعه‌دهندگان و اعتبارسنجی سایت قدرتمند را برای ارائه تجربیات استثنایی کاربر و توسعه‌دهنده به نمایش می‌گذارد.\n\n<h2>بخش 1: قالب سفارشی وردپرس با بلوک‌های ساخت‌وساز ماژولار</h2>\nقالب Blocks WordPress Theme یک قالب سفارشی وردپرس است که طراحی شده است تا به کاربران انعطاف‌پذیری و آسانی بی‌نظیری در ایجاد وب‌سایت ارائه دهد. با استفاده از \"بلوک‌های\" ماژولار از پیش تعریف شده، کاربران می‌توانند وب‌سایت خود را بدون نیاز به مهارت‌های فنی پیشرفته، به طور بی‌درز طراحی و ساختاردهی کنند. هر بلوک قابل سفارشی‌سازی کامل است تا بتواند به موارد استفاده متنوع مناسب باشد.\n\n<br />\n<h3>ویژگی‌های کلیدی قالب:</h3>\n\n- بخش‌های قهرمان: معرفی‌های جذاب را به نمایش بگذارید.\n- بخش‌های اسلایدر: تصاویر متحرک یا محتوای قابل اسکرول را نمایش دهید.\n- بخش‌های متن: محتوای متنی مستقل را اضافه و استایل دهید.\n- بخش‌های تصویر-متن: تصاویر را با متن همراه برای روایت داستان ترکیب کنید.\n- بخش‌های بنر: پیام‌های کلیدی یا تبلیغات را برجسته کنید.\n- بخش‌های پیوند: مجموعه‌هایی از پیوندها را سازماندهی و ارائه دهید.\n- بخش‌های مقاله: وبلاگ‌ها یا مقالات خبری را به طور زیبا به نمایش بگذارید.\n- بخش‌های فراخوان به عمل (CTA): با اقدامات واضح، تعامل کاربر را تشویق کنید.\n- بخش‌های تصویر و ویدیو: برای محتوای پویا، رسانه‌های غنی را ادغام کنید.\n\nقابلیت ارتقا و سفارشی‌سازی سبک: تمام بلوک‌ها به گونه‌ای ساختاردهی شده‌اند که اجازه می‌دهند تغییرات CSS سراسری و یکسان اعمال شوند، ضمن حفظ سادگی برای توسعه‌دهندگان، زبان طراحی هماهنگ در سراسر سایت را تضمین می‌کند.\n\nمخزن: [قالب وردپرس Blocks](https://github.com/ehsanpo/Blocks/).\n\n<h2>بخش 2: رابط خط فرمان برای ادغام بلوک اولویت توسعه‌دهندگان</h2>\nابزار Block Generator CLI یک ابزار قدرتمند خط فرمان برای توسعه‌دهندگان است تا قابلیت قالب وردپرس Blocks را گسترش دهد. این ابزار یک رابط ساده برای مرور، نصب و ادغام بلوک‌های سفارشی جدید مستقیما از یک مخزن npm ارائه می‌دهد.\n\nقابلیت‌ها:\n\n- کشف بلوک: مرور بلوک‌های سفارشی موجود مستقیما در ترمینال.\n- نصب با یک کلیک: نصب CSS مخصوص بلوک، قالب‌های PHP و JavaScript با یک دستور.\n- ادغام بی‌درز: بلوک‌ها را بدون دخالت دستی به طور خودکار در قالب وردپرس ادغام کنید.\n\nمخزن: [ابزار Block Generator CLI](https://github.com/ehsanpo/block-gen).\n\n<h2>بخش 3: تست تضمین کیفیت خودکار</h2>\nBlocks-QATR یک ابزار تست تضمین کیفیت است که با Express.js توسعه یافته است تا اطمینان حاصل کند که سایت‌های وردپرس ساخته شده با قالب Blocks، استانداردهای بالایی از عملکرد، دسترس‌پذیری و مطابقت با SEO را رعایت می‌کنند. این ابزار بررسی‌های حیاتی در سراسر وب‌سایت را خودکار می‌کند و برای بهبود، بینش‌های عملی ارائه می‌دهد.\n\nویژگی‌های اصلی:\n\n- عکس‌های صفحه: تصاویر لحظه‌ای از تمام صفحات سایت را برای بازبینی بصری ضبط کنید.\n- اعتبارسنجی تصویر: اطمینان حاصل کنید که تمام تصاویر دارای برچسب‌های alt توصیفی هستند تا دسترس‌پذیری و SEO را افزایش دهند.\n- تأیید برچسب‌های متا: بررسی کنید که هر صفحه دارای توصیفات متا مناسب و تصاویر به اشتراک گذاری Facebook Open Graph است.\n- بررسی پیوند: پیوندهای خراب (خطاهای 404) و برچسب‌های لنگر خالی را شناسایی و گزارش کنید.\n-\n",
+      "html": "<p>این پروژه مهارت در توسعه وردپرس، ایجاد ابزار خط فرمان و تضمین کیفیت خودکار را نشان می‌دهد. این مجموعه ادغام بی‌نقص طراحی ماژولار، ابزارهای دوستانه توسعه‌دهندگان و اعتبارسنجی سایت قدرتمند را برای ارائه تجربیات استثنایی کاربر و توسعه‌دهنده به نمایش می‌گذارد.</p>\n<ul>\n<li>بخش‌های قهرمان: معرفی‌های جذاب را به نمایش بگذارید.</li>\n<li>بخش‌های اسلایدر: تصاویر متحرک یا محتوای قابل اسکرول را نمایش دهید.</li>\n<li>بخش‌های متن: محتوای متنی مستقل را اضافه و استایل دهید.</li>\n<li>بخش‌های تصویر-متن: تصاویر را با متن همراه برای روایت داستان ترکیب کنید.</li>\n<li>بخش‌های بنر: پیام‌های کلیدی یا تبلیغات را برجسته کنید.</li>\n<li>بخش‌های پیوند: مجموعه‌هایی از پیوندها را سازماندهی و ارائه دهید.</li>\n<li>بخش‌های مقاله: وبلاگ‌ها یا مقالات خبری را به طور زیبا به نمایش بگذارید.</li>\n<li>بخش‌های فراخوان به عمل (CTA): با اقدامات واضح، تعامل کاربر را تشویق کنید.</li>\n<li>بخش‌های تصویر و ویدیو: برای محتوای پویا، رسانه‌های غنی را ادغام کنید.</li>\n</ul>\n<p>قابلیت ارتقا و سفارشی‌سازی سبک: تمام بلوک‌ها به گونه‌ای ساختاردهی شده‌اند که اجازه می‌دهند تغییرات CSS سراسری و یکسان اعمال شوند، ضمن حفظ سادگی برای توسعه‌دهندگان، زبان طراحی هماهنگ در سراسر سایت را تضمین می‌کند.</p>\n<p>مخزن: <a href=\"https://github.com/ehsanpo/Blocks/\">قالب وردپرس Blocks</a>.</p>\n<p>قابلیت‌ها:</p>\n<ul>\n<li>کشف بلوک: مرور بلوک‌های سفارشی موجود مستقیما در ترمینال.</li>\n<li>نصب با یک کلیک: نصب CSS مخصوص بلوک، قالب‌های PHP و JavaScript با یک دستور.</li>\n<li>ادغام بی‌درز: بلوک‌ها را بدون دخالت دستی به طور خودکار در قالب وردپرس ادغام کنید.</li>\n</ul>\n<p>مخزن: <a href=\"https://github.com/ehsanpo/block-gen\">ابزار Block Generator CLI</a>.</p>\n<p>ویژگی‌های اصلی:</p>\n<ul>\n<li>عکس‌های صفحه: تصاویر لحظه‌ای از تمام صفحات سایت را برای بازبینی بصری ضبط کنید.</li>\n<li>اعتبارسنجی تصویر: اطمینان حاصل کنید که تمام تصاویر دارای برچسب‌های alt توصیفی هستند تا دسترس‌پذیری و SEO را افزایش دهند.</li>\n<li>تأیید برچسب‌های متا: بررسی کنید که هر صفحه دارای توصیفات متا مناسب و تصاویر به اشتراک گذاری Facebook Open Graph است.</li>\n<li>بررسی پیوند: پیوندهای خراب (خطاهای 404) و برچسب‌های لنگر خالی را شناسایی و گزارش کنید.</li>\n<li></li>\n</ul>"
+    },
+    "_id": "portfolio/blockpress/blockpress.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/blockpress/blockpress.fa.md",
+      "sourceFileName": "blockpress.fa.md",
+      "sourceFileDir": "portfolio/blockpress",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/blockpress/blockpress.fa"
+    },
+    "slug": "blockpress",
+    "lang": "fa"
+  },
+  {
+    "title": "Blockpress",
+    "date": "2018-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "blockpress",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 243,
+    "agency": "Guts&Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "Maintenance",
+      "Wordpress",
+      "Javascript"
+    ],
+    "case_link_url": "",
+    "client": "",
+    "tagline": "Wordpress Theme and Tools",
+    "background_image": "bg.jpg",
+    "logo": "bg.jpg",
+    "images": [
+      "style.png",
+      "blocks1.png",
+      "blocks2.png",
+      "blocks3.png",
+      "blocks4.png",
+      "blocks5.png",
+      "blocks7.png"
+    ],
+    "body": {
+      "raw": "\nThis project demonstrates expertise in WordPress development, command-line tool creation, and automated quality assurance. It highlights a seamless integration of modular design, developer-friendly tools, and robust site validation to deliver exceptional user and developer experiences.\n\n<h2>Part 1: Custom WordPress Template with Modular Building Blocks</h2>\nThe Blocks WordPress Theme is a custom-built WordPress template designed to offer users unparalleled flexibility and ease in website creation. By utilizing predefined modular \"Blocks,\" users can design and structure their websites seamlessly without requiring advanced technical skills. Each block is fully customizable to suit diverse use cases.\n\n<br />\n<h3>Key Features of the Template:</h3>\n\n- Hero Sections: Showcase attention-grabbing introductions.\n- Slider Sections: Display interactive, scrollable image or content slides.\n- Text Sections: Add and style standalone textual content.\n- Text-Image Sections: Combine images with accompanying text for storytelling.\n- Banner Sections: Highlight key messages or promotions.\n- Links Sections: Organize and present collections of links.\n- Article Sections: Showcase blogs or news articles elegantly.\n- Call-to-Action (CTA) Sections: Prompt user engagement with clear actions.\n- Image & Video Sections: Integrate rich media for dynamic content.\n\nScalability & Style Customization: All blocks are structured to allow consistent and global CSS modifications, ensuring a cohesive design language across the site while maintaining simplicity for developers.\n\nRepository: [Blocks WordPress Template](https://github.com/ehsanpo/Blocks/).\n\n<h2>Part 2: Command Line Interface for Developer-First Block Integration</h2>\nThe Block Generator CLI Tool is a robust command-line utility for developers to extend the functionality of the Blocks WordPress template. It provides a streamlined interface to browse, install, and integrate new custom blocks directly from an npm repository.\n\nCapabilities:\n\n- Block Discovery: Browse available custom blocks directly in the terminal.\n- One-Click Installation: Install block-specific CSS, PHP templates, and JavaScript with a single command.\n- Seamless Integration: Automatically integrate blocks into the WordPress theme without manual intervention.\n\nRepository: [Block Generator CLI Tool](https://github.com/ehsanpo/block-gen).\n\n<h2>Part 3: Automated Quality Assurance Testing</h2>\nThe Blocks-QATR is a quality assurance test runner developed with Express.js to ensure that WordPress sites built with the Blocks template meet high standards of performance, accessibility, and SEO compliance. This tool automates critical checks across the website and provides actionable insights for improvement.\n\nCore Features:\n\n- Screenshots: Capture snapshots of all site pages for visual review.\n- Image Validation: Ensure all images include descriptive alt tags to enhance accessibility and SEO.\n- Meta Tag Verification: Check that every page has proper meta descriptions and Facebook Open Graph sharing images.\n- Link Checker: Detect and report broken links (404 errors) and empty anchor tags.\n- HTML Validation: Analyze site pages for HTML syntax issues to maintain code integrity.\n\nRepository: [Blocks-QATR](https://github.com/ehsanpo/Blocks-QATR).\n",
+      "html": "<p>This project demonstrates expertise in WordPress development, command-line tool creation, and automated quality assurance. It highlights a seamless integration of modular design, developer-friendly tools, and robust site validation to deliver exceptional user and developer experiences.</p>\n<ul>\n<li>Hero Sections: Showcase attention-grabbing introductions.</li>\n<li>Slider Sections: Display interactive, scrollable image or content slides.</li>\n<li>Text Sections: Add and style standalone textual content.</li>\n<li>Text-Image Sections: Combine images with accompanying text for storytelling.</li>\n<li>Banner Sections: Highlight key messages or promotions.</li>\n<li>Links Sections: Organize and present collections of links.</li>\n<li>Article Sections: Showcase blogs or news articles elegantly.</li>\n<li>Call-to-Action (CTA) Sections: Prompt user engagement with clear actions.</li>\n<li>Image &#x26; Video Sections: Integrate rich media for dynamic content.</li>\n</ul>\n<p>Scalability &#x26; Style Customization: All blocks are structured to allow consistent and global CSS modifications, ensuring a cohesive design language across the site while maintaining simplicity for developers.</p>\n<p>Repository: <a href=\"https://github.com/ehsanpo/Blocks/\">Blocks WordPress Template</a>.</p>\n<p>Capabilities:</p>\n<ul>\n<li>Block Discovery: Browse available custom blocks directly in the terminal.</li>\n<li>One-Click Installation: Install block-specific CSS, PHP templates, and JavaScript with a single command.</li>\n<li>Seamless Integration: Automatically integrate blocks into the WordPress theme without manual intervention.</li>\n</ul>\n<p>Repository: <a href=\"https://github.com/ehsanpo/block-gen\">Block Generator CLI Tool</a>.</p>\n<p>Core Features:</p>\n<ul>\n<li>Screenshots: Capture snapshots of all site pages for visual review.</li>\n<li>Image Validation: Ensure all images include descriptive alt tags to enhance accessibility and SEO.</li>\n<li>Meta Tag Verification: Check that every page has proper meta descriptions and Facebook Open Graph sharing images.</li>\n<li>Link Checker: Detect and report broken links (404 errors) and empty anchor tags.</li>\n<li>HTML Validation: Analyze site pages for HTML syntax issues to maintain code integrity.</li>\n</ul>\n<p>Repository: <a href=\"https://github.com/ehsanpo/Blocks-QATR\">Blocks-QATR</a>.</p>"
+    },
+    "_id": "portfolio/blockpress/blockpress.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/blockpress/blockpress.md",
+      "sourceFileName": "blockpress.md",
+      "sourceFileDir": "portfolio/blockpress",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/blockpress/blockpress"
+    },
+    "slug": "blockpress",
+    "lang": "en"
+  },
+  {
+    "title": "Blockpress",
+    "date": "2018-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "blockpress",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 243,
+    "agency": "Guts&Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "Maintenance",
+      "Wordpress",
+      "Javascript"
+    ],
+    "case_link_url": "",
+    "client": "",
+    "tagline": "Wordpress-tema och verktyg",
+    "background_image": "bg.jpg",
+    "logo": "bg.jpg",
+    "images": [
+      "style.png",
+      "blocks1.png",
+      "blocks2.png",
+      "blocks3.png",
+      "blocks4.png",
+      "blocks5.png",
+      "blocks7.png"
+    ],
+    "body": {
+      "raw": "Detta projekt demonstrerar expertis inom WordPress-utveckling, skapande av kommandoradsverktyg och automatiserad kvalitetssäkring. Det framhäver en sömlös integration av modulär design, utvecklarvänliga verktyg och robust webbplatsvalidering för att leverera exceptionella användar- och utvecklarupplevelser.\n\n<h2>Del 1: Anpassad WordPress-mall med modulära byggblock</h2>\nBlocks WordPress-temat är en skräddarsydd WordPress-mall utformad för att erbjuda användarna oöverträffad flexibilitet och enkelhet i webbplatsskapande. Genom att använda fördefinierade modulära \"Block\" kan användarna designa och strukturera sina webbplatser sömlöst utan att kräva avancerade tekniska färdigheter. Varje block är fullt anpassningsbart för att passa olika användningsfall.\n\n<br />\n<h3>Nyckelfunktioner i mallen:</h3>\n\n- Hero-sektioner: Visa uppseendeväckande introduktioner.\n- Slider-sektioner: Visa interaktiva, rullbara bild- eller innehållsbilder.\n- Textsektioner: Lägg till och stilisera fristående textinnehåll.\n- Text-bildsektioner: Kombinera bilder med tillhörande text för berättande.\n- Banner-sektioner: Belys nyckelmeddelanden eller kampanjer.\n- Länksektioner: Organisera och presentera samlingar av länkar.\n- Artikel-sektioner: Visa bloggar eller nyhetsartiklar elegant.\n- Call-to-Action (CTA) sektioner: Uppmana användarengagemang med tydliga åtgärder.\n- Bild- & Videosektioner: Integrera rika medier för dynamiskt innehåll.\n\nSkalbarhet & Stil Anpassning: Alla block är strukturerade för att tillåta konsekventa och globala CSS-ändringar, vilket säkerställer ett sammanhängande designspråk över hela webbplatsen samtidigt som det bibehålls enkelhet för utvecklare.\n\nRepository: [Blocks WordPress-mall](https://github.com/ehsanpo/Blocks/).\n\n<h2>Del 2: Kommandoradsgränssnitt för utvecklarförsta blockintegration</h2>\nBlock Generator CLI-verktyget är ett robust kommandoradsverktyg för utvecklare att utöka funktionaliteten i Blocks WordPress-mallen. Det ger ett strömlinjeformat gränssnitt för att bläddra, installera och integrera nya anpassade block direkt från ett npm-repository.\n\nFunktioner:\n\n- Blockupptäckt: Bläddra bland tillgängliga anpassade block direkt i terminalen.\n- Enklicksinstallation: Installera blockspecifik CSS, PHP-mallar och JavaScript med ett enda kommando.\n- Sömlös integration: Integrera automatiskt block i WordPress-temat utan manuell ingripande.\n\nRepository: [Block Generator CLI-verktyg](https://github.com/ehsanpo/block-gen).\n\n<h2>Del 3: Automatiserad kvalitetssäkringstestning</h2>\nBlocks-QATR är en kvalitetssäkringstestkörare utvecklad med Express.js för att säkerställa att WordPress-webbplatser byggda med Blocks-mallen uppfyller höga prestanda, tillgänglighet och SEO-efterlevnad. Detta verktyg automatiserar kritiska kontroller över hela webbplatsen och ger handlingsbara insikter för förbättring.\n\nKärnfunktioner:\n\n- Skärmdumpar: Ta snapshots av alla webbplatssidor för visuell granskning.\n- Bildvalidering: Se till att alla bilder inkluderar beskrivande alt-taggar för att förbättra tillgänglighet och SEO.\n- Meta Tag-verifiering: Kontrollera att varje sida har korrekta meta-beskrivningar och Facebook Open Graph-delbilder.\n- Länkkontroll: Upptäck och rapportera trasiga länkar (404-fel) och tomma ankartaggar.\n- HTML-validering: Analysera webbplatssidor för HTML-syntaxproblem för att bibehålla kodintegritet.\n\nRepository: [Blocks-QATR](https://github.com/ehsanpo/Blocks-QATR).\n",
+      "html": "<p>Detta projekt demonstrerar expertis inom WordPress-utveckling, skapande av kommandoradsverktyg och automatiserad kvalitetssäkring. Det framhäver en sömlös integration av modulär design, utvecklarvänliga verktyg och robust webbplatsvalidering för att leverera exceptionella användar- och utvecklarupplevelser.</p>\n<ul>\n<li>Hero-sektioner: Visa uppseendeväckande introduktioner.</li>\n<li>Slider-sektioner: Visa interaktiva, rullbara bild- eller innehållsbilder.</li>\n<li>Textsektioner: Lägg till och stilisera fristående textinnehåll.</li>\n<li>Text-bildsektioner: Kombinera bilder med tillhörande text för berättande.</li>\n<li>Banner-sektioner: Belys nyckelmeddelanden eller kampanjer.</li>\n<li>Länksektioner: Organisera och presentera samlingar av länkar.</li>\n<li>Artikel-sektioner: Visa bloggar eller nyhetsartiklar elegant.</li>\n<li>Call-to-Action (CTA) sektioner: Uppmana användarengagemang med tydliga åtgärder.</li>\n<li>Bild- &#x26; Videosektioner: Integrera rika medier för dynamiskt innehåll.</li>\n</ul>\n<p>Skalbarhet &#x26; Stil Anpassning: Alla block är strukturerade för att tillåta konsekventa och globala CSS-ändringar, vilket säkerställer ett sammanhängande designspråk över hela webbplatsen samtidigt som det bibehålls enkelhet för utvecklare.</p>\n<p>Repository: <a href=\"https://github.com/ehsanpo/Blocks/\">Blocks WordPress-mall</a>.</p>\n<p>Funktioner:</p>\n<ul>\n<li>Blockupptäckt: Bläddra bland tillgängliga anpassade block direkt i terminalen.</li>\n<li>Enklicksinstallation: Installera blockspecifik CSS, PHP-mallar och JavaScript med ett enda kommando.</li>\n<li>Sömlös integration: Integrera automatiskt block i WordPress-temat utan manuell ingripande.</li>\n</ul>\n<p>Repository: <a href=\"https://github.com/ehsanpo/block-gen\">Block Generator CLI-verktyg</a>.</p>\n<p>Kärnfunktioner:</p>\n<ul>\n<li>Skärmdumpar: Ta snapshots av alla webbplatssidor för visuell granskning.</li>\n<li>Bildvalidering: Se till att alla bilder inkluderar beskrivande alt-taggar för att förbättra tillgänglighet och SEO.</li>\n<li>Meta Tag-verifiering: Kontrollera att varje sida har korrekta meta-beskrivningar och Facebook Open Graph-delbilder.</li>\n<li>Länkkontroll: Upptäck och rapportera trasiga länkar (404-fel) och tomma ankartaggar.</li>\n<li>HTML-validering: Analysera webbplatssidor för HTML-syntaxproblem för att bibehålla kodintegritet.</li>\n</ul>\n<p>Repository: <a href=\"https://github.com/ehsanpo/Blocks-QATR\">Blocks-QATR</a>.</p>"
+    },
+    "_id": "portfolio/blockpress/blockpress.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/blockpress/blockpress.sv.md",
+      "sourceFileName": "blockpress.sv.md",
+      "sourceFileDir": "portfolio/blockpress",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/blockpress/blockpress.sv"
+    },
+    "slug": "blockpress",
+    "lang": "sv"
+  },
+  {
+    "title": "Alex Köll",
+    "date": "2019-03-28T13:29:56.000Z",
+    "status": "publish",
+    "permalink": "alex-koll",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 365,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "PHP",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "https://www.teamalexkoell.com/",
+    "client": "الکس کول",
+    "tagline": "زندگی من به عنوان یک پایین رو",
+    "background_image": "alex-koll-top.png",
+    "logo": "alex-koll-logo.png",
+    "images": [
+      "alex-koll-1.jpg"
+    ],
+    "port_date": [
+      "2019"
+    ],
+    "body": {
+      "raw": "\n",
+      "html": ""
+    },
+    "_id": "portfolio/alex-koll/alex-koll.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/alex-koll/alex-koll.fa.md",
+      "sourceFileName": "alex-koll.fa.md",
+      "sourceFileDir": "portfolio/alex-koll",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/alex-koll/alex-koll.fa"
+    },
+    "slug": "alex-koll",
+    "lang": "fa"
+  },
+  {
+    "title": "Alex Köll",
+    "date": "2019-03-28T13:29:56.000Z",
+    "status": "publish",
+    "permalink": "alex-koll",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 365,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "PHP",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "https://www.teamalexkoell.com/",
+    "client": "Alex Köll",
+    "tagline": "My life as a Downhiller",
+    "background_image": "alex-koll-top.png",
+    "logo": "alex-koll-logo.png",
+    "images": [
+      "alex-koll-1.jpg"
+    ],
+    "port_date": [
+      "2019"
+    ],
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "portfolio/alex-koll/alex-koll.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/alex-koll/alex-koll.md",
+      "sourceFileName": "alex-koll.md",
+      "sourceFileDir": "portfolio/alex-koll",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/alex-koll/alex-koll"
+    },
+    "slug": "alex-koll",
+    "lang": "en"
+  },
+  {
+    "title": "Alex Köll",
+    "date": "2019-03-28T13:29:56.000Z",
+    "status": "publish",
+    "permalink": "alex-koll",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 365,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "PHP",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "https://www.teamalexkoell.com/",
+    "client": "Alex Köll",
+    "tagline": "Mitt liv som utförsåkare",
+    "background_image": "alex-koll-top.png",
+    "logo": "alex-koll-logo.png",
+    "images": [
+      "alex-koll-1.jpg"
+    ],
+    "port_date": [
+      "2019"
+    ],
+    "body": {
+      "raw": "\n",
+      "html": ""
+    },
+    "_id": "portfolio/alex-koll/alex-koll.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/alex-koll/alex-koll.sv.md",
+      "sourceFileName": "alex-koll.sv.md",
+      "sourceFileDir": "portfolio/alex-koll",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/alex-koll/alex-koll.sv"
+    },
+    "slug": "alex-koll",
+    "lang": "sv"
+  },
+  {
+    "title": "Bredband2",
+    "date": "2023-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "bredband2",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 142,
+    "agency": "",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "React",
+      "Ruby",
+      "Javascript",
+      "Gatsby",
+      "UX"
+    ],
+    "case_link_url": "https://www.bredband2.com/",
+    "client": "بردباند2",
+    "tagline": "زندگی روزمره دیجیتالی صاف و امن برای همه.",
+    "background_image": "bg.jpg",
+    "logo": "logo.png",
+    "images": [
+      "bredband2-v2.png",
+      "1.jpg"
+    ],
+    "body": {
+      "raw": "<h2> مطالعه موردی: ایجاد تحول دیجیتال و بهبود تجربه مشتری در Bredband2</h2>\n\n<h3>مقدمه: </h3>\n\n<p>در طول دوران خدمت به عنوان یک توسعه‌دهنده تمام‌استک در Bredband2، یک شرکت برتر در زمینه ارتباطات، فرصتی برای مشارکت در پروژه‌های بحرانی مختلفی داشتم که تأثیر قابل توجهی بر حضور دیجیتال، اقدامات امنیتی و تجربه کلی مشتریان این سازمان داشت. در این مطالعه موردی، سه برنامه کلیدی را می‌برم که مهارت‌ها، تعهد و توانایی حل مسئله من را نشان می‌دهند. </p>\n\n<br />\n<h3>پروژه 1: طراحی مجدد هویت دیجیتال </h3>\n\n<p>یکی از پروژه‌های برجسته در طول دوران خدمت من در Bredband2، طراحی مجدد کامل وب‌سایت آن بود که شامل یک هویت تصویری تازه بود. این کار مشکلات منحصر به فردی را ارائه داد، زیرا طراح خارجی تجربه قبلی در طراحی وب و رعایت استانداردهای WCAG نداشت. برای رفع این مانع، ما Rebecca را استخدام کردیم، یک طراح ارشد با تجربه و کارشناس UX، که نظرات ارزشمند و راهنمایی او من را قادر ساخت تا تغییرات معنی‌داری را ایجاد کنم.</p>\n\n<p>با ایفای نقش یک توسعه‌دهنده تمام‌استک، من با Rebecca همکاری نزدیک کردم، از تخصص او برای پلی بین طراحی و پیاده‌سازی استفاده کردم. با ارتباط موثر و درج توصیه‌های او، ما با موفقیت یک وب‌سایت جذاب و محور کاربر را ارائه دادیم که با بهترین شیوه‌های صنعت مطابقت داشت، درک برند Bredband2 را ارتقا داد و تجربه کلی کاربر را بالا برد.</p>\n\n<br />\n<h3> پروژه 2: توسعه پورتال مشتری \"Mitt Bredband2\" </h3>\n\n<p>در طول دوران خدمت من در Bredband2، نقش حیاتی در توسعه \"Mitt Bredband2\"، یک پورتال مشتری که به کاربران دسترسی امن به اطلاعات حساب شخصی و خدمات ارائه می‌داد، ایفا کردم. این پورتال مشتری به کاربران اجازه می‌داد با استفاده از bankID یا نام کاربری و رمز عبور خود وارد شوند. با ارائه یک پلتفرم خودخدمتی جامع، کاربران می‌توانستند جزئیات حساب را مشاهده کنند، خدمات را مدیریت کنند و به عنوان مشتریان وارد شده در چت‌های زنده شرکت کنند.</p>\n\n<p>پیاده‌سازی پورتال مشتری تأثیر قابل توجهی بر عملیات Bredband2 داشت. با قدرتمند کردن کاربران برای انجام وظایف مربوط به حساب به صورت مستقل، ما کاهش تماس‌ها با مرکز خدمات را مشاهده کردیم، که منجر به صرفه‌جویی در هزینه‌ها برای سازمان شد. علاوه بر این، من پیاده‌سازی یک ویژگی را رهبری کردم که به کاربران اجازه می‌داد به راحتی خدمات خود را از طریق پورتال مشتری ارتقا یا کاهش دهند، کاهش وابستگی به مداخلات خدمات مشتری.</p>\n\n<br />\n\n<h3>پروژه 3: پیاده‌سازی جستجوی پیشرفته با Algolia و Contentful API</h3> <p>یکی دیگر از برنامه‌های عمده‌ای که من در Bredband2 رهبری کردم، پیاده‌سازی یک عملکرد جستجوی قوی در سراسر وب‌سایت و پورتال مشتری بود، با استفاده از Algolia Search، Contentful API، و InstantSearch. این پروژه به بهبود بازیابی اطلاعات می‌اندیشد، کاربران را قادر می‌ساخت تا به سرعت و به طور غریزی محتوا را پیدا کنند. </p> <p>به عنوان توسعه‌دهنده اصلی، من موتور جستجوی قدرتمند Algolia را با Contentful، CMS شرکت، یکپارچه کردم تا تجربه جستجوی بی‌درز و کارآمدی ایجاد کنم. با بهره‌گیری از InstantSearch، من ویژگی‌های جستجوی پیشرفته را پیاده‌ساختم، از جمله:</p> <ul> <li>نتایج جستجوی زنده و فیلتر کردن بر اساس ورودی کاربر.</li> <li>پیشنهادات تکمیل خودکار برای هدایت کاربران به سمت محتوای مرتبط سریع‌تر.</li> <li>الگوریتم‌های رتبه‌بندی پویا، اطمینان حاصل می‌کند که نتایج\n",
+      "html": ""
+    },
+    "_id": "portfolio/bredband2/Bredband2.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/bredband2/Bredband2.fa.md",
+      "sourceFileName": "Bredband2.fa.md",
+      "sourceFileDir": "portfolio/bredband2",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/bredband2/Bredband2.fa"
+    },
+    "slug": "bredband2",
+    "lang": "fa"
+  },
+  {
+    "title": "Bredband2",
+    "date": "2023-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "bredband2",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 142,
+    "agency": "",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "React",
+      "Ruby",
+      "Javascript",
+      "Gatsby",
+      "UX"
+    ],
+    "case_link_url": "https://www.bredband2.com/",
+    "client": "Bredband2",
+    "tagline": "A smooth and secure digital everyday life for everyone.",
+    "background_image": "bg.jpg",
+    "logo": "logo.png",
+    "images": [
+      "bredband2-v2.png",
+      "1.jpg"
+    ],
+    "body": {
+      "raw": "\n<h2> Case Study: Driving Digital Transformation and Enhancing Customer Experience at Bredband2</h2>\n\n<h3>Introduction: </h3>\n\n<p>During my tenure as a full-stack developer at Bredband2, a leading telecommunications company, I had the opportunity to contribute to various critical projects that significantly impacted the organization's digital presence, security measures, and overall customer experience. In this case study, I will highlight three key initiatives that exemplify my skills, dedication, and problem-solving abilities. </p>\n\n<br />\n<h3>Project 1: Redesigning the Digital Identity </h3>\n\n<p>One of the standout projects during my tenure at Bredband2 was the complete redesign of their website, incorporating a fresh visual identity. This venture presented unique challenges, as the external designer lacked prior experience in web design and adherence to WCAG standards. To overcome this obstacle, we hired Rebecca, a seasoned senior designer and UX expert, whose valuable insights and guidance empowered me to effectuate meaningful changes.</p>\n\n<p>Taking on the role of a full-stack developer, I collaborated closely with Rebecca, leveraging her expertise to bridge the gap between design and implementation. By effectively communicating and incorporating her recommendations, we successfully delivered a visually captivating and user-centric website that adhered to industry best practices, enhancing Bredband2's brand perception and elevating the overall user experience.</p>\n\n<br />\n<h3> Project 2: Development of \"Mitt Bredband2\" Customer Portal </h3>\n\n<p>During my time at Bredband2, I played a crucial role in the development of \"Mitt Bredband2,\" a customer portal that provided users with secure access to personalized account information and services. This customer portal allowed users to log in using bankID or their username and password. By providing a comprehensive self-service platform, users could view account details, manage services, and engage in real-time chats as logged-in customers.</p>\n\n<p>The implementation of the customer portal had a significant impact on Bredband2's operations. By empowering users to handle account-related tasks independently, we observed a decrease in calls to the service center, leading to cost savings for the organization. Additionally, I spearheaded the implementation of a feature that enabled users to easily upgrade or downgrade their services directly from the customer portal, reducing the reliance on customer service interventions.</p>\n\n<br />\n\n<h3>Project 3: Implementing Advanced Search with Algolia and Contentful API</h3> <p>Another major initiative I spearheaded at Bredband2 was the implementation of a robust search functionality across the website and customer portal, utilizing Algolia Search, Contentful API, and InstantSearch. This project aimed to improve information retrieval, enabling users to find content quickly and intuitively. </p> <p>Working as the lead developer, I integrated Algolia's powerful search engine with Contentful, the company’s CMS, to create a seamless and efficient search experience. By leveraging InstantSearch, I implemented advanced search features, including:</p> <ul> <li>Real-time search results and filtering based on user input.</li> <li>Autocomplete suggestions to guide users toward relevant content faster.</li> <li>Dynamic ranking algorithms, ensuring the most relevant results appeared first.</li> </ul> <p>The search implementation significantly enhanced the user experience by enabling users to navigate Bredband2’s extensive content library and quickly find solutions to their queries. Furthermore, it streamlined the website’s usability, reduced bounce rates, and contributed to a measurable improvement in customer satisfaction metrics.</p>\n\n<h3>Professional Growth and Accomplishments:</h3>\n\n<p> Throughout my journey at Bredband2, I continually pursued personal and professional development, acquiring new skills and certifications to enhance my capabilities as a versatile developer. Some noteworthy achievements during my time include:</p>\n\n<ul>\n    <li>Proficiency in Ruby on Rails: I gained expertise in developing web applications using Ruby on Rails, enabling efficient and scalable solutions for Bredband2's platform.</li>\n    <li>Cloudflare Pages: I expanded my knowledge and hands-on experience with Cloudflare Pages, harnessing its capabilities to optimize website performance and security. </li>\n    <li>Certifications: I pursued Google Analytics and UX certifications, validating my expertise in data-driven decision-making and user-centric design principles.</li>\n    <li>Self-Leadership Course: I successfully completed a self-leadership course, enhancing my ability to manage projects, collaborate effectively, and drive results in a dynamic environment.</li>\n    <li>TypeScript Familiarity: I delved into TypeScript, augmenting my understanding of this statically typed superset of JavaScript, which facilitated the development of more robust and scalable code.</li>\n    <li>Docker Troubleshooting: Overcoming various challenges with Docker, I honed my troubleshooting skills and adopted Orbstack for streamlined management of machines and containers.</li>\n    <li>GitHub Action Development: I created a custom GitHub Action that automates checks on pull requests, providing an overview of repository size, linking to relevant issues, and displaying various checks' status.</li>\n    <li>Introduction to Cybersecurity: I earned my first Cisco certificate, specifically Introduction to Cybersecurity, broadening my knowledge of information security principles and practices.</li>\n\n</ul>\n<br />\n<h3>Conclusion:</h3>\n\n<p>\nMy time at Bredband2 was characterized by my dedication to driving digital transformation, enhancing security measures, and improving the overall customer experience. Through continues development, spearheading a comprehensive website redesign, and developing the \"Mitt Bredband2\" customer portal, I demonstrated my technical expertise, collaboration skills, and ability to deliver impactful solutions.<br /><br />\n\nFurthermore, by actively pursuing continuous learning and acquiring certifications, I ensured that I remained at the forefront of industry trends and best practices, enabling me to contribute effectively to Bredband2's success.</p>\n",
+      "html": "<p>Furthermore, by actively pursuing continuous learning and acquiring certifications, I ensured that I remained at the forefront of industry trends and best practices, enabling me to contribute effectively to Bredband2's success.</p>"
+    },
+    "_id": "portfolio/bredband2/Bredband2.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/bredband2/Bredband2.md",
+      "sourceFileName": "Bredband2.md",
+      "sourceFileDir": "portfolio/bredband2",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/bredband2/Bredband2"
+    },
+    "slug": "bredband2",
+    "lang": "en"
+  },
+  {
+    "title": "Bredband2",
+    "date": "2023-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "bredband2",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 142,
+    "agency": "",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "React",
+      "Ruby",
+      "Javascript",
+      "Gatsby",
+      "UX"
+    ],
+    "case_link_url": "https://www.bredband2.com/",
+    "client": "Bredband2",
+    "tagline": "En smidig och säker digital vardag för alla.",
+    "background_image": "bg.jpg",
+    "logo": "logo.png",
+    "images": [
+      "bredband2-v2.png",
+      "1.jpg"
+    ],
+    "body": {
+      "raw": "<h2> Fallstudie: Driver Digital Transformation och Förbättrar Kundupplevelsen hos Bredband2</h2>\n\n<h3>Introduktion: </h3>\n\n<p>Under min tid som full-stack-utvecklare på Bredband2, ett ledande telekommunikationsföretag, hade jag möjlighet att bidra till olika kritiska projekt som betydligt påverkade organisationens digitala närvaro, säkerhetsåtgärder och övergripande kundupplevelse. I denna fallstudie kommer jag att belysa tre nyckelinitiativ som exemplifierar mina färdigheter, engagemang och problemlösningsförmåga. </p>\n\n<br />\n<h3>Projekt 1: Omformning av den Digitala Identiteten </h3>\n\n<p>Ett av de mest framstående projekten under min tid på Bredband2 var den kompletta omformningen av deras webbplats, med införandet av en ny visuell identitet. Detta företag presenterade unika utmaningar, eftersom den externa designern saknade tidigare erfarenhet av webbdesign och efterlevnad av WCAG-standarder. För att övervinna detta hinder anställde vi Rebecca, en erfaren senior designer och UX-expert, vars värdefulla insikter och vägledning gav mig möjlighet att genomföra meningsfulla förändringar.</p>\n\n<p>I rollen som full-stack-utvecklare samarbetade jag nära med Rebecca, och utnyttjade hennes expertis för att överbrygga klyftan mellan design och implementering. Genom att effektivt kommunicera och införliva hennes rekommendationer, levererade vi framgångsrikt en visuellt fängslande och användarcentrerad webbplats som följde branschens bästa praxis, vilket förbättrade Bredband2:s varumärkesuppfattning och höjde den övergripande användarupplevelsen.</p>\n\n<br />\n<h3> Projekt 2: Utveckling av \"Mitt Bredband2\" Kundportal </h3>\n\n<p>Under min tid på Bredband2 spelade jag en avgörande roll i utvecklingen av \"Mitt Bredband2\", en kundportal som gav användarna säker tillgång till personlig kontoinformation och tjänster. Denna kundportal tillät användare att logga in med bankID eller deras användarnamn och lösenord. Genom att tillhandahålla en omfattande självbetjäningsplattform, kunde användarna visa kontodetaljer, hantera tjänster och engagera sig i realtidschatt som inloggade kunder.</p>\n\n<p>Implementeringen av kundportalen hade en betydande inverkan på Bredband2:s verksamhet. Genom att ge användarna möjlighet att hantera kontorelaterade uppgifter självständigt, observerade vi en minskning av samtal till servicecentret, vilket ledde till kostnadsbesparingar för organisationen. Dessutom ledde jag implementeringen av en funktion som gjorde det möjligt för användarna att enkelt uppgradera eller nedgradera sina tjänster direkt från kundportalen, vilket minskade beroendet av kundtjänstinterventioner.</p>\n\n<br />\n\n<h3>Projekt 3: Implementering av Avancerad Sökning med Algolia och Contentful API</h3> <p>Ett annat stort initiativ jag ledde på Bredband2 var implementeringen av en robust sökfunktion över hela webbplatsen och kundportalen, med hjälp av Algolia Search, Contentful API och InstantSearch. Detta projekt syftade till att förbättra informationssökning, vilket gör det möjligt för användarna att snabbt och intuitivt hitta innehåll. </p> <p>Som ledande utvecklare integrerade jag Algolias kraftfulla sökmotor med Contentful, företagets CMS, för att skapa en sömlös och effektiv sökupplevelse. Genom att utnyttja InstantSearch implementerade jag avancerade sökfunktioner, inklusive:</p> <ul> <li>Realtids sökresultat och filtrering baserat på användarinmatning.</li> <li>Autocomplete-förslag för att snabbt leda användare till relevant innehåll.</li> <li>Dynamiska rankningsalgoritmer, vilket säkerställer att de mest relevanta resultaten visas först.</li> </ul> <p>Sökimplementationen förbättrade betydligt användarupplevelsen genom att göra det möjligt för användarna att navigera i Bredband2:s omfattande innehållsbibliotek och snabbt hitta lösningar på deras frågor. Dessutom förenklade det webbplatsens användbarhet, minskade avvisningsfrekvenserna och bidrog till en mätbar förbättring av kundtillfredsställelsesmåtten.</p>\n\n<h3>Professionell Tillväxt och Prestationer:</h3>\n\n<p> Under min resa på Bredband2 fortsatte jag ständigt att sträva efter personlig och professionell utveckling, förvärvade nya färdigheter och certifieringar för att förbättra mina förmågor som en mångsidig utvecklare. Några anmärkningsvärda prestationer under min tid inkluderar:</p>\n\n<ul>\n    <li>Behärskning av Ruby on Rails: Jag förvärvade expertis i att utveckla webbapplikationer med Ruby on Rails, vilket möjliggjorde effektiva och skalbara lösningar för Bredband2:s plattform.</li>\n    <li>Cloudflare Pages: Jag utökade min kunskap och praktiska erfarenhet med Cloudflare Pages, och utnyttjade dess kapacitet för att optimera webbplatsens prestanda och säkerhet. </li>\n    <li>Certifieringar: Jag strävade efter Google Analytics och UX-certifieringar, vilket validerade min expertis inom datadriven beslutsfattning och användarcentrerade designprinciper.</li>\n    <li>Självledarskapskurs: Jag slutförde framgångsrikt en självledarskapskurs, vilket förbättrade min förmåga att hantera projekt, samarbeta effektivt och driva resultat i en dynamisk miljö.</li>\n    <li>Förståelse för TypeScript: Jag fördjupade mig i TypeScript, vilket ökade min förståelse för detta statiskt typade övermängd av JavaScript, vilket underlättade utvecklingen av mer robust och skalbar kod.</li>\n    <li>Docker Felsökning: Genom att övervinna olika utmaningar med Docker, finslipade jag mina felsökningsfärdigheter och antog Orbstack för effektiv hantering av maskiner och containrar.</li>\n    <li>Utveckling av GitHub Action: Jag skapade en anpassad GitHub Action som automatiserar kontroller på pull requests, ger en översikt över repository-storlek, länkar till relevanta problem och visar olika kontrollers status.</li>\n    <li>Introduktion till Cybersäkerhet: Jag erhöll mitt första Cisco-certifikat, specifikt Introduktion till Cybersäkerhet, vilket breddade min kunskap om principer och praxis för informationssäkerhet.</li>\n\n</ul>\n<br />\n<h3>Slutsats:</h3>\n\n<p>\nMin tid på Bredband2 kännetecknades av mitt engagemang för att driva digital transformation, förbättra säkerhetsåtgärder och förbättra den övergripande kundupplevelsen. Genom kontinuerlig utveckling, ledning av en omfattande webbplatsomformning och utveckling av \"Mitt Bredband2\" kundportal, demonstrerade jag min tekniska expertis, samarbetsfärdigheter och förmå\n",
+      "html": ""
+    },
+    "_id": "portfolio/bredband2/Bredband2.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/bredband2/Bredband2.sv.md",
+      "sourceFileName": "Bredband2.sv.md",
+      "sourceFileDir": "portfolio/bredband2",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/bredband2/Bredband2.sv"
+    },
+    "slug": "bredband2",
+    "lang": "sv"
+  },
+  {
+    "title": "Malmö Saluhall",
+    "date": "2017-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "malmo-saluhall",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 211,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Maintenance",
+      "PHP",
+      "Support",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "http://www.malmosaluhall.se",
+    "client": "سالوهال مالمو",
+    "tagline": "یک بهشت برای عاشقان غذا",
+    "background_image": "malmo-saluhall-bg.jpg",
+    "logo": "malmo-saluhall-top.png",
+    "images": [
+      "malmosaluhall1.jpg"
+    ],
+    "port_date": [
+      "2017"
+    ],
+    "body": {
+      "raw": "<h3>مقدمه:</h3>\n  <p>\n    با یک هویت برند جدید، Malmö Saluhall نیاز به به‌روزرسانی پروفایل دیجیتال وبسایت خود داشت. به عنوان یک توسعه‌دهنده در آژانس Gutsglory، من با Martin Johansson، مدیر هنری آژانس، برای ساخت وبسایت کار کردم. تیم به همکاری برای ترجمه هویت برند جدید به یک رابط کاربری دیجیتال جذاب پرداخت. پس از اتمام پروژه، ما پشتیبانی و نگهداری برای سایت ارائه دادیم و ویژگی‌های اضافی را پیاده‌سازی کردیم. نتیجه موفق پروژه زمانی شناخته شد که Malmö Saluhall با دریافت جایزه Svenska Designpriset در زمینه طراحی دیجیتال، تقدیر شد.\n  </p>\n   <h3>دیدگاه آژانس:</h3>\n  <p>\n    در آژانس Guts & Glory، ما افتخار کار بر روی پروژه Malmö Saluhall را داشتیم. وظیفه شامل توسعه یک وبسایت جدید برای نمایش زیبایی و ارائه‌های Malmö Saluhall بود. رویکرد همکاری ما با ایجاد یک هویت برند قوی شروع شد و از طریق ابتکارات مختلف روابط عمومی، راه‌اندازی آینده را به طور موثر ارتباط دادیم. ما همچنین یک پلتفرم وب آموزشی طراحی کردیم تا مردم محلی را در مورد پیشرفت saluhall جدید به‌روز نگه داریم.<br /><br />\n    همانطور که اتمام Malmö Saluhall نزدیک می‌شد، ما یک وبسایت جذاب ساختیم که جذابیت فضای فیزیکی و غذای بی‌نظیر آن را منعکس می‌کرد. هویت بصری وبسایت با دقت طراحی شد تا حقیقت Malmö Saluhall را به دست بیاورد و بازدیدکنندگان را ترغیب به کاوش ارائه‌های آن کند. <br /><br />\n    کار سخت و تعهد ما زمانی پرداخت شد که هویت دیجیتال Malmö Saluhall، از جمله وبسایت، با دریافت جایزه معتبر Svenska Designpriset در رقابت بسیار سخت دسته هویت دیجیتال در سال 2017 شناخته شد.\n\n  </p>\n\n  <h3>نتیجه‌گیری:</h3>\n  <p>\n    پروژه طراحی مجدد وبسایت Malmö Saluhall نمونه‌ای از همکاری موفق بین آژانس Guts & Glory، Malmö Saluhall و من به عنوان یک توسعه‌دهنده است. از طریق تلاش‌های مشترک ما، ما یک وبسایت بصری جذاب ایجاد کردیم که نماینده‌ی موثر برند بود و حضور آنلاین Malmö Saluhall را ارتقا داد. شناخت دریافت شده به صورت جایزه Svenska Designpriset، موفقیت پروژه را تایید کرد. وبسایت طراحی مجدد همچنان به عنوان یک پلتفرم جذاب عمل می‌کند، بازدیدکنندگان را دعوت می‌کند تا لذت‌های غذایی و فضای Malmö Saluhall را تجربه کنند.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/malmo-saluhall/malmo-saluhall.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/malmo-saluhall/malmo-saluhall.fa.md",
+      "sourceFileName": "malmo-saluhall.fa.md",
+      "sourceFileDir": "portfolio/malmo-saluhall",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/malmo-saluhall/malmo-saluhall.fa"
+    },
+    "slug": "malmo-saluhall",
+    "lang": "fa"
+  },
+  {
+    "title": "Malmö Saluhall",
+    "date": "2017-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "malmo-saluhall",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 211,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Maintenance",
+      "PHP",
+      "Support",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "http://www.malmosaluhall.se",
+    "client": "Malmö Saluhall",
+    "tagline": "Ett himmelrike för matälskare",
+    "background_image": "malmo-saluhall-bg.jpg",
+    "logo": "malmo-saluhall-top.png",
+    "images": [
+      "malmosaluhall1.jpg"
+    ],
+    "port_date": [
+      "2017"
+    ],
+    "body": {
+      "raw": "\n <h3>Introduction:</h3>\n  <p>\n    With a new brand identity, Malmö Saluhall needed to update the digital profile of the website. As a developer at Gutsglory agency, I worked closely with Martin Johansson, the agency's art director, to build the website. The team collaborated to translate the new brand identity into a captivating digital UI. After completing the project, we provided support and maintenance for the site and implemented additional features. The successful outcome of the project was recognized when Malmö Saluhall was awarded Svenska Designpriset in the category of Digital Design.\n  </p>\n   <h3>The Agency's Perspective:</h3>\n  <p>\n    At Guts & Glory agency, we had the privilege of working on the Malmö Saluhall project. The task involved developing a new website to showcase the beauty and offerings of Malmö Saluhall. Our collaborative approach began with creating a strong brand identity and effectively communicating the upcoming launch through various PR initiatives. We also designed an informative web platform to keep the locals updated on the progress of the new saluhall.<br /><br />\n    As the completion of Malmö Saluhall approached, we crafted a captivating website that matched the allure of the physical space and the exquisite food it housed. The visual identity of the website was carefully designed to capture the essence of Malmö Saluhall and entice visitors to explore its offerings. <br /><br />\n    Our hard work and dedication paid off when Malmö Saluhall's digital identity, including the website, was recognized with the prestigious Svenska Designpriset in the highly competitive Digital Identity category in 2017.\n\n  </p>\n\n  <h3>Conclusion:</h3>\n  <p>\n    The Malmö Saluhall website redesign project exemplifies the successful collaboration between Guts & Glory agency, Malmö Saluhall, and myself as a developer. Through our combined efforts, we created a visually captivating website that effectively represented the brand and enhanced the online presence of Malmö Saluhall. The recognition received in the form of the Svenska Designpriset award reaffirmed the project's success. The redesigned website continues to serve as a compelling platform, inviting visitors to experience the culinary delights and ambiance of Malmö Saluhall.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/malmo-saluhall/malmo-saluhall.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/malmo-saluhall/malmo-saluhall.md",
+      "sourceFileName": "malmo-saluhall.md",
+      "sourceFileDir": "portfolio/malmo-saluhall",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/malmo-saluhall/malmo-saluhall"
+    },
+    "slug": "malmo-saluhall",
+    "lang": "en"
+  },
+  {
+    "title": "Malmö Saluhall",
+    "date": "2017-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "malmo-saluhall",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 211,
+    "agency": "Guts & Glory",
+    "category": [
+      "Backend",
+      "Design",
+      "Front-end"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Maintenance",
+      "PHP",
+      "Support",
+      "Web Development",
+      "Wordpress"
+    ],
+    "case_link_url": "http://www.malmosaluhall.se",
+    "client": "Malmö Saluhall",
+    "tagline": "Ett paradis för matälskare",
+    "background_image": "malmo-saluhall-bg.jpg",
+    "logo": "malmo-saluhall-top.png",
+    "images": [
+      "malmosaluhall1.jpg"
+    ],
+    "port_date": [
+      "2017"
+    ],
+    "body": {
+      "raw": "<h3>Introduktion:</h3>\n  <p>\n    Med en ny varumärkesidentitet behövde Malmö Saluhall uppdatera den digitala profilen på webbplatsen. Som utvecklare på Gutsglory byrå arbetade jag nära Martin Johansson, byråns konstnärliga ledare, för att bygga webbplatsen. Teamet samarbetade för att översätta den nya varumärkesidentiteten till ett fängslande digitalt användargränssnitt. Efter att ha slutfört projektet, tillhandahöll vi support och underhåll för webbplatsen och implementerade ytterligare funktioner. Det framgångsrika resultatet av projektet erkändes när Malmö Saluhall tilldelades Svenska Designpriset i kategorin Digital Design.\n  </p>\n   <h3>Byråns perspektiv:</h3>\n  <p>\n    På Guts & Glory byrå hade vi privilegiet att arbeta med Malmö Saluhall-projektet. Uppgiften innebar att utveckla en ny webbplats för att visa upp skönheten och erbjudandena hos Malmö Saluhall. Vårt samarbetsinriktade tillvägagångssätt började med att skapa en stark varumärkesidentitet och effektivt kommunicera den kommande lanseringen genom olika PR-initiativ. Vi utformade också en informativ webbplattform för att hålla lokalbefolkningen uppdaterad om framstegen för den nya saluhallen.<br /><br />\n    När färdigställandet av Malmö Saluhall närmade sig, skapade vi en fängslande webbplats som matchade dragningskraften hos den fysiska platsen och den utsökta maten den innehöll. Webbplatsens visuella identitet designades noggrant för att fånga essensen av Malmö Saluhall och locka besökare att utforska dess erbjudanden. <br /><br />\n    Vårt hårda arbete och engagemang gav resultat när Malmö Saluhalls digitala identitet, inklusive webbplatsen, erkändes med det prestigefyllda Svenska Designpriset i den mycket konkurrenskraftiga kategorin Digital Identitet år 2017.\n  </p>\n\n  <h3>Slutsats:</h3>\n  <p>\n    Webbplatsens omformningsprojekt för Malmö Saluhall exemplifierar det framgångsrika samarbetet mellan Guts & Glory byrå, Malmö Saluhall och mig själv som utvecklare. Genom våra gemensamma ansträngningar skapade vi en visuellt fängslande webbplats som effektivt representerade varumärket och förstärkte Malmö Saluhalls online-närvaro. Erkännandet i form av Svenska Designpriset bekräftade projektets framgång. Den omformade webbplatsen fortsätter att fungera som en övertygande plattform, som inbjuder besökare att uppleva de kulinariska läckerheterna och atmosfären hos Malmö Saluhall.\n  </p>\n",
+      "html": ""
+    },
+    "_id": "portfolio/malmo-saluhall/malmo-saluhall.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/malmo-saluhall/malmo-saluhall.sv.md",
+      "sourceFileName": "malmo-saluhall.sv.md",
+      "sourceFileDir": "portfolio/malmo-saluhall",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/malmo-saluhall/malmo-saluhall.sv"
+    },
+    "slug": "malmo-saluhall",
+    "lang": "sv"
+  },
+  {
+    "title": "Telavox",
+    "date": "2024-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "telavox",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1339,
+    "agency": "Telavox",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "Tailwind",
+      "Electron",
+      "Javascript",
+      "Java"
+    ],
+    "case_link_url": "https://www.telavox.com",
+    "client": "تلواوکس",
+    "tagline": "سوئیچ بورد، چت، جلسات، و مرکز تماس",
+    "background_image": "telavox-top.png",
+    "logo": "logo1.png",
+    "images": [
+      "telavox-app.png",
+      "tvx-app.png"
+    ],
+    "body": {
+      "raw": "<h2>مطالعه موردی: توسعه‌دهنده Fullstack در Telavox</h2>\n\n<h3>بررسی اجمالی</h3>\n\n<p>در Telavox، من به عنوان یک توسعه‌دهنده Fullstack با تمرکز بر توسعه front-end کار می‌کنم. تیم ما به ساخت یک برنامه Electron و وب برای محصول softphone ما اختصاص یافته است، تا آن را با بالاترین استانداردهای عملکرد و تجربه کاربری تضمین کند.</p>\n\n<h3>پروژه 1: تجدید نظر بصری و پشتیبانی از RTL</h3>\n\n<p>هدف اصلی این پروژه بروزرسانی طراحی برنامه ما با یک رابط کاربری مدرن و جذاب و معرفی پشتیبانی از Right-to-Left (RTL) برای زبان عربی بود. این کار شامل بازنویسی کامل برنامه در TypeScript، و همچنین حل بدهی فنی با انتقال از MUI4 به Tailwind CSS بود.</p>\n\n<h3>مسئولیت‌های کلیدی:</h3>\n\n<ul>\n    <li>همکاری نزدیک با تیم چند رشته‌ای از توسعه‌دهندگان و طراحان UX.</li>\n    <li>راهنمایی تیم UX برای اطمینان از اینکه طراحی‌های component قابل اجرا و عملی هستند.</li>\n    <li>بازنویسی کل برنامه در TypeScript برای افزایش قابلیت نگهداری و عملکرد.</li>\n    <li>یکپارچه‌سازی Tailwind CSS برای جایگزینی MUI4، ساده‌سازی فرآیند طراحی و بهبود یکپارچگی طراحی.</li>\n    <li>پیاده‌سازی پشتیبانی از RTL برای دسترسی کاربران عربی‌زبان به برنامه.</li>\n</ul>\n\n<h3>دستاوردها:</h3>\n\n<ul>\n    <li>تحویل موفقیت‌آمیز یک رابط کاربری برنامه مدرن که رضایت و مشارکت کاربر را افزایش داد.</li>\n    <li>افزایش قابلیت نگهداری و مقیاس‌پذیری برنامه با استفاده از TypeScript و Tailwind CSS.</li>\n    <li>ایجاد یک محیط همکاری با تیم UX، منجر به طراحی component‌های خوش‌طراحی و کاربرپسند.</li>\n</ul>\n\n---\n\n### پروژه 2: **پلتفرم ویدئو کنفرانس نسل بعد: انقلاب در همکاری مجازی** 🚀\n\nدر دنیای امروز که بیش از حد به هم متصل است، ویدئو کنفرانس مهم‌ترین ابزار ارتباطی شده است. من قصد داشتم یک **راه‌حل ویدئو کنفرانس نسل بعد** را توسعه دهم که فراتر از تماس‌های ویدئویی ابتدایی است—طراحی شده برای همکاری بی‌نقص، ارتباطات بسیار واضح، و قابلیت سازگاری.\n\n#### **ویژگی‌های کلیدی** 🌟\n\n1. **چت به صورت زنده** 💬  \n   یک رابط چت کاربرپسند و جذاب که ارتباط متنی فوری در طول تماس‌ها را ممکن می‌سازد، تا هیچ چیز از دست نرود. با استفاده از تکنولوژی‌های وب مدرن برای پیام‌رسانی با تاخیر کم.\n\n2. **بهینه‌سازی کیفیت ویدئوی تطبیقی** 🎥  \n   ساخته شده برای اتصالات جهانی، پلتفرم به صورت پویا کیفیت ویدئو را بر اساس شرایط شبکه تنظیم می‌کند. این موضوع تضمین‌کننده تجربه‌ای روان حتی در اتصالات با پهنای باند کم است.\n\n3. **زیرنویس زنده با قدرت AI** ✍️  \n   با استفاده از مدل‌های زبان OpenAI، این ویژگی زیرنویس‌های دقیق و زنده را فراهم می‌کند تا دسترسی و شامل‌بودن را بهبود بخشد.\n\n#### **Tech Stack** 🛠️\n\n- **Frontend:**\n\n  - **TailwindCSS:** برای یک رابط کاربری جذاب، پاسخگو، و مدرن.\n  - **TypeScript:** برای کد نویسی قوی‌تایپ و قابل نگهداری.\n\n- **Backend:**\n\n  - **Mediasoup:** قدرتمند برای ویدئو کنفرانس مبتنی بر WebRTC. این امکان را می‌دهد تا تاخیر بسیار کم، مقیاس‌پذیری، و توپولوژی‌های انعطاف‌پذیر را فراهم کند.\n  - **Custom JS SDK:** ساخته شده برای ساده‌سازی ارتباط بین frontend و backend.\n\n- **قابلیت‌های AI:**\n  - مدل‌های زبان OpenAI قدرت زیرنویس زنده را فراهم می‌کنند، ارائه دسترسی و بینش‌های آگاه از متن در طول جلسات.\n\n#### **چالش‌ها و راه‌حل‌ها** 🧩\n\n1. **بهینه‌سازی تاخیر:**  \n   با Mediasoup، ما یک معماری selective forwarding unit (SFU) را پیاده‌سازی کردیم، تضمین کننده تاخیر کم برای تماس‌های چند شرکت‌کننده.\n",
+      "html": "<hr>\n<h3>پروژه 2: <strong>پلتفرم ویدئو کنفرانس نسل بعد: انقلاب در همکاری مجازی</strong> 🚀</h3>\n<p>در دنیای امروز که بیش از حد به هم متصل است، ویدئو کنفرانس مهم‌ترین ابزار ارتباطی شده است. من قصد داشتم یک <strong>راه‌حل ویدئو کنفرانس نسل بعد</strong> را توسعه دهم که فراتر از تماس‌های ویدئویی ابتدایی است—طراحی شده برای همکاری بی‌نقص، ارتباطات بسیار واضح، و قابلیت سازگاری.</p>\n<h4><strong>ویژگی‌های کلیدی</strong> 🌟</h4>\n<ol>\n<li>\n<p><strong>چت به صورت زنده</strong> 💬<br>\nیک رابط چت کاربرپسند و جذاب که ارتباط متنی فوری در طول تماس‌ها را ممکن می‌سازد، تا هیچ چیز از دست نرود. با استفاده از تکنولوژی‌های وب مدرن برای پیام‌رسانی با تاخیر کم.</p>\n</li>\n<li>\n<p><strong>بهینه‌سازی کیفیت ویدئوی تطبیقی</strong> 🎥<br>\nساخته شده برای اتصالات جهانی، پلتفرم به صورت پویا کیفیت ویدئو را بر اساس شرایط شبکه تنظیم می‌کند. این موضوع تضمین‌کننده تجربه‌ای روان حتی در اتصالات با پهنای باند کم است.</p>\n</li>\n<li>\n<p><strong>زیرنویس زنده با قدرت AI</strong> ✍️<br>\nبا استفاده از مدل‌های زبان OpenAI، این ویژگی زیرنویس‌های دقیق و زنده را فراهم می‌کند تا دسترسی و شامل‌بودن را بهبود بخشد.</p>\n</li>\n</ol>\n<h4><strong>Tech Stack</strong> 🛠️</h4>\n<ul>\n<li>\n<p><strong>Frontend:</strong></p>\n<ul>\n<li><strong>TailwindCSS:</strong> برای یک رابط کاربری جذاب، پاسخگو، و مدرن.</li>\n<li><strong>TypeScript:</strong> برای کد نویسی قوی‌تایپ و قابل نگهداری.</li>\n</ul>\n</li>\n<li>\n<p><strong>Backend:</strong></p>\n<ul>\n<li><strong>Mediasoup:</strong> قدرتمند برای ویدئو کنفرانس مبتنی بر WebRTC. این امکان را می‌دهد تا تاخیر بسیار کم، مقیاس‌پذیری، و توپولوژی‌های انعطاف‌پذیر را فراهم کند.</li>\n<li><strong>Custom JS SDK:</strong> ساخته شده برای ساده‌سازی ارتباط بین frontend و backend.</li>\n</ul>\n</li>\n<li>\n<p><strong>قابلیت‌های AI:</strong></p>\n<ul>\n<li>مدل‌های زبان OpenAI قدرت زیرنویس زنده را فراهم می‌کنند، ارائه دسترسی و بینش‌های آگاه از متن در طول جلسات.</li>\n</ul>\n</li>\n</ul>\n<h4><strong>چالش‌ها و راه‌حل‌ها</strong> 🧩</h4>\n<ol>\n<li><strong>بهینه‌سازی تاخیر:</strong><br>\nبا Mediasoup، ما یک معماری selective forwarding unit (SFU) را پیاده‌سازی کردیم، تضمین کننده تاخیر کم برای تماس‌های چند شرکت‌کننده.</li>\n</ol>"
+    },
+    "_id": "portfolio/telavox/telavox.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/telavox/telavox.fa.md",
+      "sourceFileName": "telavox.fa.md",
+      "sourceFileDir": "portfolio/telavox",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/telavox/telavox.fa"
+    },
+    "slug": "telavox",
+    "lang": "fa"
+  },
+  {
+    "title": "Telavox",
+    "date": "2024-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "telavox",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1339,
+    "agency": "Telavox",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "Tailwind",
+      "Electron",
+      "Javascript",
+      "Java"
+    ],
+    "case_link_url": "https://www.telavox.com",
+    "client": "Telavox",
+    "tagline": "Switchboard, chat, meetings, and contact center",
+    "background_image": "telavox-top.png",
+    "logo": "logo1.png",
+    "images": [
+      "telavox-app.png",
+      "tvx-app.png"
+    ],
+    "body": {
+      "raw": "\n<h2>Case Study: Fullstack Developer at Telavox</h2>\n\n<h3>Overview</h3>\n\n<p>At Telavox, I work as a Fullstack Developer with a focus on front-end development. Our team is dedicated to building an Electron and web application for our softphone product, ensuring it meets the highest standards of performance and user experience.</p>\n\n<h3>Project 1: Visual Refresh and RTL Support</h3>\n\n<p>The primary goal of this project was to update the design of our application with a modern, sleek interface and to introduce Right-to-Left (RTL) support for the Arabic language. This involved a complete rewrite of the application in TypeScript, as well as addressing technical debt by migrating from MUI4 to Tailwind CSS.</p>\n\n<h3>Key Responsibilities:</h3>\n\n<ul>\n    <li>Collaborated closely with a multidisciplinary team of developers and UX designers.</li>\n    <li>Guided the UX team to ensure component designs were practical and implementable.</li>\n    <li>Rewrote the entire application in TypeScript to enhance maintainability and performance.</li>\n    <li>Integrated Tailwind CSS to replace MUI4, simplifying the styling process and improving design consistency.</li>\n    <li>Implemented RTL support to make the application accessible to Arabic-speaking users.</li>\n</ul>\n\n<h3>Achievements:</h3>\n\n<ul>\n    <li>Successfully delivered a modernized application interface that improved user satisfaction and engagement.</li>\n    <li>Enhanced the application's maintainability and scalability by leveraging TypeScript and Tailwind CSS.</li>\n    <li>Fostered a collaborative environment with the UX team, resulting in well-designed, user-friendly components.</li>\n</ul>\n\n---\n\n### Project 2: **Next-Gen Video Conferencing Platform: Revolutionizing Virtual Collaboration** 🚀\n\nIn today’s hyperconnected world, video conferencing has become the backbone of communication. I set out to develop a **next-gen video conferencing solution** that goes beyond basic video calls—designed for seamless collaboration, crystal-clear communication, and adaptability.\n\n#### **Key Features** 🌟\n\n1. **Real-Time Chat** 💬  \n   A sleek, user-friendly chat interface enables instant text communication during calls, ensuring nothing is missed. Powered by modern web technologies for low-latency messaging.\n\n2. **Adaptive Video Quality Optimization** 🎥  \n   Built for global connectivity, the platform dynamically adjusts video quality based on network conditions. This ensures a smooth experience even on low-bandwidth connections.\n\n3. **AI-Powered Live Captions** ✍️  \n   Integrated with OpenAI models, this feature provides real-time, accurate captions to improve accessibility and inclusivity.\n\n#### **The Tech Stack** 🛠️\n\n- **Frontend:**\n\n  - **TailwindCSS:** For a sleek, responsive, and modern UI.\n  - **TypeScript:** For strongly-typed, maintainable code.\n\n- **Backend:**\n\n  - **Mediasoup:** The powerhouse for WebRTC-based video conferencing. It enables ultra-low latency, scalability, and flexible topologies.\n  - **Custom JS SDK:** Built to streamline communication between the frontend and backend.\n\n- **AI Capabilities:**\n  - OpenAI's language models power real-time captioning, offering accessibility and context-aware insights during meetings.\n\n#### **Challenges & Solutions** 🧩\n\n1. **Latency Optimization:**  \n   With Mediasoup, we implemented a selective forwarding unit (SFU) architecture, ensuring low latency for multi-participant calls.\n\n2. **Seamless Video Quality Adjustments:**  \n   Leveraging advanced WebRTC APIs, I built an adaptive mechanism that analyzes user bandwidth and adjusts video streams dynamically.\n\n3. **AI Caption Accuracy:**  \n   Integrated a custom preprocessing layer for better speaker segmentation and context recognition using OpenAI’s API.\n\n#### **Why It Stands Out** 🌐\n\nThis platform isn’t just another video conferencing app—it’s built to tackle the most common frustrations with virtual collaboration. By combining **cutting-edge WebRTC technology**, **AI-driven features**, and an intuitive design, it enhances productivity and brings people closer together, no matter where they are.\n\n---\n\n### Project 3: Feature Flag Management System\n\nA robust, full-stack feature flag management system built with modern web technologies, enabling teams to control feature rollouts and manage account-specific settings with precision and ease.\nTechnical Overview\n\nBuilt with a cutting-edge tech stack:\n\n- Frontend: Next.js 13+ with TypeScript and App Router\n- Backend: Node.js with PostgreSQL\n- ORM: Drizzle ORM for type-safe database operations\n- UI: Tailwind CSS with shadcn/ui components\n- State Management: React Hook Form for form handling\n- Theme: Dark/Light mode with system preference detection\n\nKey Features\n\n- Feature Flag Management\n\n  - Create and manage feature flags with version control\n  - Set minimum client version requirements\n  - Configure user update permissions\n  - Real-time status monitoring\n\n- Account-Level Controls\n\n  - Granular feature toggle management per account\n  - Customer-specific feature settings\n  - Bulk feature management capabilities\n\n- User Experience\n  - Responsive, accessible interface\n  - Dark/Light theme support\n  - Real-time updates\n  - Comprehensive error handling\n  - Loading states for optimal UX\n\nTechnical Highlights\n\n- Database Architecture\n\n  - Optimized schema design with proper relationships\n  - Connection pooling for enhanced performance\n  - Type-safe database operations\n\n- API Design\n\n  - RESTful endpoints for all CRUD operations\n  - Proper error handling and status codes\n  - Efficient data fetching patterns\n\n- Security & Performance\n  - Type-safe operations throughout the stack\n  - Optimized database queries\n  - Form validation and sanitization\n  - Protected API endpoints\n\nThis project demonstrates expertise in:\n\n- Full-stack TypeScript development\n- Modern React patterns and best practices\n- Database design and optimization\n- UI/UX design principles\n- Production-grade error handling\n- Performance optimization\n- Theme system implementation\n\nThe system is designed to scale, making it suitable for both startups and enterprise-level applications requiring sophisticated feature flag management.\n",
+      "html": "<hr>\n<h3>Project 2: <strong>Next-Gen Video Conferencing Platform: Revolutionizing Virtual Collaboration</strong> 🚀</h3>\n<p>In today’s hyperconnected world, video conferencing has become the backbone of communication. I set out to develop a <strong>next-gen video conferencing solution</strong> that goes beyond basic video calls—designed for seamless collaboration, crystal-clear communication, and adaptability.</p>\n<h4><strong>Key Features</strong> 🌟</h4>\n<ol>\n<li>\n<p><strong>Real-Time Chat</strong> 💬<br>\nA sleek, user-friendly chat interface enables instant text communication during calls, ensuring nothing is missed. Powered by modern web technologies for low-latency messaging.</p>\n</li>\n<li>\n<p><strong>Adaptive Video Quality Optimization</strong> 🎥<br>\nBuilt for global connectivity, the platform dynamically adjusts video quality based on network conditions. This ensures a smooth experience even on low-bandwidth connections.</p>\n</li>\n<li>\n<p><strong>AI-Powered Live Captions</strong> ✍️<br>\nIntegrated with OpenAI models, this feature provides real-time, accurate captions to improve accessibility and inclusivity.</p>\n</li>\n</ol>\n<h4><strong>The Tech Stack</strong> 🛠️</h4>\n<ul>\n<li>\n<p><strong>Frontend:</strong></p>\n<ul>\n<li><strong>TailwindCSS:</strong> For a sleek, responsive, and modern UI.</li>\n<li><strong>TypeScript:</strong> For strongly-typed, maintainable code.</li>\n</ul>\n</li>\n<li>\n<p><strong>Backend:</strong></p>\n<ul>\n<li><strong>Mediasoup:</strong> The powerhouse for WebRTC-based video conferencing. It enables ultra-low latency, scalability, and flexible topologies.</li>\n<li><strong>Custom JS SDK:</strong> Built to streamline communication between the frontend and backend.</li>\n</ul>\n</li>\n<li>\n<p><strong>AI Capabilities:</strong></p>\n<ul>\n<li>OpenAI's language models power real-time captioning, offering accessibility and context-aware insights during meetings.</li>\n</ul>\n</li>\n</ul>\n<h4><strong>Challenges &#x26; Solutions</strong> 🧩</h4>\n<ol>\n<li>\n<p><strong>Latency Optimization:</strong><br>\nWith Mediasoup, we implemented a selective forwarding unit (SFU) architecture, ensuring low latency for multi-participant calls.</p>\n</li>\n<li>\n<p><strong>Seamless Video Quality Adjustments:</strong><br>\nLeveraging advanced WebRTC APIs, I built an adaptive mechanism that analyzes user bandwidth and adjusts video streams dynamically.</p>\n</li>\n<li>\n<p><strong>AI Caption Accuracy:</strong><br>\nIntegrated a custom preprocessing layer for better speaker segmentation and context recognition using OpenAI’s API.</p>\n</li>\n</ol>\n<h4><strong>Why It Stands Out</strong> 🌐</h4>\n<p>This platform isn’t just another video conferencing app—it’s built to tackle the most common frustrations with virtual collaboration. By combining <strong>cutting-edge WebRTC technology</strong>, <strong>AI-driven features</strong>, and an intuitive design, it enhances productivity and brings people closer together, no matter where they are.</p>\n<hr>\n<h3>Project 3: Feature Flag Management System</h3>\n<p>A robust, full-stack feature flag management system built with modern web technologies, enabling teams to control feature rollouts and manage account-specific settings with precision and ease.\nTechnical Overview</p>\n<p>Built with a cutting-edge tech stack:</p>\n<ul>\n<li>Frontend: Next.js 13+ with TypeScript and App Router</li>\n<li>Backend: Node.js with PostgreSQL</li>\n<li>ORM: Drizzle ORM for type-safe database operations</li>\n<li>UI: Tailwind CSS with shadcn/ui components</li>\n<li>State Management: React Hook Form for form handling</li>\n<li>Theme: Dark/Light mode with system preference detection</li>\n</ul>\n<p>Key Features</p>\n<ul>\n<li>\n<p>Feature Flag Management</p>\n<ul>\n<li>Create and manage feature flags with version control</li>\n<li>Set minimum client version requirements</li>\n<li>Configure user update permissions</li>\n<li>Real-time status monitoring</li>\n</ul>\n</li>\n<li>\n<p>Account-Level Controls</p>\n<ul>\n<li>Granular feature toggle management per account</li>\n<li>Customer-specific feature settings</li>\n<li>Bulk feature management capabilities</li>\n</ul>\n</li>\n<li>\n<p>User Experience</p>\n<ul>\n<li>Responsive, accessible interface</li>\n<li>Dark/Light theme support</li>\n<li>Real-time updates</li>\n<li>Comprehensive error handling</li>\n<li>Loading states for optimal UX</li>\n</ul>\n</li>\n</ul>\n<p>Technical Highlights</p>\n<ul>\n<li>\n<p>Database Architecture</p>\n<ul>\n<li>Optimized schema design with proper relationships</li>\n<li>Connection pooling for enhanced performance</li>\n<li>Type-safe database operations</li>\n</ul>\n</li>\n<li>\n<p>API Design</p>\n<ul>\n<li>RESTful endpoints for all CRUD operations</li>\n<li>Proper error handling and status codes</li>\n<li>Efficient data fetching patterns</li>\n</ul>\n</li>\n<li>\n<p>Security &#x26; Performance</p>\n<ul>\n<li>Type-safe operations throughout the stack</li>\n<li>Optimized database queries</li>\n<li>Form validation and sanitization</li>\n<li>Protected API endpoints</li>\n</ul>\n</li>\n</ul>\n<p>This project demonstrates expertise in:</p>\n<ul>\n<li>Full-stack TypeScript development</li>\n<li>Modern React patterns and best practices</li>\n<li>Database design and optimization</li>\n<li>UI/UX design principles</li>\n<li>Production-grade error handling</li>\n<li>Performance optimization</li>\n<li>Theme system implementation</li>\n</ul>\n<p>The system is designed to scale, making it suitable for both startups and enterprise-level applications requiring sophisticated feature flag management.</p>"
+    },
+    "_id": "portfolio/telavox/telavox.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/telavox/telavox.md",
+      "sourceFileName": "telavox.md",
+      "sourceFileDir": "portfolio/telavox",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/telavox/telavox"
+    },
+    "slug": "telavox",
+    "lang": "en"
+  },
+  {
+    "title": "Telavox",
+    "date": "2024-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "telavox",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1339,
+    "agency": "Telavox",
+    "category": [
+      "Backend",
+      "Front-end"
+    ],
+    "tag": [
+      "Tailwind",
+      "Electron",
+      "Javascript",
+      "Java"
+    ],
+    "case_link_url": "https://www.telavox.com",
+    "client": "Telavox",
+    "tagline": "Växel, chatt, möten och kontaktcenter",
+    "background_image": "telavox-top.png",
+    "logo": "logo1.png",
+    "images": [
+      "telavox-app.png",
+      "tvx-app.png"
+    ],
+    "body": {
+      "raw": "<h2>Fallstudie: Fullstack-utvecklare på Telavox</h2>\n\n<h3>Översikt</h3>\n\n<p>På Telavox arbetar jag som en Fullstack-utvecklare med fokus på front-end utveckling. Vårt team är dedikerat till att bygga en Electron och webbapplikation för vår softphone-produkt, och säkerställer att den uppfyller de högsta standarderna för prestanda och användarupplevelse.</p>\n\n<h3>Projekt 1: Visuell uppdatering och RTL-stöd</h3>\n\n<p>Det primära målet med detta projekt var att uppdatera designen av vår applikation med ett modernt, elegant gränssnitt och att introducera stöd för höger-till-vänster (RTL) för arabiska språket. Detta innebar en fullständig omskrivning av applikationen i TypeScript, samt att ta itu med teknisk skuld genom att migrera från MUI4 till Tailwind CSS.</p>\n\n<h3>Centrala ansvarsområden:</h3>\n\n<ul>\n    <li>Samarbetade nära med ett tvärvetenskapligt team av utvecklare och UX-designers.</li>\n    <li>Guidade UX-teamet för att säkerställa att komponentdesignerna var praktiska och genomförbara.</li>\n    <li>Omskrev hela applikationen i TypeScript för att förbättra underhållbarheten och prestandan.</li>\n    <li>Integrerade Tailwind CSS för att ersätta MUI4, vilket förenklade stilmallen och förbättrade designkonsistensen.</li>\n    <li>Implementerade RTL-stöd för att göra applikationen tillgänglig för arabisktalande användare.</li>\n</ul>\n\n<h3>Prestationer:</h3>\n\n<ul>\n    <li>Levererade framgångsrikt ett moderniserat applikationsgränssnitt som förbättrade användarnöjdheten och engagemanget.</li>\n    <li>Förbättrade applikationens underhållbarhet och skalbarhet genom att utnyttja TypeScript och Tailwind CSS.</li>\n    <li>Främjade en samarbetsvänlig miljö med UX-teamet, vilket resulterade i välutformade, användarvänliga komponenter.</li>\n</ul>\n\n---\n\n### Projekt 2: **Nästa generations videokonferensplattform: Revolutionerar virtuellt samarbete** 🚀\n\nI dagens hyperanslutna värld har videokonferenser blivit ryggraden i kommunikation. Jag satte mig för att utveckla en **nästa generations videokonferenslösning** som går utöver grundläggande videosamtal - designad för sömlös samverkan, kristallklar kommunikation och anpassningsförmåga.\n\n#### **Nyckelfunktioner** 🌟\n\n1. **Chatt i realtid** 💬  \n   Ett elegant, användarvänligt chattgränssnitt möjliggör omedelbar textkommunikation under samtal, vilket säkerställer att inget missas. Driven av moderna webbteknologier för låglatensmeddelanden.\n\n2. **Adaptiv optimering av videokvalitet** 🎥  \n   Byggd för global anslutning, justerar plattformen dynamiskt videokvaliteten baserat på nätverksförhållanden. Detta säkerställer en smidig upplevelse även på lågbandbreddsförbindelser.\n\n3. **AI-drivna live-undertexter** ✍️  \n   Integrerad med OpenAI-modeller, ger denna funktion realtids, exakta undertexter för att förbättra tillgängligheten och inklusiviteten.\n\n#### **Teknikstacken** 🛠️\n\n- **Frontend:**\n\n  - **TailwindCSS:** För ett elegant, responsivt och modernt UI.\n  - **TypeScript:** För starkt typad, underhållbar kod.\n\n- **Backend:**\n\n  - **Mediasoup:** Kraftverket för WebRTC-baserade videokonferenser. Det möjliggör ultralåg latens, skalbarhet och flexibla topologier.\n  - **Anpassat JS SDK:** Byggt för att effektivisera kommunikationen mellan frontend och backend.\n\n- **AI-funktioner:**\n  - OpenAI:s språkmodeller driver realtidsundertextning, vilket erbjuder tillgänglighet och kontextmedvetna insikter under möten.\n\n#### **Utmaningar & Lösningar** 🧩\n\n1. **Optimering av latens:**  \n   Med Mediasoup implementerade vi en selektiv vidarebefordringsenhet (SFU) arkitektur, vilket säkerställer låg latens för samtal med flera deltagare.\n\n2. **Sömlösa justeringar av videokvalitet:**  \n   Genom att utnyttja avancerade WebRTC API:er byggde jag en adaptiv mekanism som analyserar användarbandbredden och justerar videoflöden dynamiskt.\n\n3. **AI-undertexternas noggrannhet:**  \n   Integrerade ett anpassat förbehandlingslager för bättre talarsegmentering och igenkänning av sammanhang med hjälp av OpenAI:s API.\n\n#### **Varför det sticker ut** 🌐\n\nDenna plattform är inte bara en annan videokonferensapp - den är byggd för att ta itu med de vanligaste frustrationerna med virtuellt samarbete. Genom att kombinera **banbrytande WebRTC-teknologi**, **AI-drivna funktioner** och en intuitiv design, förbättrar den produktiviteten och för människor närmare varandra, oavsett var de befinner sig.\n\n---\n\n### Projekt 3: Funktionsskifteshanteringssystem\n\nEtt robust, full-stack funktionsskifteshanteringssystem byggt med moderna webbteknologier, vilket gör det möjligt för team att kontrollera funktionsskiften och hantera kontospecifika inställningar med precision och lätthet.\nTeknisk översikt\n\nByggd med en banbrytande teknikstack:\n\n- Frontend: Next.js 13+ med TypeScript och App Router\n- Backend: Node.js med PostgreSQL\n- ORM: Drizzle ORM för typsäkra databasoperationer\n- UI: Tailwind CSS med shadcn/ui komponenter\n- Statshantering: React Hook Form för formulärhantering\n- Tema: Mörkt/Ljust läge med systempreferensdetektering\n\nNyckelfunktioner\n\n- Hantering av funktionsskiften\n\n  - Skapa och hantera funktionsskiften med versionskontroll\n  - Ställa in minimikrav för klientversioner\n  - Konfigurera användaruppdateringsbehörigheter\n  - Realtidsstatusövervakning\n\n- Kontonivåkontroller\n\n  - Detaljerad hantering av funktionsskiften per konto\n  - Kundspecifika funktionsinställningar\n  - Funktioner för bulkhantering\n\n- Användarupplevelse\n  - Responsivt, tillgängligt gränssnitt\n  - Stöd för mörkt/ljust tema\n  - Realtidsuppdateringar\n  - Omfattande felhantering\n  - Laddningstillstånd för optimal UX\n\nTekniska höjdpunkter\n\n- Databasarkitektur\n\n  - Optimerad schemadesign med korrekta relationer\n  - Anslutningspool för förbättrad prestanda\n  - Typsäkra databasoperationer\n\n- API-design\n\n  - RESTful endpoints för alla CRUD-operationer\n  - Korrekt felhantering och statuskoder\n  - Effektiva datahämtningsmönster\n\n- Säkerhet & Prestanda\n  - Typsäkra operationer genom hela stacken\n  - Optimerade databasfrågor\n  - Formulärvalidering och sanering\n  - Skyddade API-ändpunkter\n\nDetta projekt visar\n",
+      "html": "<hr>\n<h3>Projekt 2: <strong>Nästa generations videokonferensplattform: Revolutionerar virtuellt samarbete</strong> 🚀</h3>\n<p>I dagens hyperanslutna värld har videokonferenser blivit ryggraden i kommunikation. Jag satte mig för att utveckla en <strong>nästa generations videokonferenslösning</strong> som går utöver grundläggande videosamtal - designad för sömlös samverkan, kristallklar kommunikation och anpassningsförmåga.</p>\n<h4><strong>Nyckelfunktioner</strong> 🌟</h4>\n<ol>\n<li>\n<p><strong>Chatt i realtid</strong> 💬<br>\nEtt elegant, användarvänligt chattgränssnitt möjliggör omedelbar textkommunikation under samtal, vilket säkerställer att inget missas. Driven av moderna webbteknologier för låglatensmeddelanden.</p>\n</li>\n<li>\n<p><strong>Adaptiv optimering av videokvalitet</strong> 🎥<br>\nByggd för global anslutning, justerar plattformen dynamiskt videokvaliteten baserat på nätverksförhållanden. Detta säkerställer en smidig upplevelse även på lågbandbreddsförbindelser.</p>\n</li>\n<li>\n<p><strong>AI-drivna live-undertexter</strong> ✍️<br>\nIntegrerad med OpenAI-modeller, ger denna funktion realtids, exakta undertexter för att förbättra tillgängligheten och inklusiviteten.</p>\n</li>\n</ol>\n<h4><strong>Teknikstacken</strong> 🛠️</h4>\n<ul>\n<li>\n<p><strong>Frontend:</strong></p>\n<ul>\n<li><strong>TailwindCSS:</strong> För ett elegant, responsivt och modernt UI.</li>\n<li><strong>TypeScript:</strong> För starkt typad, underhållbar kod.</li>\n</ul>\n</li>\n<li>\n<p><strong>Backend:</strong></p>\n<ul>\n<li><strong>Mediasoup:</strong> Kraftverket för WebRTC-baserade videokonferenser. Det möjliggör ultralåg latens, skalbarhet och flexibla topologier.</li>\n<li><strong>Anpassat JS SDK:</strong> Byggt för att effektivisera kommunikationen mellan frontend och backend.</li>\n</ul>\n</li>\n<li>\n<p><strong>AI-funktioner:</strong></p>\n<ul>\n<li>OpenAI:s språkmodeller driver realtidsundertextning, vilket erbjuder tillgänglighet och kontextmedvetna insikter under möten.</li>\n</ul>\n</li>\n</ul>\n<h4><strong>Utmaningar &#x26; Lösningar</strong> 🧩</h4>\n<ol>\n<li>\n<p><strong>Optimering av latens:</strong><br>\nMed Mediasoup implementerade vi en selektiv vidarebefordringsenhet (SFU) arkitektur, vilket säkerställer låg latens för samtal med flera deltagare.</p>\n</li>\n<li>\n<p><strong>Sömlösa justeringar av videokvalitet:</strong><br>\nGenom att utnyttja avancerade WebRTC API:er byggde jag en adaptiv mekanism som analyserar användarbandbredden och justerar videoflöden dynamiskt.</p>\n</li>\n<li>\n<p><strong>AI-undertexternas noggrannhet:</strong><br>\nIntegrerade ett anpassat förbehandlingslager för bättre talarsegmentering och igenkänning av sammanhang med hjälp av OpenAI:s API.</p>\n</li>\n</ol>\n<h4><strong>Varför det sticker ut</strong> 🌐</h4>\n<p>Denna plattform är inte bara en annan videokonferensapp - den är byggd för att ta itu med de vanligaste frustrationerna med virtuellt samarbete. Genom att kombinera <strong>banbrytande WebRTC-teknologi</strong>, <strong>AI-drivna funktioner</strong> och en intuitiv design, förbättrar den produktiviteten och för människor närmare varandra, oavsett var de befinner sig.</p>\n<hr>\n<h3>Projekt 3: Funktionsskifteshanteringssystem</h3>\n<p>Ett robust, full-stack funktionsskifteshanteringssystem byggt med moderna webbteknologier, vilket gör det möjligt för team att kontrollera funktionsskiften och hantera kontospecifika inställningar med precision och lätthet.\nTeknisk översikt</p>\n<p>Byggd med en banbrytande teknikstack:</p>\n<ul>\n<li>Frontend: Next.js 13+ med TypeScript och App Router</li>\n<li>Backend: Node.js med PostgreSQL</li>\n<li>ORM: Drizzle ORM för typsäkra databasoperationer</li>\n<li>UI: Tailwind CSS med shadcn/ui komponenter</li>\n<li>Statshantering: React Hook Form för formulärhantering</li>\n<li>Tema: Mörkt/Ljust läge med systempreferensdetektering</li>\n</ul>\n<p>Nyckelfunktioner</p>\n<ul>\n<li>\n<p>Hantering av funktionsskiften</p>\n<ul>\n<li>Skapa och hantera funktionsskiften med versionskontroll</li>\n<li>Ställa in minimikrav för klientversioner</li>\n<li>Konfigurera användaruppdateringsbehörigheter</li>\n<li>Realtidsstatusövervakning</li>\n</ul>\n</li>\n<li>\n<p>Kontonivåkontroller</p>\n<ul>\n<li>Detaljerad hantering av funktionsskiften per konto</li>\n<li>Kundspecifika funktionsinställningar</li>\n<li>Funktioner för bulkhantering</li>\n</ul>\n</li>\n<li>\n<p>Användarupplevelse</p>\n<ul>\n<li>Responsivt, tillgängligt gränssnitt</li>\n<li>Stöd för mörkt/ljust tema</li>\n<li>Realtidsuppdateringar</li>\n<li>Omfattande felhantering</li>\n<li>Laddningstillstånd för optimal UX</li>\n</ul>\n</li>\n</ul>\n<p>Tekniska höjdpunkter</p>\n<ul>\n<li>\n<p>Databasarkitektur</p>\n<ul>\n<li>Optimerad schemadesign med korrekta relationer</li>\n<li>Anslutningspool för förbättrad prestanda</li>\n<li>Typsäkra databasoperationer</li>\n</ul>\n</li>\n<li>\n<p>API-design</p>\n<ul>\n<li>RESTful endpoints för alla CRUD-operationer</li>\n<li>Korrekt felhantering och statuskoder</li>\n<li>Effektiva datahämtningsmönster</li>\n</ul>\n</li>\n<li>\n<p>Säkerhet &#x26; Prestanda</p>\n<ul>\n<li>Typsäkra operationer genom hela stacken</li>\n<li>Optimerade databasfrågor</li>\n<li>Formulärvalidering och sanering</li>\n<li>Skyddade API-ändpunkter</li>\n</ul>\n</li>\n</ul>\n<p>Detta projekt visar</p>"
+    },
+    "_id": "portfolio/telavox/telavox.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/telavox/telavox.sv.md",
+      "sourceFileName": "telavox.sv.md",
+      "sourceFileDir": "portfolio/telavox",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/telavox/telavox.sv"
+    },
+    "slug": "telavox",
+    "lang": "sv"
+  },
+  {
+    "title": "ToolPool",
+    "date": "2012-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "toolpool",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1337,
+    "agency": "The Fan Club",
+    "category": [
+      "Backend",
+      "Front-end",
+      "UX"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP"
+    ],
+    "case_link_url": "https://www.malmojarnhandel.se/ToolPool-Verktygsutl%C3%A5ning",
+    "client": "مالمو جرنهندل",
+    "tagline": "ToolPool مانند سامانه‌ی همسفری برای ابزارها است، اما رایگان.",
+    "background_image": "toolpool-top1.jpg",
+    "logo": "toolpool-4.jpg",
+    "images": [
+      "toolpool-top.jpg",
+      "toolpool-1.jpg",
+      "toolpool-3.jpg",
+      "site-1.jpg"
+    ],
+    "body": {
+      "raw": "<h2>ToolPool - Verktygsutlåning: مطالعه موردی در به اشتراک گذاری نوآورانه ابزار</h2>\n\n  <h3>مقدمه:</h3>\n  <p>\n    فروشگاه سخت افزار Malmö با چالش رقابت با زنجیره های بزرگ بهبود خانه که بازار را تسخیر کرده بودند، مواجه شد. برای مقابله با این موضوع، The Fan Club، یک آژانس تبلیغاتی، از تخصص من به عنوان یک توسعه دهنده برای ایجاد یک راه حل که به فروشگاه امکان برجسته شدن را می داد، استفاده کرد. از طریق تحلیل دقیق، ما کشف کردیم که منبع اصلی درآمد فروشگاه از تامین کنندگان بود نه از ابزارهای گران قیمت. برای رفع این موضوع، ما مفهوم منحصر به فردی به نام ToolPool را طراحی کردیم، که الهام گرفته از ایده یک خودرو اشتراکی اما با ابزار بود. این سرویس به مشتریان اجازه می داد تا به صورت رایگان ابزارها را قرض بگیرند در عوض پیام را در فیس بوک به اشتراک بگذارند. این اقدام توجه رسانه های گسترده ای را به خود جلب کرد، جوایز و تشویق هایی را دریافت کرد و فروش فروشگاه را در ماه اول به طور قابل توجهی 25 درصد افزایش داد.\n  </p>\n\n  <h3>توسعه برنامه فیس بوک و وب:</h3>\n  <p>\n    به عنوان بخشی از تیم The Fan Club، من رهبری توسعه ToolPool را به عنوان یک برنامه فیس بوک بر عهده داشتم تا از دسترسی گسترده و قابلیت های به اشتراک گذاری اجتماعی این پلتفرم استفاده کنم. پس از شاهد بودن موفقیت و محبوبیت مفهوم، ما آن را به صفحه وب خود گسترش دادیم. فرآیند توسعه شامل استفاده از فناوری هایی مانند Facebook API، jQuery، jQuery UI، PHP، و MySQL برای ایجاد تجربه کاربری بی درز و تسهیل در قرض گرفتن و به اشتراک گذاری ابزار به صورت کارآمد بود. تجربه کاربر (UX) از اهمیت بالایی برخوردار بود و تیم ما با دقت برای اطمینان از یک رابط کاربری جذاب و کاربر پسند که تعامل را افزایش می داد و به اشتراک گذاری تشویق می کرد، کار کرد.\n  </p>\n\n  <h3>همکاری و کار تیمی:</h3>\n  <p>\n    موفقیت ToolPool نتیجه همکاری بین تیمی از خالقان، نویسندگان تبلیغاتی و خود من بود. با کار کردن نزدیک در The Fan Club، ما در بحث ها و جلسات مغز فراگیر شرکت کردیم تا اطمینان حاصل کنیم که تمام جنبه های پروژه، از عملکرد تا پیام رسانی، به طور هماهنگ با یکدیگر کار می کنند. تلاش مشترک نقش محوری در موفقیت کلی پروژه ایفا کرد.\n  </p>\n\n  <h3>درباره ToolPool - Verktygsutlåning:</h3>\n  <p>\n    ToolPool - Verktygsutlåning یک سرویس قرض دادن ابزار راحت و برنده جایزه ارائه داد، که حدود 20 نوع مختلف ابزار، از جمله مته های بتن، سنگ زنها، اره های برقی و بیشتر را ارائه می داد. مشتریان می توانستند ابزارها را از طریق فیس بوک، با تماس با فروشگاه یا مستقیماً حضوری رزرو کنند. سرویس قرض دادن ابزار کاملاً رایگان بود، در حالی که مواد مصرفی مانند کاغذ سنباده و پیچ می توانستند در صورت نیاز خریداری شوند. ToolPool به طور گسترده ای مورد تقدیر قرار گرفت و محبوبیت یافت، با حدود 200 قرض ابزار در هر ماه. این سرویس سادگی مصرف پایدار را نشان داد و بر این نکته تاکید کرد که بودن محیط زیست دوستانه نیازی به هزینه اضافی ندارد.\n  </p>\n\n  <h3>نتیجه گیری:</h3>\n  <p>\n    پروژه ToolPool - Verktygsutlåning، که توسط The Fan Club با مشارکت من به عنوان توسعه دهنده توسعه یافت، قدرت نوآوری و همکاری در راندن موفقیت کسب و کار را نشان داد. با بهره گیری از فناوری هایی مانند Facebook API، ما یک پلتفرم ایجاد کردیم که قرض گرفتن و به اشتراک گذاری ابزار را انقلابی کرد. این اقدام از طریق جوایز معتبر و پوشش رسانه ای تایید شد، که تأثیر و اثربخشی آن را\n",
+      "html": ""
+    },
+    "_id": "portfolio/toolpool/toolpool.fa.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/toolpool/toolpool.fa.md",
+      "sourceFileName": "toolpool.fa.md",
+      "sourceFileDir": "portfolio/toolpool",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/toolpool/toolpool.fa"
+    },
+    "slug": "toolpool",
+    "lang": "fa"
+  },
+  {
+    "title": "ToolPool",
+    "date": "2012-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "toolpool",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1337,
+    "agency": "The Fan Club",
+    "category": [
+      "Backend",
+      "Front-end",
+      "UX"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP"
+    ],
+    "case_link_url": "https://www.malmojarnhandel.se/ToolPool-Verktygsutl%C3%A5ning",
+    "client": "Malmö Järnhandel",
+    "tagline": "ToolPool is like a carpool, but with tools and it’s free.",
+    "background_image": "toolpool-top1.jpg",
+    "logo": "toolpool-4.jpg",
+    "images": [
+      "toolpool-top.jpg",
+      "toolpool-1.jpg",
+      "toolpool-3.jpg",
+      "site-1.jpg"
+    ],
+    "body": {
+      "raw": "\n<h2>ToolPool - Verktygsutlåning: A Case Study in Innovative Tool Sharing</h2>\n\n  <h3>Introduction:</h3>\n  <p>\n    Malmö Hardware Store faced the challenge of competing with large home improvement chains dominating the market. To tackle this, The Fan Club, an advertising agency, enlisted my expertise as a developer to create a solution that would enable the store to stand out. Through careful analysis, we discovered that the store's main source of revenue came from supplies rather than expensive tools. To address this, we devised a unique concept called ToolPool, inspired by the idea of a carpool but with tools. The service allowed customers to borrow tools for free in exchange for sharing the message on Facebook. The initiative received extensive media coverage, garnered awards and recognition, and significantly boosted the store's sales by 25% within the first month.\n  </p>\n\n  <h3>Facebook App and Web Development:</h3>\n  <p>\n    As part of The Fan Club team, I spearheaded the development of ToolPool as a Facebook app to leverage the platform's extensive reach and social sharing capabilities. After witnessing the success and popularity of the concept, we expanded it to its dedicated webpage. The development process involved utilizing technologies such as the Facebook API, jQuery, jQuery UI, PHP, and MySQL to create a seamless user experience and facilitate efficient tool borrowing and sharing. User experience (UX) was of paramount importance, and our team worked diligently to ensure a visually appealing and user-friendly interface that enhanced engagement and encouraged sharing.\n  </p>\n\n  <h3>Collaboration and Teamwork:</h3>\n  <p>\n    ToolPool's success was the result of collaboration among a team of talented creators, copywriters, and myself. Working closely together at The Fan Club, we engaged in extensive discussions and brainstorming sessions to ensure that all aspects of the project, from functionality to messaging, worked harmoniously together. The collaborative effort played a pivotal role in the project's overall success.\n  </p>\n\n  <h3>About ToolPool - Verktygsutlåning:</h3>\n  <p>\n    ToolPool - Verktygsutlåning provided a convenient and award-winning tool lending service, offering approximately 20 different types of tools, including concrete drills, sanders, electric saws, and more. Customers could book the tools through Facebook, by calling the store, or directly in-person. The tool lending service was completely free, while consumables such as sandpaper and screws could be purchased if needed. ToolPool was widely appreciated and gained popularity, with approximately 200 tool loans per month. The service exemplified the simplicity of sustainable consumption and highlighted that being eco-friendly does not have to come at an extra cost.\n  </p>\n\n  <h3>Conclusion:</h3>\n  <p>\n    The ToolPool - Verktygsutlåning project, developed by The Fan Club with my contribution as a developer, showcased the power of innovation and collaboration in driving business success. By leveraging technologies such as the Facebook API, we created a platform that revolutionized tool borrowing and sharing. The initiative received recognition through prestigious awards and media coverage, validating its impact and effectiveness. ToolPool not only provided a practical solution for Malmö Hardware Store to compete with larger chains but also promoted sustainability and cost-effective consumer behavior. The project's success demonstrated the potential for simple ideas to create a lasting impact and inspire positive change in the market.\n  </p>\n\nToolPool has been awarded in Cannes Lions (Silver Lion in Promo &amp; Activation, Bronze Lion in Cyber and Shortlist in Media), Guldägget (Golden Egg in PR, Silver Egg in Digital and Silver Egg in Alternative Media), Tomorrow Awards (Shortlist), Spinn (Shortlist x3), Best Ads (Gold), Campaign of the Month, Interactive (Gold), 100-wattaren (Gold) and published in Contagius Magazine.\n\n </p>\n",
+      "html": "<p>ToolPool has been awarded in Cannes Lions (Silver Lion in Promo &#x26; Activation, Bronze Lion in Cyber and Shortlist in Media), Guldägget (Golden Egg in PR, Silver Egg in Digital and Silver Egg in Alternative Media), Tomorrow Awards (Shortlist), Spinn (Shortlist x3), Best Ads (Gold), Campaign of the Month, Interactive (Gold), 100-wattaren (Gold) and published in Contagius Magazine.</p>"
+    },
+    "_id": "portfolio/toolpool/toolpool.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/toolpool/toolpool.md",
+      "sourceFileName": "toolpool.md",
+      "sourceFileDir": "portfolio/toolpool",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/toolpool/toolpool"
+    },
+    "slug": "toolpool",
+    "lang": "en"
+  },
+  {
+    "title": "ToolPool",
+    "date": "2012-01-01T00:00:00.000Z",
+    "status": "publish",
+    "permalink": "toolpool",
+    "author": "Ehsan",
+    "type": "Portfolio",
+    "id": 1337,
+    "agency": "The Fan Club",
+    "category": [
+      "Backend",
+      "Front-end",
+      "UX"
+    ],
+    "tag": [
+      "CSS",
+      "HTML",
+      "Javascript",
+      "PHP"
+    ],
+    "case_link_url": "https://www.malmojarnhandel.se/ToolPool-Verktygsutl%C3%A5ning",
+    "client": "Malmö Järnhandel",
+    "tagline": "ToolPool är som samåkning, men med verktyg och det är gratis.",
+    "background_image": "toolpool-top1.jpg",
+    "logo": "toolpool-4.jpg",
+    "images": [
+      "toolpool-top.jpg",
+      "toolpool-1.jpg",
+      "toolpool-3.jpg",
+      "site-1.jpg"
+    ],
+    "body": {
+      "raw": "<h2>ToolPool - Verktygsutlåning: En fallstudie i innovativ verktygsdelning</h2>\n\n  <h3>Introduktion:</h3>\n  <p>\n    Malmö Järnhandel stod inför utmaningen att konkurrera med stora byggvaruhuskedjor som dominerade marknaden. För att ta itu med detta anlitade The Fan Club, en reklambyrå, min expertis som utvecklare för att skapa en lösning som skulle göra att butiken kunde sticka ut. Genom noggrann analys upptäckte vi att butikens huvudsakliga inkomstkälla kom från förbrukningsmaterial snarare än dyra verktyg. För att adressera detta utformade vi ett unikt koncept kallat ToolPool, inspirerat av idén om samåkning men med verktyg. Tjänsten tillät kunder att låna verktyg gratis i utbyte mot att dela budskapet på Facebook. Initiativet fick omfattande mediebevakning, vann priser och erkännande, och ökade butikens försäljning med 25% inom den första månaden.\n  </p>\n\n  <h3>Facebook App och Webbutveckling:</h3>\n  <p>\n    Som en del av The Fan Club-teamet ledde jag utvecklingen av ToolPool som en Facebook-app för att utnyttja plattformens omfattande räckvidd och sociala delningsfunktioner. Efter att ha bevittnat framgången och populariteten hos konceptet utvidgade vi det till en egen webbsida. Utvecklingsprocessen innebar att använda tekniker som Facebook API, jQuery, jQuery UI, PHP och MySQL för att skapa en sömlös användarupplevelse och underlätta effektivt verktygslån och delning. Användarupplevelsen (UX) var av största vikt, och vårt team arbetade flitigt för att säkerställa ett visuellt tilltalande och användarvänligt gränssnitt som ökade engagemanget och uppmuntrade till delning.\n  </p>\n\n  <h3>Samarbete och teamwork:</h3>\n  <p>\n    ToolPools framgång var resultatet av samarbete mellan ett team av begåvade skapare, copywriters och mig själv. I nära samarbete på The Fan Club deltog vi i omfattande diskussioner och brainstorming-sessioner för att säkerställa att alla aspekter av projektet, från funktionalitet till budskap, fungerade harmoniskt tillsammans. Det gemensamma arbetet spelade en avgörande roll i projektets övergripande framgång.\n  </p>\n\n  <h3>Om ToolPool - Verktygsutlåning:</h3>\n  <p>\n    ToolPool - Verktygsutlåning erbjöd en bekväm och prisbelönt verktygslånetjänst, med ungefär 20 olika typer av verktyg, inklusive betongborrar, slipmaskiner, elektriska sågar och mer. Kunderna kunde boka verktygen via Facebook, genom att ringa till butiken, eller direkt på plats. Verktygslånetjänsten var helt gratis, medan förbrukningsmaterial som sandpapper och skruvar kunde köpas vid behov. ToolPool uppskattades mycket och blev populärt, med ungefär 200 verktygslån per månad. Tjänsten exemplifierade enkelheten i hållbar konsumtion och framhävde att det att vara miljövänlig inte behöver innebära en extra kostnad.\n  </p>\n\n  <h3>Slutsats:</h3>\n  <p>\n    ToolPool - Verktygsutlåning-projektet, utvecklat av The Fan Club med mitt bidrag som utvecklare, visade kraften i innovation och samarbete för att driva företagsframgång. Genom att utnyttja tekniker som Facebook API skapade vi en plattform som revolutionerade verktygslån och delning. Initiativet fick erkännande genom prestigefyllda priser och mediebevakning, vilket bekräftade dess inverkan och effektivitet. ToolPool erbjöd inte bara en praktisk lösning för Malmö Järnhandel att konkurrera med större kedjor, utan främjade också hållbarhet och kostnadseffektivt konsumentbeteende. Projektets framgång visade potentialen för enkla idéer att skapa en varaktig inverkan och inspirera till positiv förändring på marknaden.\n  </p>\n\nToolPool har tilldelats priser i Cannes Lions (Silver Lion i Promo &amp; Activation, Bronze Lion i Cyber och Shortlist i Media), Guldägget (Guldägg i PR, Silverägg i Digital och Silverägg i Alternativa Medier), Tomorrow Awards (Shortlist), Spinn (Shortlist x3), Best Ads (Guld), Månadens Kampanj, Interaktiv (Guld), 100-wattaren (Guld) och publicerades i Contagius Magazine.\n\n </p>\n",
+      "html": "<p>ToolPool har tilldelats priser i Cannes Lions (Silver Lion i Promo &#x26; Activation, Bronze Lion i Cyber och Shortlist i Media), Guldägget (Guldägg i PR, Silverägg i Digital och Silverägg i Alternativa Medier), Tomorrow Awards (Shortlist), Spinn (Shortlist x3), Best Ads (Guld), Månadens Kampanj, Interaktiv (Guld), 100-wattaren (Guld) och publicerades i Contagius Magazine.</p>"
+    },
+    "_id": "portfolio/toolpool/toolpool.sv.md",
+    "_raw": {
+      "sourceFilePath": "portfolio/toolpool/toolpool.sv.md",
+      "sourceFileName": "toolpool.sv.md",
+      "sourceFileDir": "portfolio/toolpool",
+      "contentType": "markdown",
+      "flattenedPath": "portfolio/toolpool/toolpool.sv"
+    },
+    "slug": "toolpool",
+    "lang": "sv"
+  }
+]

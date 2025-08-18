@@ -1,0 +1,47 @@
+{
+  "title": "Äppleappen",
+  "date": "2019-03-28T10:31:34.000Z",
+  "status": "publish",
+  "permalink": "appleappen",
+  "author": "Ehsan",
+  "type": "Portfolio",
+  "id": 225,
+  "agency": "Whitespace",
+  "category": [
+    "Backend",
+    "Front-end",
+    "Mobile",
+    "UX"
+  ],
+  "tag": [
+    "Angular",
+    "CSS",
+    "HTML",
+    "Phonegap"
+  ],
+  "case_link_url": "http://api.appelappen.nordiskamuseet.se",
+  "client": "Nordiska museet",
+  "tagline": "Upptäck svenska äpplen i mobilen",
+  "background_image": "appleappen-top.jpg",
+  "logo": "appleappen-logo.jpg",
+  "images": [
+    "appleappen-1.jpg"
+  ],
+  "port_date": [
+    "2016"
+  ],
+  "body": {
+    "raw": "<h2>Nordiska Museets Svenska Äpplen App: En fallstudie i att bygga en omfattande app för svenska äppelentusiaster</h2>\n\n  <h3>Introduktion:</h3>\n  <p>\n    Nordiska Museets Svenska Äpplen app utvecklades för att tillhandahålla en värdefull resurs för alla som är intresserade av att lära sig mer om svenska äppelsorter. Appen erbjuder hjälp med att identifiera äppelsorter, ger information om äppelodling och utforskar historien om dina favoritäpplen. Appen finns tillgänglig för nedladdning på både iOS och Android plattformar.\n  </p>\n\n  <h3>Teamarbete och Utveckling:</h3>\n  <p>\n    I ett team bestående av en designer, två full-stack utvecklare och jag själv, lyckades vi framgångsrikt bygga både Android och webbversionerna av appen. Vårt samarbete säkerställde att appens design och funktionalitet noggrant utformades för att möta behoven hos svenska äppelentusiaster. Under utvecklingsprocessen utnyttjade vi teknologier som Angular, CSS, HTML och PhoneGap för att leverera en sömlös användarupplevelse över flera plattformar.\n  </p>\n\n  <h3>Appens Funktioner och Funktionalitet:</h3>\n  <p>\n    Svenska Äpplen appen tillhandahåller en mängd information om över 300 svenska äppelsorter. Användare kan enkelt bestämma egenskaperna hos varje sort, inklusive mognad, utseende och smak. Dessutom erbjuder iPhone och iPad versionerna av appen möjligheten att se de äppelsorter som odlas av andra, dela bilder på dina egna äpplen och markera dina fruktträd på en karta. Användare kan också utforska populariteten hos olika äppelsorter och skapa en samling av sina favoritvarianter odlade i sina egna trädgårdar.\n  </p>\n\n  <h3>Samarbete och Stöd:</h3>\n  <p>\n    Utvecklingen av appen gjordes möjlig genom samarbete med pomologen Mats Brokvist, en aktiv sortidentifierare i Svenska Pomologiska Sällskapet. Med stöd från Riksförbundet Svensk Trädgård och expertis från de kunniga trädgårdsmästarna på Julita gård, Sveriges äldsta klonarkiv för bevarande av äldre fruktvarianter, innehåller appen omfattande information om odling, ympning och andra relaterade ämnen.\n  </p>\n\n  <h3>Slutsats:</h3>\n  <p>\n    Nordiska Museets Svenska Äpplen app står som ett bevis på vårt samarbete i att utveckla en omfattande och användarvänlig resurs för svenska äppelentusiaster. Med ett team bestående av designers, full-stack utvecklare och jag själv som utvecklare, lyckades vi framgångsrikt bygga både Android och webbversionerna av appen. Appens funktioner, inklusive den omfattande informationen om svenska äppelsorter och möjligheten att dela och utforska andra användares äppelsamlingar, tillhandahåller en värdefull resurs för äppelälskare. Samarbetet med experter inom området och stödet från Riksförbundet Svensk Trädgård förbättrade ytterligare appens trovärdighet och innehåll. Nordiska Museets Svenska Äpplen app syftar till att främja kunskap och användning av svenska äppelsorter, och vi är stolta över att ha bidragit till detta arbete.\n  </p>\n",
+    "html": ""
+  },
+  "_id": "portfolio/appleappen/appleappen.sv.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/appleappen/appleappen.sv.md",
+    "sourceFileName": "appleappen.sv.md",
+    "sourceFileDir": "portfolio/appleappen",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/appleappen/appleappen.sv"
+  },
+  "slug": "appleappen",
+  "lang": "sv"
+}
