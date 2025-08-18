@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "home": "خانه",
+    "about": "درباره",
+    "portfolio": "کارها",
+    "skills": "مهارت‌ها",
+    "services": "خدمات",
+    "design-system": "سیستم طراحی",
+    "contact": "تماس",
+    "blog": "بلاگ"
+  }
+}

@@ -1,7 +1,3 @@
-Got it 👍 — here’s your **updated, AI-ready plan** that includes multilingual support, portfolio/blog in `/src/content`, and taxonomy pages for tags & categories.
-
----
-
 # 🟦 Next.js + Contentlayer Multilingual Portfolio Shell
 
 ## ⚙️ Tech

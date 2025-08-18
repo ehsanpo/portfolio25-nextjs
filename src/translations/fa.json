@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "خانه",
+    "about": "درباره من",
+    "portfolio": "نمونه کارها",
+    "blog": "وبلاگ",
+    "services": "خدمات",
+    "contact": "تماس",
+    "design-system": "سیستم طراحی",
+    "skills": "مهارت‌ها",
+    "about-overview": "نمای کلی",
+    "about-experience": "تجربه",
+    "about-education": "تحصیلات",
+    "about-certifications": "گواهینامه‌ها",
+    "portfolio-overview": "نمای کلی",
+    "portfolio-case-studies": "مطالعات موردی",
+    "portfolio-categories": "دسته‌بندی‌ها",
+    "ds-colors": "رنگ‌ها",
+    "ds-typography": "تایپوگرافی",
+    "ds-components": "کامپوننت‌ها",
+    "ds-patterns": "الگوها"
+  },
+  "common": {
+    "loading": "در حال بارگذاری...",
+    "error": "مشکلی پیش آمده",
+    "back": "بازگشت",
+    "next": "بعدی",
+    "previous": "قبلی",
+    "readMore": "ادامه مطلب",
+    "viewProject": "مشاهده پروژه",
+    "featured": "ویژه"
+  },
+  "hero": {
+    "greeting": "سلام، من",
+    "title": "احسان پورهادی",
+    "subtitle": "مهندس سیستم طراحی و توسعه‌دهنده خلاق",
+    "description": "من سیستم‌های طراحی مقیاس‌پذیر و تجربیات کاربری زیبا می‌سازم که شکاف بین طراحی و توسعه را پر می‌کند.",
+    "cta": "مشاهده کارهای من",
+    "ctaSecondary": "تماس با من"
+  },
+  "portfolio": {
+    "title": "نمونه کارهای من",
+    "description": "مجموعه‌ای از پروژه‌ها که تخصص من در سیستم‌های طراحی، توسعه وب و طراحی تجربه کاربری را نشان می‌دهد.",
+    "filter": "فیلتر",
+    "all": "همه",
+    "loadMore": "بارگذاری پروژه‌های بیشتر",
+    "noProjects": "پروژه‌ای یافت نشد",
+    "noProjectsDescription": "پروژه‌ها پس از اضافه کردن محتوا به نمونه کارها در اینجا نمایش داده خواهند شد."
+  },
+  "blog": {
+    "title": "وبلاگ",
+    "description": "نظراتی درباره سیستم‌های طراحی، بهترین روش‌های توسعه و ساخت تجربیات کاربری بهتر.",
+    "featured": "ویژه",
+    "recentArticles": "آخرین مقالات",
+    "readArticle": "خواندن مقاله",
+    "shareArticle": "اشتراک‌گذاری مقاله",
+    "stayUpdated": "با ما همراه باشید",
+    "stayUpdatedDescription": "هنگام انتشار مقالات جدید درباره سیستم‌های طراحی و توسعه مطلع شوید.",
+    "subscribe": "عضویت"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Hem",
+    "about": "Om mig",
+    "portfolio": "Portfolio",
+    "blog": "Blogg",
+    "services": "Tjänster",
+    "contact": "Kontakt",
+    "design-system": "Designsystem",
+    "skills": "Färdigheter",
+    "about-overview": "Översikt",
+    "about-experience": "Erfarenhet",
+    "about-education": "Utbildning",
+    "about-certifications": "Certifieringar",
+    "portfolio-overview": "Översikt",
+    "portfolio-case-studies": "Fallstudier",
+    "portfolio-categories": "Kategorier",
+    "ds-colors": "Färger",
+    "ds-typography": "Typografi",
+    "ds-components": "Komponenter",
+    "ds-patterns": "Mönster"
+  },
+  "common": {
+    "loading": "Laddar...",
+    "error": "Något gick fel",
+    "back": "Tillbaka",
+    "next": "Nästa",
+    "previous": "Föregående",
+    "readMore": "Läs mer",
+    "viewProject": "Visa projekt",
+    "featured": "Utvald"
+  },
+  "hero": {
+    "greeting": "Hej, jag är",
+    "title": "Ehsan Pourhadi",
+    "subtitle": "Designsystemingenjör & Kreativ utvecklare",
+    "description": "Jag skapar skalbara designsystem och vackra användarupplevelser som överbryggar klyftan mellan design och utveckling.",
+    "cta": "Se mitt arbete",
+    "ctaSecondary": "Kontakta mig"
+  },
+  "portfolio": {
+    "title": "Min Portfolio",
+    "description": "En samling projekt som visar min expertis inom designsystem, webbutveckling och användarupplevelsedesign.",
+    "filter": "Filtrera",
+    "all": "Alla",
+    "loadMore": "Ladda fler projekt",
+    "noProjects": "Inga projekt hittades",
+    "noProjectsDescription": "Projekt kommer att visas här när innehåll läggs till i portfolion."
+  },
+  "blog": {
+    "title": "Blogg",
+    "description": "Tankar om designsystem, utvecklingsbästa praxis och att bygga bättre användarupplevelser.",
+    "featured": "Utvald",
+    "recentArticles": "Senaste artiklarna",
+    "readArticle": "Läs artikel",
+    "shareArticle": "Dela artikel",
+    "stayUpdated": "Håll dig uppdaterad",
+    "stayUpdatedDescription": "Få notiser när jag publicerar nya artiklar om designsystem och utveckling.",
+    "subscribe": "Prenumerera"
+  }
+}

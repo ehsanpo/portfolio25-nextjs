@@ -27,10 +27,6 @@ export default function Header() {
             Contact
           </Link>
         </nav>
-        <LanguageSwitcher
-          currentLanguage={currentLanguage}
-          onLanguageChange={setCurrentLanguage}
-        />
       </div>
     </header>
   );

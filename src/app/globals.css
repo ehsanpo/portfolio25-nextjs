@@ -1,26 +1,219 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Basement";
+  src: url("/fonts/basement.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kabel";
+  src: url("/fonts/Kabel.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --gradient-color: linear-gradient(90deg, #ef446a 0%, #8b5cf6 100%);
+  --gradient-color-inv: linear-gradient(-90deg, #ef446a 0%, #8b5cf6 100%);
+  --primary: #ef446a;
+  --secondary: #8b5cf6;
+  --radius: 0.5rem;
+
+  /* Light theme colors */
+  --background: 0 0% 98%;
+  --foreground: 0 0% 4%;
+  --card: 30 15% 85%;
+  --card-foreground: 0 0% 4%;
+  --popover: 0 0% 98%;
+  --popover-foreground: 0 0% 4%;
+  --muted: 20 8% 54%;
+  --muted-foreground: 0 0% 32%;
+  --border: 20 8% 54%;
+  --input: 30 15% 85%;
+  --ring: 343 83% 59%;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.dark {
+  color-scheme: dark;
+
+  /* Dark theme colors */
+  --background: 0 0% 4%;
+  --foreground: 30 15% 98%;
+  --card: 0 0% 10%;
+  --card-foreground: 30 15% 98%;
+  --popover: 0 0% 10%;
+  --popover-foreground: 30 15% 98%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 20 8% 54%;
+  --border: 0 0% 25%;
+  --input: 0 0% 15%;
+  --ring: 343 83% 59%;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.glass {
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.dark .glass-card {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.gradient-text {
+  background: var(--gradient-color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.block-reveal {
+  position: relative;
+  overflow: hidden;
+}
+
+.block-reveal::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: var(--gradient-color);
+  animation: blockReveal 2s ease-in-out;
+  z-index: 1;
+}
+
+@keyframes blockReveal {
+  0% {
+    left: -100%;
+  }
+  50% {
+    left: 0%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 8s linear infinite;
+}
+
+@keyframes gradient {
+  0%,
+  100% {
+    background-size: 200% 200%;
+    background-position: left center;
+  }
+  50% {
+    background-size: 300% 300%;
+    background-position: right center;
+  }
+}
+/* Duo tone image effects */
+.duo-tone {
+  filter: grayscale(100%);
+}
+
+.duo-tone::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    135deg,
+    var(--duo-tone-color-1) 0%,
+    var(--duo-tone-color-2) 100%
+  );
+  mix-blend-mode: multiply;
+  opacity: var(--duo-tone-intensity, 0.7);
+  pointer-events: none;
+}
+
+/* Cyberpunk loading effects */
+@keyframes scan-line {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+@keyframes glitch-shift {
+  0%,
+  100% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-1px, 1px);
+  }
+  40% {
+    transform: translate(-1px, -1px);
+  }
+  60% {
+    transform: translate(1px, 1px);
+  }
+  80% {
+    transform: translate(1px, -1px);
+  }
+}
+
+@keyframes data-stream {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
+
+/* Fade in animation for components */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
 }

@@ -29,7 +29,9 @@ export default function AboutPage() {
       }`}
     >
       <h1>{t.title}</h1>
-      <p>{t.description}</p>
+      <div className="bg-primary-500 text-white p-4 rounded">
+        {t.description}
+      </div>
     </div>
   );
 }

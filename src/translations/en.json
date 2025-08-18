@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "services": "Services",
+    "contact": "Contact",
+    "design-system": "Design System",
+    "skills": "Skills",
+    "about-overview": "Overview",
+    "about-experience": "Experience",
+    "about-education": "Education",
+    "about-certifications": "Certifications",
+    "portfolio-overview": "Overview",
+    "portfolio-case-studies": "Case Studies",
+    "portfolio-categories": "Categories",
+    "ds-colors": "Colors",
+    "ds-typography": "Typography",
+    "ds-components": "Components",
+    "ds-patterns": "Patterns"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "readMore": "Read More",
+    "viewProject": "View Project",
+    "featured": "Featured"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "title": "Ehsan Pourhadi",
+    "subtitle": "Design Systems Engineer & Creative Developer",
+    "description": "I create scalable design systems and beautiful user experiences that bridge the gap between design and development.",
+    "cta": "View My Work",
+    "ctaSecondary": "Get In Touch"
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "description": "A collection of projects showcasing my expertise in design systems, web development, and user experience design.",
+    "filter": "Filter",
+    "all": "All",
+    "loadMore": "Load More Projects",
+    "noProjects": "No projects found",
+    "noProjectsDescription": "Projects will appear here once content is added to the portfolio."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Thoughts on design systems, development best practices, and building better user experiences.",
+    "featured": "Featured",
+    "recentArticles": "Recent Articles",
+    "readArticle": "Read Article",
+    "shareArticle": "Share Article",
+    "stayUpdated": "Stay Updated",
+    "stayUpdatedDescription": "Get notified when I publish new articles about design systems and development.",
+    "subscribe": "Subscribe"
+  }
+}

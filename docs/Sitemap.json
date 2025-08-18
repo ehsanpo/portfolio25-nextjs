@@ -1,0 +1,147 @@
+{
+  "home": {
+    "path": "/",
+    "title": "Home",
+    "description": "Landing page with brief intro and featured content",
+    "sections": [
+      { "title": "Introduction", "type": "custom" },
+      { "title": "Featured Work", "type": "custom" },
+      { "title": "Stacks", "type": "cards" },
+      { "title": "Certifications", "type": "cards" },
+      { "title": "What People Say", "type": "cards" },
+      { "title": "Awards", "type": "cards" },
+      { "title": "Trusted By", "type": "cards" },
+      { "title": "Latest Blog Posts", "type": "sections" }
+    ]
+  },
+  "about": {
+    "path": "/about",
+    "title": "About",
+    "description": "Personal background, values, career philosophy, and approach",
+    "sections": [
+      { "title": "Overview", "type": "custom" },
+      { "title": "Work Highlights", "type": "sections" }
+    ],
+    "children": [
+      {
+        "path": "/about/overview",
+        "title": "Overview",
+        "description": "Broad intro: self-taught journey, general background, and philosophy",
+        "sections": [
+          { "title": "About Me", "type": "custom" },
+          { "title": "Background", "type": "sections" },
+          { "title": "Philosophy", "type": "sections" },
+          { "title": "Motivators", "type": "sections" },
+          { "title": "It's Always Time for Tea", "type": "sections" }
+        ]
+      },
+      {
+        "path": "/about/highlights",
+        "title": "Work Highlights",
+        "description": "Visual fullwidth timeline of key roles and contributions",
+        "sections": [
+          {
+            "title": "My Work Story (with example projects)",
+            "type": "custom"
+          },
+          { "title": "Timeline", "type": "custom" },
+          { "title": "Projects & Roles", "type": "cards" }
+        ]
+      }
+    ]
+  },
+  "services": {
+    "path": "/services",
+    "title": "Services",
+    "description": "Professional offerings, specialties, and consulting services",
+    "sections": [
+      { "title": "Service Offerings", "type": "cards" },
+      { "title": "Consulting Details", "type": "custom" }
+    ]
+  },
+  "skills": {
+    "path": "/skills",
+    "title": "Skills",
+    "description": "Technical skills, stacks, and proficiency levels",
+    "sections": [
+      { "title": "Stacks", "type": "cards" },
+      { "title": "Skill Chart", "type": "custom" },
+      { "title": "Tech Timeline", "type": "custom" },
+      { "title": "Development Process", "type": "sections" },
+      { "title": "Certifications", "type": "cards" },
+      { "title": "GitHub Wrapped", "type": "custom" },
+      { "title": "Work Experience Timeline", "type": "custom" },
+      { "title": "Education Timeline", "type": "custom" },
+      { "title": "Stats Dashboard", "type": "custom" }
+    ]
+  },
+  "toolbox": {
+    "path": "/toolbox",
+    "title": "Toolbox",
+    "description": "Tools, configs, and resources used regularly",
+    "sections": [
+      { "title": "Tools List", "type": "cards" },
+      { "title": "Development Tools", "type": "cards" },
+      { "title": "Configurations", "type": "custom" }
+    ]
+  },
+  "design_system": {
+    "path": "/design-system",
+    "title": "Design System",
+    "description": "Unified brand and UI guidelines with reusable components",
+    "sections": [
+      { "title": "Overview", "type": "custom" },
+      { "title": "Brand Values", "type": "sections" }
+    ]
+  },
+  "case_studies": {
+    "path": "/case-studies",
+    "title": "Case Studies",
+    "description": "In-depth analyses of impactful projects and processes",
+    "sections": [{ "title": "All Case Studies", "type": "cards" }],
+    "children": [
+      {
+        "path": "/case-studies/:slug",
+        "title": "Case Study Detail",
+        "description": "Detailed page for each case study",
+        "sections": [
+          { "title": "Case Study Overview", "type": "custom" },
+          { "title": "Related Media", "type": "cards" }
+        ]
+      }
+    ]
+  },
+  "music": {
+    "path": "/music",
+    "title": "Music",
+    "description": "Personal music creations, playlists, or collaborations",
+    "sections": [
+      { "title": "Featured Music", "type": "cards" },
+      { "title": "Playlists", "type": "sections" }
+    ]
+  },
+  "contact": {
+    "path": "/contact",
+    "title": "Contact",
+    "description": "Contact form or direct contact options",
+    "sections": [
+      { "title": "Contact Form", "type": "custom" },
+      { "title": "Contact Info", "type": "sections" }
+    ]
+  },
+  "resume_api": {
+    "path": "/resume.json",
+    "title": "Resume JSON",
+    "description": "API endpoint serving machine-readable resume",
+    "sections": [{ "title": "Resume Data", "type": "custom" }]
+  },
+  "404": {
+    "path": "/404",
+    "title": "404 Not Found",
+    "description": "Custom not found page",
+    "sections": [
+      { "title": "Error Message", "type": "custom" },
+      { "title": "Suggested Links", "type": "sections" }
+    ]
+  }
+}

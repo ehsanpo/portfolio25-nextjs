@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "home": "Hem",
+    "about": "Om",
+    "portfolio": "Arbete",
+    "skills": "Färdigheter",
+    "services": "Tjänster",
+    "design-system": "Designsystem",
+    "contact": "Kontakt",
+    "blog": "Blogg"
+  }
+}

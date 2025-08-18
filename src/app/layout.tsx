@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
+import { Header } from "@/components/ui/Header";
+import { Footer } from "@/components/ui/Footer";
 import { LanguageProvider } from "@/lib/LanguageContext";
 import HtmlWrapper from "@/components/HtmlWrapper";
 
@@ -34,9 +35,7 @@ export default function RootLayout({
           <HtmlWrapper>
             <Header />
             <main className="p-4">{children}</main>
-            <footer className="p-4 text-center text-gray-500">
-              © 2025 Portfolio
-            </footer>
+            <Footer />
           </HtmlWrapper>
         </LanguageProvider>
       </body>
