@@ -1,13 +1,11 @@
 "use client";
 
-import { useState } from "react";
 import Link from "next/link";
 import LanguageSwitcher from "./LanguageSwitcher";
-import { defaultLanguage, type Language } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
 
 export default function Header() {
-  const [currentLanguage, setCurrentLanguage] =
-    useState<Language>(defaultLanguage);
+  const { currentLanguage, setCurrentLanguage } = useLanguage();
 
   return (
     <header className="p-4 border-b">

@@ -1,14 +1,13 @@
+"use client";
+
 import { allPortfolios } from "contentlayer/generated";
-import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { filterContentByLanguage } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
 import Link from "next/link";
 
-export const metadata = {
-  title: "Portfolio",
-  description: "My portfolio projects",
-};
-
 export default function PortfolioPage() {
-  const projects = filterContentByLanguage(allPortfolios, defaultLanguage);
+  const { currentLanguage } = useLanguage();
+  const projects = filterContentByLanguage(allPortfolios, currentLanguage);
 
   return (
     <div className="max-w-4xl mx-auto">

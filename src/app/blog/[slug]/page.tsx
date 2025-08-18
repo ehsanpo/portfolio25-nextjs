@@ -1,33 +1,16 @@
+"use client";
+
 import { allBlogs } from "contentlayer/generated";
-import { findContentWithFallback, defaultLanguage } from "@/lib/i18n";
-import { notFound } from "next/navigation";
-import { Metadata } from "next";
+import { findContentWithFallback } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
+import { notFound, useParams } from "next/navigation";
 
-interface BlogPostPageProps {
-  params: { slug: string };
-}
+export default function BlogPostPage() {
+  const { currentLanguage } = useLanguage();
+  const params = useParams();
+  const slug = params.slug as string;
 
-export async function generateMetadata({
-  params,
-}: BlogPostPageProps): Promise<Metadata> {
-  const { slug } = await params;
-  const post = findContentWithFallback(allBlogs, slug, defaultLanguage);
-
-  if (!post) {
-    return {
-      title: "Post Not Found",
-    };
-  }
-
-  return {
-    title: post.title,
-    description: post.summary,
-  };
-}
-
-export default async function BlogPostPage({ params }: BlogPostPageProps) {
-  const { slug } = await params;
-  const post = findContentWithFallback(allBlogs, slug, defaultLanguage);
+  const post = findContentWithFallback(allBlogs, slug, currentLanguage);
 
   if (!post) {
     notFound();

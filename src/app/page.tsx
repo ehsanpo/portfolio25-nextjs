@@ -1,12 +1,16 @@
+"use client";
+
 import { allBlogs, allPortfolios } from "contentlayer/generated";
-import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { filterContentByLanguage } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
 import Link from "next/link";
 
 export default function Home() {
-  const blogs = filterContentByLanguage(allBlogs, defaultLanguage).slice(0, 3);
+  const { currentLanguage } = useLanguage();
+  const blogs = filterContentByLanguage(allBlogs, currentLanguage).slice(0, 3);
   const portfolios = filterContentByLanguage(
     allPortfolios,
-    defaultLanguage
+    currentLanguage
   ).slice(0, 6);
 
   return (

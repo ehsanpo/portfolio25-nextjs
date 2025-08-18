@@ -1,35 +1,16 @@
+"use client";
+
 import { allPortfolios } from "contentlayer/generated";
-import { findContentWithFallback, defaultLanguage } from "@/lib/i18n";
-import { notFound } from "next/navigation";
-import { Metadata } from "next";
+import { findContentWithFallback } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
+import { notFound, useParams } from "next/navigation";
 
-interface PortfolioPageProps {
-  params: { slug: string };
-}
+export default function PortfolioProjectPage() {
+  const { currentLanguage } = useLanguage();
+  const params = useParams();
+  const slug = params.slug as string;
 
-export async function generateMetadata({
-  params,
-}: PortfolioPageProps): Promise<Metadata> {
-  const { slug } = await params;
-  const project = findContentWithFallback(allPortfolios, slug, defaultLanguage);
-
-  if (!project) {
-    return {
-      title: "Project Not Found",
-    };
-  }
-
-  return {
-    title: project.title,
-    description: project.tagline || "Portfolio project",
-  };
-}
-
-export default async function PortfolioProjectPage({
-  params,
-}: PortfolioPageProps) {
-  const { slug } = await params;
-  const project = findContentWithFallback(allPortfolios, slug, defaultLanguage);
+  const project = findContentWithFallback(allPortfolios, slug, currentLanguage);
 
   if (!project) {
     notFound();

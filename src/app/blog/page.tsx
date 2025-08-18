@@ -1,14 +1,13 @@
+"use client";
+
 import { allBlogs } from "contentlayer/generated";
-import { filterContentByLanguage, defaultLanguage } from "@/lib/i18n";
+import { filterContentByLanguage } from "@/lib/i18n";
+import { useLanguage } from "@/lib/LanguageContext";
 import Link from "next/link";
 
-export const metadata = {
-  title: "Blog",
-  description: "Latest blog posts",
-};
-
 export default function BlogPage() {
-  const blogs = filterContentByLanguage(allBlogs, defaultLanguage);
+  const { currentLanguage } = useLanguage();
+  const blogs = filterContentByLanguage(allBlogs, currentLanguage);
 
   return (
     <div className="max-w-4xl mx-auto">
