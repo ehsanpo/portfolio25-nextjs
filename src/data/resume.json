@@ -1,0 +1,51 @@
+{
+  "personal": {
+    "name": "Ehsan Pourhadi",
+    "title": "Full-Stack Developer & Designer",
+    "location": "Stockholm, Sweden",
+    "email": "hello@example.com",
+    "website": "https://your-domain.com",
+    "summary": "Passionate full-stack developer with expertise in modern web technologies and user experience design."
+  },
+  "experience": [
+    {
+      "title": "Senior Full-Stack Developer",
+      "company": "Company Name",
+      "location": "Stockholm, Sweden",
+      "startDate": "2023-01",
+      "endDate": null,
+      "current": true,
+      "description": "Leading development of modern web applications using React, Node.js, and cloud technologies.",
+      "technologies": ["React", "TypeScript", "Node.js", "AWS"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "University Name",
+      "location": "Location",
+      "startDate": "2018",
+      "endDate": "2022",
+      "description": "Focused on software engineering and user interface design."
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "Next.js", "TypeScript", "CSS", "Tailwind"],
+    "backend": ["Node.js", "Python", "PostgreSQL", "MongoDB"],
+    "tools": ["Git", "Docker", "AWS", "Figma", "VS Code"]
+  },
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native"
+    },
+    {
+      "name": "Swedish",
+      "level": "Fluent"
+    },
+    {
+      "name": "Persian",
+      "level": "Native"
+    }
+  ]
+}

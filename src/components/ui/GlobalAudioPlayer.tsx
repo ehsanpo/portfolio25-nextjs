@@ -139,7 +139,7 @@ function GlobalAudioPlayer() {
 
   // Visual equalizer state
   const [audioData, setAudioData] = useState<number[]>(new Array(20).fill(0));
-  const animationRef = useRef<number>();
+  const animationRef = useRef<number | null>(null);
 
   // Simulate audio progress and equalizer
   useEffect(() => {

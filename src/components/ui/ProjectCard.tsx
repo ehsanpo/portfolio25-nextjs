@@ -2,10 +2,10 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { Card } from "./Card";
-import { Button } from "../ui//Button";
-import { Badge } from "../ui/Badge";
-import { ShareButtons } from "../ui//ShareButtons";
+import { Card } from "../cards/Card";
+import { Button } from "./Button";
+import { Badge } from "./Badge";
+import { ShareButtons } from "./ShareButtons";
 import {
   ExternalLink,
   Github,
@@ -23,7 +23,7 @@ import { cn } from "../../lib/cn";
 
 interface ProjectCardProps {
   title: string;
-  description: string;
+  description: string | undefined;
   image?: string;
   technologies: string[];
   category?: string | string[];

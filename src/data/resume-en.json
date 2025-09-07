@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Ehsan Pourhadi",
+    "title": "Software Developer",
+    "currentPosition": "Software Developer at Telavox",
+    "image": "https://ehsan-pourhadi.com/img/118.jpg",
+    "about": "Experienced software developer with a proven track record in full-stack development and web application architecture. Passionate about delivering scalable and user-focused solutions.",
+    "location": "Malmö, Sweden",
+    "email": "ehsan.po@gmail.com",
+    "website": "www.ehsan-pourhadi.com",
+    "linkedin": "https://www.linkedin.com/in/ehsanp/"
+  },
+  "experience": [
+    {
+      "company": "Telavox",
+      "position": "Software Developer",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "description": [
+        "Developed and maintained soft phone, messaging app and video conferencing solutions.",
+        "Contributed to the design and architecture of web applications.",
+        "Collaborated with cross-functional teams for project delivery."
+      ],
+      "tags": ["ElectronJS", "Typescript", "React"]
+    },
+    {
+      "company": "Bredband2",
+      "position": "Software Developer",
+      "startDate": "2020-06",
+      "endDate": "2023-09",
+      "description": [
+        "Developed and maintained main website, online web shop, and customer portals.",
+        "Implemented frontend and backend functionality for new features.",
+        "Worked closely with UX to optimize UI/UX for improved user engagement.",
+        "Contributed to the implementation of new web applications utilizing Gatsby, Next.js, and Ruby on Rails.",
+        "Managed the project and team."
+      ],
+      "tags": ["Gatsby", "Next.js", "Ruby on Rails", "Typescript"]
+    },
+    {
+      "company": "Ehsan Pourhadi",
+      "position": "Freelance Web Developer",
+      "startDate": "2019-05",
+      "endDate": "2020-03",
+      "description": [
+        "Developed and maintained multiple WordPress sites tailored to client specifications.",
+        "Created custom WordPress themes to enhance user experience and branding.",
+        "Consulted clients on optimal website architecture for improved performance.",
+        "Assisted clients with hosting solutions and server configuration.",
+        "Conducted SEO audits and implemented strategies for better search visibility.",
+        "Developed e-commerce solutions using WooCommerce for client stores.",
+        "Developed multilingual sites to cater to diverse audiences."
+      ],
+      "tags": ["WordPress", "WooCommerce", "SEO"]
+    },
+    {
+      "company": "Guts & Glory",
+      "position": "Tech Lead",
+      "startDate": "2016-10",
+      "endDate": "2019-05",
+      "description": [
+        "Developed and maintained WordPress sites tailored to client specifications.",
+        "Oversaw technical aspects of web development projects.",
+        "Mentored junior developers and conducted code reviews.",
+        "Collaborated with the design team for seamless integration.",
+        "Ensured timely delivery of projects while managing client expectations.",
+        "Streamlined development processes to enhance team productivity and efficiency."
+      ],
+      "tags": ["WordPress", "Team Leadership"]
+    },
+    {
+      "company": "Whitespace AB",
+      "position": "Full Stack Developer",
+      "startDate": "2014-03",
+      "endDate": "2016-10",
+      "description": [
+        "Managed end-to-end development projects for global clients.",
+        "Designed and implemented responsive user interfaces for various web applications.",
+        "Collaborated with UX/UI designers to enhance user experience across multiple platforms.",
+        "Utilized Agile methodologies to streamline project workflows and enhance collaboration.",
+        "Acted as a consultant for external client companies through Whitespace, delivering customized technical solutions to address diverse business challenges."
+      ],
+      "tags": ["Full Stack Development", "UX/UI Design", "Agile"]
+    },
+    {
+      "company": "The Fan Club",
+      "position": "Web Developer",
+      "startDate": "2014-03",
+      "endDate": "2016-10",
+      "description": [
+        "Developed and maintained dynamic web applications and campaign websites tailored for various advertising initiatives.",
+        "Spearheaded the creation of ToolPool, a web application integrated with the Facebook API for seamless booking and management of tools.",
+        "Designed and implemented short-lived campaign websites featuring interactive elements and animations.",
+        "Collaborated with creative and marketing teams to translate campaign concepts into functional, visually compelling digital assets.",
+        "Provided technical consulting to internal teams and clients, advising on best practices, innovative solutions, and feasibility of proposed digital strategies."
+      ],
+      "tags": ["Web Development", "Facebook API", "Campaign Websites"]
+    },
+    {
+      "company": "Next G Design",
+      "position": "Co-Founder & Developer",
+      "startDate": "2011-01",
+      "endDate": "2011-09",
+      "description": [
+        "Co-founded and managed a design and development agency.",
+        "Developed and maintained the company's primary website.",
+        "Designed and built small-scale WordPress websites tailored to client needs.",
+        "Managed end-to-end project workflows, from initial client consultations to deployment and post-launch support.",
+        "Optimized WordPress sites for performance, SEO, and security."
+      ],
+      "tags": ["WordPress", "SEO", "Web Development"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bredband2",
+      "degree": "Ruby on Rails Course",
+      "startDate": "2021",
+      "endDate": "2021",
+      "description": [
+        "Gained proficiency in building robust web applications using Ruby on Rails.",
+        "Learned to apply Rails conventions for efficient development."
+      ]
+    },
+    {
+      "institution": "Linux Academy / A Cloud Guru",
+      "degree": "AWS Certified Solutions Architect",
+      "startDate": "2018",
+      "endDate": "2018",
+      "description": [
+        "Completed rigorous training to design scalable cloud solutions.",
+        "Earned AWS Solutions Architect certification."
+      ]
+    },
+    {
+      "institution": "Hermods",
+      "degree": "Programming A and Database Management",
+      "startDate": "2011",
+      "endDate": "2011",
+      "description": [
+        "Mastered fundamental programming skills.",
+        "Learned database design and administration."
+      ]
+    },
+    {
+      "institution": "Glokala Folkshögskola",
+      "degree": "Music Production Program",
+      "startDate": "2009",
+      "endDate": "2009",
+      "description": [
+        "Gained proficiency in recording, mixing, and mastering.",
+        "Learned event planning and music industry practices."
+      ]
+    },
+    {
+      "institution": "Universitetsholmen",
+      "degree": "Specialized in Electrical Automation",
+      "startDate": "2008",
+      "endDate": "2008",
+      "description": [
+        "Learned PLC programming, control engineering, and pneumatic systems.",
+        "Built a strong foundation in industrial automation and electrical systems.",
+        "Gained hands-on experience with electrical circuits and automation technologies.",
+        "Complemented technical studies with a Web Design course to enhance digital skills."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Advanced Google Analytics",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Google Analytics for Beginners",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Google Tag Manager Fundamentals",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Remote Work and Virtual Collaboration Certificate (RWVCPC)",
+      "date": "Sep 2022"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "date": "Sep 2022"
+    },
+    {
+      "name": "Design Accessibility - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "Design Composition - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "UI Components I: Basic - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "UI Components II: Advanced - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "Oct 2018"
+    }
+  ],
+  "skills": [
+    "Web Development",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind",
+    "React",
+    "UIU/X Design",
+    "PHP",
+    "GraphQL",
+    "MySQL",
+    "Node.js",
+    "Docker",
+    "Redis",
+    "WordPress",
+    "Ruby on Rails"
+  ],
+  "languages": [
+    "English (Professional)",
+    "Swedish (Professional)",
+    "Persian (Native)"
+  ]
+}

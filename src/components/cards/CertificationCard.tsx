@@ -1,8 +1,15 @@
-import React from 'react';
-import { Card } from './Card';
-import { Badge } from './Badge';
-import { Award, Calendar, ExternalLink, CheckCircle, Clock, AlertCircle } from 'lucide-react';
-import { cn } from '../../utils/cn';
+import React from "react";
+import { Card } from "./Card";
+import { Badge } from "../ui/Badge";
+import {
+  Award,
+  Calendar,
+  ExternalLink,
+  CheckCircle,
+  Clock,
+  AlertCircle,
+} from "lucide-react";
+import { cn } from "../../lib/cn";
 
 interface CertificationCardProps {
   title: string;
@@ -14,8 +21,8 @@ interface CertificationCardProps {
   logo?: string;
   description?: string;
   skills?: string[];
-  status?: 'active' | 'expired' | 'pending';
-  variant?: 'default' | 'glass' | 'gradient';
+  status?: "active" | "expired" | "pending";
+  variant?: "default" | "glass" | "gradient";
   showVerification?: boolean;
   className?: string;
 }
@@ -30,18 +37,18 @@ export function CertificationCard({
   logo,
   description,
   skills = [],
-  status = 'active',
-  variant = 'default',
+  status = "active",
+  variant = "default",
   showVerification = true,
   className,
 }: CertificationCardProps) {
   const getStatusIcon = () => {
     switch (status) {
-      case 'active':
+      case "active":
         return <CheckCircle className="w-4 h-4 text-success-500" />;
-      case 'expired':
+      case "expired":
         return <AlertCircle className="w-4 h-4 text-error-500" />;
-      case 'pending':
+      case "pending":
         return <Clock className="w-4 h-4 text-warning-500" />;
       default:
         return <CheckCircle className="w-4 h-4 text-success-500" />;
@@ -50,11 +57,11 @@ export function CertificationCard({
 
   const getStatusBadge = () => {
     switch (status) {
-      case 'active':
+      case "active":
         return <Badge variant="success">Active</Badge>;
-      case 'expired':
+      case "expired":
         return <Badge variant="error">Expired</Badge>;
-      case 'pending':
+      case "pending":
         return <Badge variant="warning">Pending</Badge>;
       default:
         return <Badge variant="success">Active</Badge>;
@@ -62,9 +69,9 @@ export function CertificationCard({
   };
 
   const formatDate = (dateString: string) => {
-    return new Date(dateString).toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'short',
+    return new Date(dateString).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "short",
     });
   };
 
@@ -72,16 +79,18 @@ export function CertificationCard({
     if (!expiryDate) return false;
     const expiry = new Date(expiryDate);
     const now = new Date();
-    const threeMonthsFromNow = new Date(now.getTime() + (90 * 24 * 60 * 60 * 1000));
+    const threeMonthsFromNow = new Date(
+      now.getTime() + 90 * 24 * 60 * 60 * 1000
+    );
     return expiry <= threeMonthsFromNow && expiry > now;
   };
 
   return (
-    <Card 
-      variant={variant} 
-      hover 
-      padding="lg" 
-      className={cn('relative overflow-hidden', className)}
+    <Card
+      variant={variant}
+      hover
+      padding="lg"
+      className={cn("relative overflow-hidden", className)}
     >
       {/* Header with Logo and Title */}
       <div className="flex items-start space-x-4 mb-4">
@@ -105,10 +114,8 @@ export function CertificationCard({
               <h3 className="font-semibold font-basement text-foreground text-lg mb-1 truncate">
                 {title}
               </h3>
-              <p className="text-muted-foreground font-kabel mb-2">
-                {issuer}
-              </p>
-              
+              <p className="text-muted-foreground font-kabel mb-2">{issuer}</p>
+
               {/* Status and Verification */}
               <div className="flex items-center space-x-2 mb-2">
                 {getStatusIcon()}
@@ -167,7 +174,10 @@ export function CertificationCard({
       {credentialId && (
         <div className="mb-4">
           <p className="text-xs text-muted-foreground font-kabel">
-            Credential ID: <code className="bg-muted/50 px-2 py-1 rounded text-foreground">{credentialId}</code>
+            Credential ID:{" "}
+            <code className="bg-muted/50 px-2 py-1 rounded text-foreground">
+              {credentialId}
+            </code>
           </p>
         </div>
       )}
@@ -175,7 +185,9 @@ export function CertificationCard({
       {/* Skills */}
       {skills.length > 0 && (
         <div className="mb-4">
-          <h4 className="text-sm font-medium font-basement text-foreground mb-2">Skills Validated</h4>
+          <h4 className="text-sm font-medium font-basement text-foreground mb-2">
+            Skills Validated
+          </h4>
           <div className="flex flex-wrap gap-2">
             {skills.map((skill, index) => (
               <Badge key={index} variant="neutral" className="text-xs">

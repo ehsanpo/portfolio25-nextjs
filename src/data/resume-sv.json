@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Ehsan Pourhadi",
+    "title": "Mjukvaruutvecklare",
+    "currentPosition": "Mjukvaruutvecklare på Telavox",
+    "image": "https://ehsan-pourhadi.com/img/118.jpg",
+    "about": "Erfaren mjukvaruutvecklare med en gedigen bakgrund inom fullstackutveckling och webapplikationsarkitektur. Passionerad över att leverera skalbara och användarfokuserade lösningar.",
+    "location": "Malmö, Sweden",
+    "email": "ehsan.po@gmail.com",
+    "website": "www.ehsan-pourhadi.com",
+    "linkedin": "https://www.linkedin.com/in/ehsanp/"
+  },
+  "experience": [
+    {
+      "company": "Telavox",
+      "position": "Mjukvaruutvecklare",
+      "startDate": "2023-09",
+      "endDate": "Nuvarande",
+      "description": [
+        "Utvecklade och underhöll lösningar för softphone, meddelandeappar och videokonferenser.",
+        "Bidrog till design och arkitektur av webapplikationer.",
+        "Samarbetade med tvärfunktionella team för projektleverans."
+      ],
+      "tags": ["ElectronJS", "Typescript", "React"]
+    },
+    {
+      "company": "Bredband2",
+      "position": "Mjukvaruutvecklare",
+      "startDate": "2020-06",
+      "endDate": "2023-09",
+      "description": [
+        "Utvecklade och underhöll huvudsajten, webbshopen och kundportaler.",
+        "Implementerade frontend- och backendfunktionalitet för nya funktioner.",
+        "Arbetade nära UX för att optimera UI/UX och förbättra användarengagemang.",
+        "Bidrog till implementering av nya webapplikationer med hjälp av Gatsby, Next.js och Ruby on Rails.",
+        "Hanterade projekt och team."
+      ],
+      "tags": ["Gatsby", "Next.js", "Ruby on Rails", "Typescript"]
+    },
+    {
+      "company": "Ehsan Pourhadi",
+      "position": "Frilansande Webbutvecklare",
+      "startDate": "2019-05",
+      "endDate": "2020-03",
+      "description": [
+        "Utvecklade och underhöll flera WordPress-webbplatser skräddarsydda för kundens specifikationer.",
+        "Skapade anpassade WordPress-teman för att förbättra användarupplevelse och varumärkesprofilering.",
+        "Konsulterade kunder om optimal webbplatsarkitektur för förbättrad prestanda.",
+        "Hjälpte kunder med hostinglösningar och serverkonfiguration.",
+        "Utförde SEO-revisioner och implementerade strategier för bättre synlighet i sökmotorer.",
+        "Utvecklade e-handelslösningar med WooCommerce för kundbutiker.",
+        "Utvecklade flerspråkiga webbplatser för att tillgodose olika målgrupper."
+      ],
+      "tags": ["WordPress", "WooCommerce", "SEO"]
+    },
+    {
+      "company": "Guts & Glory",
+      "position": "Teknisk Ledare",
+      "startDate": "2016-10",
+      "endDate": "2019-05",
+      "description": [
+        "Utvecklade och underhöll WordPress-webbplatser skräddarsydda för kundens specifikationer.",
+        "Övervakade tekniska aspekter av webbutvecklingsprojekt.",
+        "Handlede juniorutvecklare och genomförde kodgranskningar.",
+        "Samarbetade med designteamet för en sömlös integration.",
+        "Säkerställde att projekt levererades i tid samtidigt som kundförväntningar hanterades.",
+        "Effektiviserade utvecklingsprocesser för att förbättra teamets produktivitet och effektivitet."
+      ],
+      "tags": ["WordPress", "Teamledning"]
+    },
+    {
+      "company": "Whitespace AB",
+      "position": "Fullstackutvecklare",
+      "startDate": "2014-03",
+      "endDate": "2016-10",
+      "description": [
+        "Hanterade utvecklingsprojekt från början till slut för globala kunder.",
+        "Designade och implementerade responsiva användargränssnitt för olika webapplikationer.",
+        "Samarbetade med UX/UI-designers för att förbättra användarupplevelsen på flera plattformar.",
+        "Använde Agila metoder för att effektivisera projektflöden och förbättra samarbete.",
+        "Arbetade som konsult för externa kundföretag via Whitespace och levererade skräddarsydda tekniska lösningar för att möta olika affärsutmaningar."
+      ],
+      "tags": ["Fullstackutveckling", "UX/UI Design", "Agil utveckling"]
+    },
+    {
+      "company": "The Fan Club",
+      "position": "Webbutvecklare",
+      "startDate": "2014-03",
+      "endDate": "2016-10",
+      "description": [
+        "Utvecklade och underhöll dynamiska webapplikationer och kampanjwebbplatser skräddarsydda för olika reklaminitiativ.",
+        "Spearheaded utvecklingen av ToolPool, en webapplikation integrerad med Facebook API för smidig bokning och hantering av verktyg.",
+        "Designade och implementerade kortlivade kampanjwebbplatser med interaktiva element och animationer.",
+        "Samarbetade med kreativa och marknadsteam för att översätta kampanjkoncept till funktionella, visuellt tilltalande digitala lösningar.",
+        "Erbjöd teknisk konsultation till interna team och kunder om bästa praxis, innovativa lösningar och genomförbarheten av föreslagna digitala strategier."
+      ],
+      "tags": ["Webbutveckling", "Facebook API", "Kampanjwebbplatser"]
+    },
+    {
+      "company": "Next G Design",
+      "position": "Medgrundare & Utvecklare",
+      "startDate": "2011-01",
+      "endDate": "2011-09",
+      "description": [
+        "Medgrundade och drev en design- och utvecklingsbyrå.",
+        "Utvecklade och underhöll företagets primära webbplats.",
+        "Designade och byggde småskaliga WordPress-webbplatser skräddarsydda för kundens behov.",
+        "Hanterade projekt från början till slut, från initiala kundkonsultationer till implementering och efterlanseringssupport.",
+        "Optimerade WordPress-webbplatser för prestanda, SEO och säkerhet."
+      ],
+      "tags": ["WordPress", "SEO", "Webbutveckling"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bredband2",
+      "degree": "Kurs i Ruby on Rails",
+      "startDate": "2021",
+      "endDate": "2021",
+      "description": [
+        "Fördjupade kunskaper i att bygga robusta webapplikationer med Ruby on Rails.",
+        "Lärde sig att använda Rails-konventioner för effektiv utveckling."
+      ]
+    },
+    {
+      "institution": "Linux Academy / A Cloud Guru",
+      "degree": "AWS Certifierad Lösningsarkitekt",
+      "startDate": "2018",
+      "endDate": "2018",
+      "description": [
+        "Avslutade intensiv träning för att designa skalbara molnlösningar.",
+        "Fick AWS-certifiering som Lösningsarkitekt."
+      ]
+    },
+    {
+      "institution": "Hermods",
+      "degree": "Programmering A och Databashantering",
+      "startDate": "2011",
+      "endDate": "2011",
+      "description": [
+        "Behärskade grundläggande programmeringsfärdigheter.",
+        "Lärde sig databasdesign och administration."
+      ]
+    },
+    {
+      "institution": "Glokala Folkshögskola",
+      "degree": "Musikproduktionsprogram",
+      "startDate": "2009",
+      "endDate": "2009",
+      "description": [
+        "Förvärvade kunskaper inom inspelning, mixning och mastering.",
+        "Lärde sig evenemangsplanering och branschpraxis inom musik."
+      ]
+    },
+    {
+      "institution": "Universitetsholmen",
+      "degree": "Specialisering inom El-Automation",
+      "startDate": "2008",
+      "endDate": "2008",
+      "description": [
+        "Lärde sig PLC-programmering, styrteknik och pneumatiska system.",
+        "Byggde en stark grund inom industriell automation och elsystem.",
+        "Erhöll praktisk erfarenhet med elektriska kretsar och automationsteknologier.",
+        "Kompletterade tekniska studier med en kurs i webbdesign för att förbättra digitala färdigheter."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Avancerad Google Analytics",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Google Analytics för Nybörjare",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Google Tag Manager Grundläggande",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Introduktion till Cybersäkerhet",
+      "date": "Nov 2022"
+    },
+    {
+      "name": "Fjärrarbete och Virtuell Samarbetscertifiering (RWVCPC)",
+      "date": "Sep 2022"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "date": "Sep 2022"
+    },
+    {
+      "name": "Design Tillgänglighet - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "Design Komposition - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "UI Komponenter I: Grundläggande - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "UI Komponenter II: Avancerad - UX",
+      "date": "Mar 2022"
+    },
+    {
+      "name": "AWS Certifierad Lösningsarkitekt - Associate",
+      "date": "Okt 2018"
+    }
+  ],
+  "skills": [
+    "Web Development",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind",
+    "React",
+    "UIU/X Design",
+    "PHP",
+    "GraphQL",
+    "MySQL",
+    "Node.js",
+    "Docker",
+    "Redis",
+    "WordPress",
+    "Ruby on Rails"
+  ],
+  "languages": [
+    "English (Professional)",
+    "Swedish (Professional)",
+    "Persian (Native)"
+  ]
+}

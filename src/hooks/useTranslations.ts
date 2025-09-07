@@ -16,7 +16,7 @@ export function useTranslations(namespace: string) {
     const loadMessages = async () => {
       try {
         const messageModule = await import(
-          `../../messages/${currentLanguage}.json`
+          `../messages/${currentLanguage}.json`
         );
         setMessages(messageModule.default);
       } catch (error) {

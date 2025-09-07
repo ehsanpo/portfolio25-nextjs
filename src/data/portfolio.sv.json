@@ -1,0 +1,812 @@
+{
+  "meta": {
+    "title": "Portfolio",
+    "description": "Professional portfolio showcasing my work and expertise.",
+    "author": "Ehsan Pourhadi"
+  },
+  "navigation": {
+    "main": [
+      {
+        "href": "/",
+        "text": "Home",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/portfolio",
+        "text": "Work",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/skills",
+        "text": "Skills",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/services",
+        "text": "Services",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/about",
+        "text": "About",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      }
+    ],
+    "footer": [
+      {
+        "href": "/",
+        "text": "Home",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/portfolio",
+        "text": "Work",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/skills",
+        "text": "Skills",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/services",
+        "text": "Services",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/music",
+        "text": "Music",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/cv",
+        "text": "Resume",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/about",
+        "text": "About",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact",
+        "label": "[AI_TRANSLATE_SV] undefined"
+      }
+    ]
+  },
+  "contact": {
+    "name": "Ehsan Pourhadi",
+    "description": "Experienced software developer passionate about creating impactful digital experiences.",
+    "role": "Software Developer",
+    "website": "https://www.ehsan-pourhadi.com",
+    "linkedin": "https://www.linkedin.com/in/ehsanp/",
+    "email": "ehsan.po@gmail.com",
+    "location": "Malmö, Sweden",
+    "profilePic": "https://ehsan-pourhadi.com/img/118.jpg",
+    "yearsOfExperience": "12",
+    "socialLinks": {
+      "github": "https://github.com/ehsanpo",
+      "linkedin": "https://linkedin.com/in/ehsan"
+    }
+  },
+  "experience": [
+    {
+      "type": "education",
+      "highlighted": false,
+      "title": "Ruby on Rails",
+      "description": "Completed an intensive Ruby on Rails course at BredBand2, gaining proficiency in building robust web applications.",
+      "org": "BredBand2",
+      "year": "2021",
+      "tags": [
+        "Ruby on Rails",
+        "Web Development"
+      ],
+      "image": "/img/experience/education.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "education",
+      "highlighted": false,
+      "title": "Linux Academy / A Cloud Guru",
+      "description": "Earned the AWS Certified Solutions Architect certification through rigorous training from Linux Academy, demonstrating expertise in architecting scalable and reliable cloud solutions.",
+      "org": "Linux Academy / A Cloud Guru",
+      "year": "2018",
+      "tags": [],
+      "image": "/img/experience/education.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "education",
+      "highlighted": false,
+      "title": "Hermods",
+      "description": "Successfully completed a comprehensive Programming A and Database Management course at Hermods, mastering essential programming and database administration skills.",
+      "org": "Hermods",
+      "year": "2011",
+      "tags": [],
+      "image": "/img/experience/education.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "education",
+      "highlighted": true,
+      "title": "Glokala Folkshögskola",
+      "description": "Immersed in an in-depth Music Production program at Glokala Folkshögskola, acquiring proficiency in recording, mixing, mastering, event planning, and industry-standard practices within the music domain.",
+      "org": "Glokala Folkshögskola",
+      "year": "2009",
+      "tags": [],
+      "image": "/img/music.jpeg",
+      "awards": [],
+      "project": {
+        "title": "Music Producer and Event Organizer",
+        "description": "Produced and released multiple songs, primarily in hip-hop and R&B genres. Organized and hosted an event for Malmö-based artists at Arena 305. Collaborated with various artists and producers, contributing to projects that showcased diverse musical styles and talents.",
+        "technologies": [
+          "Reason Studios",
+          "Pro Tools",
+          "Sound Design",
+          "Digital Audio Processing"
+        ],
+        "link": {
+          "href": "https://soundcloud.com/eprumental",
+          "title": "Listen on SoundCloud"
+        }
+      }
+    },
+    {
+      "type": "education",
+      "highlighted": true,
+      "title": "Universitetsholmen's High School",
+      "description": "Pursued an Electricity Program with a specialization in Automation at Universitetsholmen's High School, gaining skills in PLC programming, control engineering, pneumatic systems, and complemented by a comprehensive Web Design course.",
+      "org": "Universitetsholmen's High School",
+      "year": "2008",
+      "tags": [],
+      "image": "/img/1110_0.png",
+      "awards": [],
+      "project": {
+        "title": "Automation Technician",
+        "description": "Worked in a high-pressure meat processing plant, repairing critical machinery to minimize downtime and prevent significant financial losses. Completed a project involving the installation and programming of a freezer system using PLCs, setting up sensors to monitor temperature and transmitting data via a network to a central database for real-time control and monitoring.",
+        "technologies": [
+          "Industrial Automation",
+          "PLC Programming",
+          "Troubleshooting",
+          "Sensor Installation"
+        ],
+        "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Software Developer",
+      "description": "Collaborated on the development of various software projects using React, Java, and ElectronJs.",
+      "org": "Telavox",
+      "year": "2023 - Present",
+      "tags": [
+        "React",
+        "Java",
+        "ElectronJs"
+      ],
+      "image": "/img/0_23.png",
+      "awards": [],
+      "project": {
+        "title": "Next-Gen Video Conferencing Platform",
+        "description": "Developing a video conferencing solution with, including real-time chat, smart noise cancellation, and adaptive video quality optimization.",
+        "technologies": [
+          "WebRTC",
+          "WebAssembly",
+          "TensorFlow.js",
+          "WebCodecs API"
+        ],
+        "image": "https://images.unsplash.com/photo-1516387938699-a93567ec168e?auto=format&fit=crop&q=80"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Software Developer",
+      "description": "Contributed to the implementation of web applications utilizing Gatsby, NextJs, and Ruby on Rails. Also managed projects and team.",
+      "org": "Bredband2",
+      "year": "2020 - 2023",
+      "tags": [
+        "Gatsby",
+        "NextJs",
+        "React",
+        "Ruby on Rails"
+      ],
+      "image": "/img/bb2.jpeg",
+      "awards": [],
+      "project": {
+        "title": "Customer Service Portal Redesign",
+        "description": "Spearheaded the complete redesign and development of the customer service portal, serving over 100,000 active users. Implemented real-time service monitoring and automated troubleshooting.",
+        "technologies": [
+          "TypeScript",
+          "React",
+          "GraphQL",
+          "Ruby on Rails"
+        ],
+        "image": "/img/Bredband2.webp"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": false,
+      "title": "Software Developer",
+      "description": "Lead front-end development efforts by working with React and creating comprehensive end-to-end tests to ensure optimal user experiences.",
+      "org": "Skymill",
+      "year": "2020",
+      "tags": [
+        "React"
+      ],
+      "image": "/img/experience/tech-company.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "experience",
+      "highlighted": false,
+      "title": "Freelance Web Developer",
+      "description": "Operated as an independent web developer, delivering high-quality responsive websites and web applications to clients.",
+      "org": "Freelance",
+      "year": "2019",
+      "tags": [],
+      "image": "/img/experience/tech-company.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Web Developer/Tech Lead",
+      "description": "Served as a technical lead at an advertising agency, offering clients strategic digital communication solutions for expanding their market reach.",
+      "org": "Guts & Glory",
+      "year": "2017 - 2019",
+      "tags": [],
+      "image": "/img/0_31.png",
+      "awards": [
+        "Svenska Design: Gold in Digital Design"
+      ],
+      "project": {
+        "title": "Malmö Saluhall Digital Experience",
+        "description": "Created a comprehensive digital identity for Malmö's premier food hall, featuring an immersive platform and a dedicated blog.",
+        "technologies": [
+          "Next.js",
+          "GraphQL",
+          "Contentful",
+          "Stripe",
+          "Analytics"
+        ],
+        "link": {
+          "href": "https://www.malmosaluhall.se",
+          "title": "Visit Malmö Saluhall"
+        },
+        "image": "/img/saluhall.png"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Fullstack Developer",
+      "description": "Managed end-to-end development projects for a global web agency, specializing in UX/UI design, web development, and digital marketing.",
+      "org": "Whitespace",
+      "year": "2013 - 2017",
+      "tags": [],
+      "image": "/img/0_0.png",
+      "awards": [],
+      "project": {
+        "title": "Job Ad and Application Platform",
+        "description": "We developed a job advertisement platform where companies can post small job ads, manage applications, and handle payments and invoicing seamlessly. Users can sign up, create profiles, and apply for jobs, while companies can review applications and select candidates.",
+        "technologies": [
+          "Drupal",
+          "PHP",
+          "Visma Payment",
+          "jQuery",
+          "Bootstrap"
+        ],
+        "image": "/img/ad0_3.png"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Web Developer/Designer",
+      "description": "Executed web production tasks at The Fan Club, contributing to the creation of compelling online experiences.",
+      "org": "The Fan Club",
+      "year": "2012 - 2013",
+      "tags": [],
+      "image": "/img/bg5-7.jpg",
+      "awards": [
+        "Guldägget: Gold in PR & Silver in Digital",
+        "Cannes Lions: Silver Lion in Promo & Activation",
+        "Cannes Lions: Bronze Lion in Cyber"
+      ],
+      "project": {
+        "title": "ToolPool - Community Tool Sharing Platform",
+        "description": "Created an innovative platform that enables neighborhoods to share tools and equipment. The platform features real-time availability tracking, booking system, and social integration.",
+        "technologies": [
+          "jQuery",
+          "PHP",
+          "Facebook API",
+          "Booking system"
+        ],
+        "link": {
+          "href": "https://www.malmojarnhandel.se/produkt-kategori/toolpool/",
+          "title": "Visit ToolPool"
+        },
+        "image": "/img/toolpool-cover.jpg"
+      }
+    },
+    {
+      "type": "experience",
+      "highlighted": false,
+      "title": "Freelance Web Developer",
+      "description": "Pioneered a year-long freelance endeavor focused on assisting local businesses through innovative web solutions.",
+      "org": "Freelance",
+      "year": "2012",
+      "tags": [],
+      "image": "/img/experience/tech-company.jpg",
+      "awards": [],
+      "project": {}
+    },
+    {
+      "type": "experience",
+      "highlighted": true,
+      "title": "Developer/Designer",
+      "description": "Managed design and development tasks while overseeing server administration and web hosting operations.",
+      "org": "Next Generation Design",
+      "year": "2010 - 2011",
+      "tags": [],
+      "image": "/img/0_3.png",
+      "awards": [],
+      "project": {
+        "title": "E-commerce Platform for Local Artisans",
+        "description": "Built a custom WordPress-based e-commerce platform enabling local artisans to sell their crafts online. The platform included custom payment integration and a unique rating system.",
+        "technologies": [
+          "WooCommerce",
+          "Custom WordPress Theme",
+          "Payment Gateway Integration"
+        ],
+        "image": "/img/w2-transformed.jpeg"
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Building modern, responsive websites with cutting-edge technologies.",
+      "icon": "💻",
+      "image": "/img/110_1.png",
+      "features": [
+        "Custom website development",
+        "Responsive design",
+        "Full-stack development"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Application Development",
+      "description": "Creating cross-platform applications with modern frameworks.",
+      "icon": "📱",
+      "image": "/img/110_2.png",
+      "features": [
+        "Cross-platform app development using Electron",
+        "Tailwind and Vite integration",
+        "React Native mobile apps"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "description": "Designing intuitive and engaging user interfaces.",
+      "icon": "🎨",
+      "image": "/img/110_3_3.png",
+      "features": [
+        "Wireframing",
+        "Prototyping",
+        "User Research"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Technical Consulting",
+      "description": "Providing expert guidance on system architecture and development strategies.",
+      "icon": "🛠️",
+      "image": "/img/110_8.png",
+      "features": [
+        "Codebase reviews and optimizations",
+        "Cloud and database strategy",
+        "Technical team mentorship"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Music Production",
+      "description": "Producing high-quality music with professional tools and techniques.",
+      "icon": "🎵",
+      "image": "/img/110_31.png",
+      "features": [
+        "Music production with Reason Studios and Logic",
+        "Beat creation and MIDI programming",
+        "Sound design and mastering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "range": "10",
+      "description": "Highly skilled in mentoring, architectural decisions, and technical problem-solving."
+    },
+    {
+      "range": "8",
+      "description": "Proficient in modern front-end frameworks and backend development."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Desiré Stigsson",
+      "title": "Software Developer på Telavox",
+      "img": "img/testimonial/desire.jpeg",
+      "short": "I worked with Ehsan during his time as Software Developer at Telavox, and I have never met another colleague with so much drive and passion.",
+      "desc": "I worked with Ehsan during his time as Software Developer at Telavox, and I have never met another colleague with so much drive and passion. Ehsan was a key component to our team, whose contributions extended far beyond his immediate tasks. He was eager to take on responsibilities, prepared and documented multiple discussions across many different topics, would not shy away from solving urgent or complex issues, and often communicating outside the team to discuss solutions. He had a contagious enthusiasm and took responsibility for the overall wellbeing of the team, never hesitating to knock on one’s shoulder to discuss an issue or offering help or support. Working alongside Ehsan was something I really enjoyed, and I wholeheartedly wish him all the best with any and all of his future endeavors!"
+    },
+    {
+      "id": 1,
+      "name": "Asger Bjerre-Nielsen",
+      "title": "Developer At Bredeband2",
+      "img": "img/testimonial/asger.jpg",
+      "short": "Ehsan and I have worked closely together on a variety of projects, each differing in size and complexity.",
+      "desc": "Having worked in the industry for only a handful of years, I consider the opportunity to have worked with Ehsan as extremely rewarding. Even though we started out in different teams, Ehsan has always been open to discussing both problems and solutions. Over the past two years, Ehsan and I have worked closely together on a variety of projects, each differing in size and complexity. Besides his excellent ability to break down tasks and problems and provide high quality code to efficiently solve even the most demanding task we have had, Ehsan also has the ability to convey the essence of a problem and explain both the ‘how’ and the ‘why’ it should be solved to junior devs as well as customers alike. But working with Ehsan is also challenging in the best possible way. He is always on the lookout for new tech and ideas, on how to do things better. This is something from which everyone in our team has benefitted from. Over a great many cups of tea, we have discussed how to approach problems, potential pitfalls and best practices. I’m sure that Ehsan’s knowledge, curiosity and sense of teamwork will be a great asset to any organisation and I envy the next developer who gets to pick his brain. - It’s always time for tea…"
+    },
+    {
+      "id": 2,
+      "name": "Rebecca Löfgren",
+      "title": "Senior UX Designer at Bredband2",
+      "img": "img/testimonial/rebecca.jpg",
+      "short": "Ehsan possesses the ability to see the whole picture, which enables him to produce quality products – even if the brief is a bit fuzzy.",
+      "desc": "I had the pleasure of working with Ehsan during my first couple of years at Bredband2 (before he unfortunately moved on to take on new adventures). And let me tell you – I don’t think I’ve ever met someone as passionate and knowledgeable about “everything code” as him! Working with Ehsan means constantly being introduced to new ideas and interesting innovations. It’s about being challenged (in a good way!) in your ways of thinking, to find creative and efficient solutions to complex problems, and being confident that the code your team produces will adhere to best practices. But above all, it’s an absolute blast. Ehsan possesses the ability to see the whole picture, which enables him to produce quality products – even if the brief is a bit fuzzy. He has an eagerness to share his expertise and has, on countless occasions, made both our team and our department better by doing so. He also has a keen eye for design, which has made my job as a designer so much easier. Replacing him in our team will be a struggle, and I do hope our professional paths cross again in the future. To anyone who has the opportunity to work with him: I’m jealous."
+    },
+    {
+      "id": 3,
+      "name": "Timothy Alexis Vass",
+      "title": "System Developer at Bredband2",
+      "img": "img/testimonial/timmy.jpg",
+      "short": "Ehsan is a good influence and will contribute. Since he is helpful, curious and kind, he will make an extra effort to participate and investigate an issue even if it isn't his primary responsibility.",
+      "desc": "Ehsan is intelligent, sociable, helpful and really good at what he does. We worked together in the front-end team when I started at Bredband2, before I changed to backend. Ehsan is a good influence and will contribute. Since he is helpful, curious and kind, he will make an extra effort to participate and investigate an issue even if it is not his primary responsibility. His cheerful attitude is very valuable since he will uplift others, which in combination with his professional qualities makes him a really great and dedicated colleague. We shared many lunches, laughs and interesting conversations together. I definitely recommend Ehsan for these reasons!"
+    },
+    {
+      "id": 4,
+      "name": "Fredrik Månsson",
+      "title": "System Developer at Bredband2",
+      "img": "img/testimonial/fredrik.jpg",
+      "short": "He has a strong ability to quickly grasp the problems that need to be solved and utilize existing knowledge or gather new information to solve them.",
+      "desc": "Under vår tid som kolleger på Bredband2 har jag fått uppleva Ehsans kunskap i programmering och vilja att ligga i framkanten med ny teknik. Jag har haft äran att jobba tillsammans med Ehsan i både stora och små team och projekt. Han har en bra förmåga att snabbt sätta sig in i problemen som skall lösas och använda befintlig eller samla nya kunskaper för att lösa dessa. Vi har haft många bra stunder där vi har diskuterat programmering och problemlösning, nu senast i ett projekt involverat React och NextJS. Sammanfattningsvis anser jag Ehsan som en mycket skicklig och motiverad programmerare. Hans tekniska expertis, engagemang för självförbättring och anmärkningsvärda lagarbete gör dem till en oumbärlig medlem i alla organisationer. Jag tvivlar inte på att Ehsan kommer att fortsätta att ge betydande bidrag och nå stora framgångar i sina framtida ansträngningar. Skulle inte tveka att ha Ehsan som kollega igen i framtiden."
+    },
+    {
+      "id": 5,
+      "name": "Erfan Shirazi",
+      "title": "CIO at Bredband2",
+      "img": "img/testimonial/erfan.jpg",
+      "short": "He is incredibly competent, knowledgeable, and learns quickly. He is highly regarded by his colleagues and contributes a lot when it comes to various issues related to web development and software engineering in general.",
+      "desc": "Ehsan jobbade som systemutvecklare hos oss på Bredband2 i 3 år, hos oss jobbade han mest med frontend utveckling inom React. Han är otrolig kompetent, kan mycket och lär sig snabbt. Väldigt omtyckt av sina kollegor och har mycket input att komma med när det gäller olika frågor runt webbutveckling och systemutveckling överlag. Jag kan rekommendera Ehsan till det mesta när det kommer till systemutveckling, både backend och frontend. Skulle det vara något han inte kan så kommer han lära sig snabbt. Och han är alltid välkommen tillbaka till oss på Bredband2 i framtiden!"
+    },
+    {
+      "id": 6,
+      "name": "David Szmak",
+      "title": "Front End Developer at Guts & Glory",
+      "img": "img/testimonial/david.jpg",
+      "short": "Few people have the opportunity to code to a Tech Lead Developer who is also a good coach and a great mentor—but I did when I worked with Ehsan.",
+      "desc": "Few people have the opportunity to code to a Tech Lead Developer who is also a good coach and a great mentor—but I did when I worked with Ehsan. I had the pleasure of working with Ehsan in my two interships at the Guts & Glory, we collaborated on many projects. I was particularly impressed by Ehsan´s ability to handle even the toughest projects effortlessly. That skill often takes years to develop among developers professionals, but it seemed to come perfectly naturally to him. And I still miss working with him! As a team member or a leader, Ehsan earns my highest recommendation."
+    },
+    {
+      "id": 7,
+      "name": "Klas Oskarsson",
+      "title": "Account Director",
+      "img": "img/testimonial/klas.jpg",
+      "short": "As the project manager for the award-winning project TOOLPOOL, I have Ehsan to thank for its significant success.",
+      "desc": "Som projektledare för det Guldäggsbelönade projektet TOOLPOOL har jag Ehsan att tacka för att detta blev så pass framgångsrikt. Hela projektet baserades på en (vid det tillfället) ej tillgänglig funktion på Facebook. Ehsan lyckades inte bara skapa denna funktion och därmed säkra hela leveransen, utan var även högst delaktig i att utforma hela den tekniska aspekten av projektet. Hårt slit under stor tidspress och obefintlig budget var inget hinder för Ehsan. Tack!"
+    }
+  ],
+  "stacks": [
+    {
+      "slug": "Front-end",
+      "labels": [
+        "React",
+        "Gatsby",
+        "Next.js",
+        "TypeScript",
+        "Sass"
+      ],
+      "icon": "/img/stacks/front-end.svg",
+      "data": [
+        "10",
+        "10",
+        "8",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "slug": "Backend",
+      "labels": [
+        "Node.js",
+        "PHP",
+        "Ruby on Rails",
+        "Rest API",
+        "GraphQL"
+      ],
+      "icon": "/img/stacks/back-end.svg",
+      "data": [
+        "10",
+        "9",
+        "7",
+        "10",
+        "10"
+      ]
+    },
+    {
+      "slug": "Database",
+      "labels": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Elasticsearch"
+      ],
+      "icon": "/img/stacks/database2.svg",
+      "data": [
+        "10",
+        "7",
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "slug": "Design",
+      "labels": [
+        "UI",
+        "UX",
+        "Adobe XD",
+        "Photoshop",
+        "Motion Graphics"
+      ],
+      "icon": "/img/stacks/design2.svg",
+      "data": [
+        "10",
+        "9",
+        "8",
+        "10",
+        "8"
+      ]
+    },
+    {
+      "slug": "Cloud",
+      "labels": [
+        "AWS API Gateway",
+        "Lambda",
+        "DynamoDB",
+        "S3",
+        "CloudFront"
+      ],
+      "icon": "/img/stacks/cloud.svg",
+      "data": [
+        "9",
+        "7",
+        "7",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "slug": "DevOps",
+      "labels": [
+        "Linux",
+        "Docker",
+        "Nginx",
+        "Shell Script",
+        "Github Actions"
+      ],
+      "icon": "/img/stacks/devop2.svg",
+      "data": [
+        "10",
+        "9",
+        "9",
+        "10",
+        "9"
+      ]
+    },
+    {
+      "slug": "Apps",
+      "labels": [
+        "Electron js",
+        "Typescript",
+        "Tailwind",
+        "Vite",
+        "Reacte Native"
+      ],
+      "icon": "/img/stacks/apps.svg",
+      "data": [
+        "7",
+        "8",
+        "8",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "slug": "Multimedia",
+      "labels": [
+        "Reason Studios",
+        "Cubase",
+        "FFmpeg",
+        "After Effects"
+      ],
+      "icon": "/img/stacks/music.svg",
+      "data": [
+        "10",
+        "9",
+        "7",
+        "5"
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "slug": "Overall",
+      "labels": [
+        "Front-End",
+        "Backend",
+        "Database",
+        "Design",
+        "Cloud",
+        "Devop"
+      ],
+      "data": [
+        "10",
+        "9",
+        "8",
+        "8",
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Introduction to Cybersecurity",
+      "img": "/img/cert/cybersecurity.png",
+      "year": "2022"
+    },
+    {
+      "name": "AWS Cloud Certification",
+      "img": "/img/cert/AWS.png",
+      "year": "2017"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "img": "/img/cert/SFPC.png",
+      "year": "2022"
+    },
+    {
+      "name": "Remote Work and Virtual Collaboration Certificate (RWVCPC)",
+      "img": "/img/cert/RWVCPC.png",
+      "year": "2022"
+    },
+    {
+      "name": "UI Components I: Basic",
+      "img": "/img/cert/ui-basic.png",
+      "year": "2022"
+    },
+    {
+      "name": "UI Components II: Advanced",
+      "img": "/img/cert/ui-adv.png",
+      "year": "2022"
+    },
+    {
+      "name": "Design Composition",
+      "img": "/img/cert/design-composition.png",
+      "year": "2022"
+    },
+    {
+      "name": "Design Accessibility",
+      "img": "/img/cert/accessibility.png",
+      "year": "2022"
+    },
+    {
+      "name": "Advanced Google Analytics",
+      "img": "/img/cert/GAA.png",
+      "year": "2022"
+    },
+    {
+      "name": "Google Tag Manager Fundamentals",
+      "img": "/img/cert/GTM.png",
+      "year": "2022"
+    },
+    {
+      "name": "Google Analytics for Beginners",
+      "img": "/img/cert/GA.png",
+      "year": "2022"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Svenska design",
+      "description": "Gold Category Digital Design",
+      "images": "/img/awards/svenskadesign.png",
+      "link": "portfolio/malmo-saluhall"
+    },
+    {
+      "name": "Cannes lions",
+      "description": "Silver Lion in Promo & Activation, Bronze Lion in Cyber & Shortlist in Media",
+      "images": "/img/awards/cannen.png",
+      "link": "portfolio/toolpool"
+    },
+    {
+      "name": "Guldägget",
+      "description": "Gold Category PR & Silver Categories Digital and Alternative Media",
+      "images": "/img/awards/guldagg.png",
+      "link": "portfolio/toolpool"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Visual Studio Code",
+      "icon": "/img/tools/vscode.svg",
+      "description": "Primary code editor with extensive customization and plugin support",
+      "proficiency": 9
+    },
+    {
+      "name": "Docker",
+      "icon": "/img/tools/docker.svg",
+      "description": "Container platform for consistent development and deployment",
+      "proficiency": 8
+    },
+    {
+      "name": "Git",
+      "icon": "/img/tools/git.svg",
+      "description": "Version control system for code management and collaboration",
+      "proficiency": 9
+    },
+    {
+      "name": "Figma",
+      "icon": "/img/tools/figma.svg",
+      "description": "Design tool for UI/UX prototyping and collaboration",
+      "proficiency": 8
+    },
+    {
+      "name": "Postman",
+      "icon": "/img/tools/postman.svg",
+      "description": "API development and testing platform",
+      "proficiency": 9
+    },
+    {
+      "name": "Terminal",
+      "icon": "/img/tools/terminal.svg",
+      "description": "Command-line interface for system operations and development",
+      "proficiency": 9
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional"
+    },
+    {
+      "name": "Swedish",
+      "proficiency": "Professional"
+    },
+    {
+      "name": "Persian",
+      "proficiency": "Native"
+    }
+  ]
+}

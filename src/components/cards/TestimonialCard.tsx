@@ -2,10 +2,10 @@
 
 import React, { useState } from "react";
 import { Card } from "./Card";
-import { Button } from "./Button";
-import { Badge } from "./Badge";
+import { Button } from "../ui//Button";
+import { Badge } from "../ui/Badge";
 import { Linkedin, Quote } from "lucide-react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../lib/cn";
 
 interface TestimonialCardProps {
   name: string;
@@ -143,7 +143,7 @@ export function TestimonialCard({
       {/* Testimonial Content */}
       <div className="space-y-4">
         <blockquote className="text-foreground font-kabel leading-relaxed">
-          "{isExpanded ? fullTestimonial : shortTestimonial}"
+          {isExpanded ? fullTestimonial : shortTestimonial}
         </blockquote>
 
         {/* Read More/Less Button */}
